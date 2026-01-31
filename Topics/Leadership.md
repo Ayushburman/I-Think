@@ -1,2 +1,4 @@
+# 👥 Leadership Discussions
 
-Leadership.md
+Decision-making, responsibility, influence,
+and teamwork.
