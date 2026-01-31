@@ -8,3 +8,4 @@ A Mini Project based on:
 ✅ Discuss ideas
 ✅ Learn and open mind
 ```
+### [Thinking + Writing + Analysis.]
