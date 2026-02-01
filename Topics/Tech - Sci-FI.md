@@ -9,15 +9,15 @@ Ethics, impact of tech, AI, and digital life.
 # 2. Elon Musk
 ### The mind behind Tesla, SpaceX, SolarCity ... | Elon Musk
 > https://www.youtube.com/watch?v=IgKWPdJWuBQ 
-
+### Elon Musk: The future we're building -- and boring | TED
 > https://www.youtube.com/watch?v=zIwLWfaAg-8
-
+### Elon Musk talks Twitter, Tesla and how his brain works — live at TED2022
 > https://www.youtube.com/watch?v=cdZZpaB2kDM
- 
+### Elon Musk: A future worth getting excited about | Tesla Texas Gigafactory interview | TED
 > https://www.youtube.com/watch?v=YRvf00NooN8
-
+### Elon Musk Answers Your Questions! | SXSW 2018
 > https://www.youtube.com/watch?v=kzlUyrccbos
-
+### Elon Musk on Advertisers, Trust and the “Wild Storm” in His Mind | DealBook Summit 2023
 > https://www.youtube.com/watch?v=2BfMuHDfGJI
 
 > https://www.youtube.com/watch?v=O4wBUysNe2k
