@@ -8,9 +8,10 @@ Ethics, impact of tech, AI, and digital life.
 
 # Elon Musk
 ### 2 The mind behind Tesla, SpaceX, SolarCity ... | Elon Musk
-> https://www.youtube.com/watch?v=IgKWPdJWuBQ
-> https://www.youtube.com/watch?v=zIwLWfaAg-8
-> https://www.youtube.com/watch?v=cdZZpaB2kDM
+> https://www.youtube.com/watch?v=IgKWPdJWuBQ 
 
-# 5 A future worth getting excited about
-https://www.youtube.com/watch?v=YRvf00NooN8
+> https://www.youtube.com/watch?v=zIwLWfaAg-8 
+
+> https://www.youtube.com/watch?v=cdZZpaB2kDM 
+
+> https://www.youtube.com/watch?v=YRvf00NooN8
