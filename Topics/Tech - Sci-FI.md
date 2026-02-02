@@ -31,9 +31,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=8YHBJdPK6eY
 ### AGAINST ALL ODDS - Elon Musk (Motivational Video)
 > https://www.youtube.com/watch?v=k9zTr2MAFRg
-
+### Tesla CEO Elon Musk speaks at the World Economic Forum in Davos, Switzerland — 1/22/2026
 > https://www.youtube.com/watch?v=UrB2tQDVLLo
-> 
 
 
 
