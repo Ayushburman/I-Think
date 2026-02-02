@@ -21,7 +21,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=2BfMuHDfGJI
 ### Joe Rogan Experience #2404 - Elon Musk
 > https://www.youtube.com/watch?v=O4wBUysNe2k
-
+### Joe Rogan Experience #2404 - Elon Musk
 > https://www.youtube.com/watch?v=O4wBUysNe2k
 
 > https://www.youtube.com/watch?v=80I8LbQvHUU
