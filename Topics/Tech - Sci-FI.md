@@ -34,3 +34,8 @@ Ethics, impact of tech, AI, and digital life.
 
 > https://www.youtube.com/watch?v=UrB2tQDVLLo
 > 
+
+
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
