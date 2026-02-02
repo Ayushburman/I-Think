@@ -37,7 +37,8 @@ Ethics, impact of tech, AI, and digital life.
 # 1. Sam Altman
 ### “OpenAI’s Sam Altman talks ChatGPT, AI agents and superintelligence — live at TED2025”
 > https://www.youtube.com/watch?v=5MWT_doo68k
-
+### Sam Altman on the future of AI | ReThinking with Adam Grant
+> https://www.youtube.com/watch?v=c0NqpG--Pzw
 
 
 
