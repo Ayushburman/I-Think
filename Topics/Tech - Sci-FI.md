@@ -25,7 +25,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=O4wBUysNe2k
 ### Elon Musk on Tesla, ‘DOGE’ and Political Spending | The Mishal Husain Show
 > https://www.youtube.com/watch?v=80I8LbQvHUU
-
+### Elon Musk Talks Tesla, Politics and Putin Relationship (Full Interview)
 > https://www.youtube.com/watch?v=gPGZRJDVXcU
 
 > https://www.youtube.com/watch?v=8YHBJdPK6eY
