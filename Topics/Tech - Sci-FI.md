@@ -77,7 +77,8 @@ Ethics, impact of tech, AI, and digital life.
 # 4. Ken Thompson
 ### VCF East: Ken Thompson interviewed by Brian Kernighan
 > https://www.youtube.com/watch?v=EY6q5dv_B-o
-
+### Oral History of Ken Thompson
+> https://www.youtube.com/watch?v=OmVHkL0IWk4
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
