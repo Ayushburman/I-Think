@@ -70,7 +70,12 @@ Ethics, impact of tech, AI, and digital life.
 ### Dennis Ritchie In One Minute
 > https://www.youtube.com/watch?v=K9pXILeqGCk
 ###
-
+> https://www.youtube.com/watch?v=fxFL_BGev8M
+### The Untold story of C
+>
+###
+>
+###
 
 
 > [!CAUTION]
