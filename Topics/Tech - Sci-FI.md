@@ -85,7 +85,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=fL2QwyxcJ5s
 ### Google I/O 2012 - Meet the Go Team
 > https://www.youtube.com/watch?v=sln-gJaURzk
-
+### UNIX was designed for programmers | Brian Kernighan and Lex Fridman
+> https://www.youtube.com/watch?v=v0ON23Y4W68
 
 
 
