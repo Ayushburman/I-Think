@@ -85,7 +85,14 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=fL2QwyxcJ5s
 ### Google I/O 2012 - Meet the Go Team
 > https://www.youtube.com/watch?v=sln-gJaURzk
-
+### UNIX was designed for programmers | Brian Kernighan and Lex Fridman
+> https://www.youtube.com/watch?v=v0ON23Y4W68
+### AT&T Archives: Seeing the Digital Future (1961)
+> https://www.youtube.com/watch?v=avHo0-qU8xo
+### T-Dose 2016, From UNIX to Linux, a time lapse of 45 years, Hendrik Jan Thomassen
+> https://www.youtube.com/watch?v=boahlBmc-NY
+### 
+> https://www.youtube.com/watch?v=p-kWw0UTD2A
 
 
 > [!CAUTION]
