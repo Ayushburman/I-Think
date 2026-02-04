@@ -99,6 +99,7 @@ no link added
 
 Aj91789
 day 1 signal lost
+starship connection retained 
 
 
 
