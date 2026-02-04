@@ -1,4 +1,4 @@
- # 💻 Technology Discussions
+o # 💻 Technology Discussions
 
 Ethics, impact of tech, AI, and digital life.
 
@@ -93,6 +93,12 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=boahlBmc-NY
 ### Japan Price Ceremony for Ken
 > https://www.youtube.com/watch?v=p-kWw0UTD2A
+
+no link added
+> 
+
+
+
 
 
 
