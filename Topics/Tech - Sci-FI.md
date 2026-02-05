@@ -98,8 +98,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=OM6XIICm_qo
 ### Tim Berners-Lee: The year open data went worldwide
 > https://www.youtube.com/watch?v=3YcZ3Zqk0a8
-###
->
+### A Magna Carta for the Web
+> https://www.youtube.com/watch?v=rCplocVemjo
 ###
 >
 
