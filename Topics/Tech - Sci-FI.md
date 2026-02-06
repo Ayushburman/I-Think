@@ -155,8 +155,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=OHK9BdTnBT4
 ### The Internet's Origins and Future | Vint Cerf | TEDxNiendorf
 > https://www.youtube.com/watch?v=1CoHf3NR0xo
-###
->
+### 
+> https://www.youtube.com/watch?v=gZlNNiI-hq0
 ###
 >
 ###
