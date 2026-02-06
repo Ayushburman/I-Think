@@ -155,7 +155,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=OHK9BdTnBT4
 ### The Internet's Origins and Future | Vint Cerf | TEDxNiendorf
 > https://www.youtube.com/watch?v=1CoHf3NR0xo
-### 
+### Internet History part 2: Vint Cerf & Bob Kahn Invent Code of Internet (TCP explained)
 > https://www.youtube.com/watch?v=gZlNNiI-hq0
 ###
 >
