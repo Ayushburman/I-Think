@@ -148,7 +148,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Vint Cerf explains...Who runs the Internet's address book?
 > https://www.youtube.com/watch?v=vd3dH90tdhk
 ### AI, LA the Next Billion Users | Vint Cerf | Talks at Google
-> 
+> https://www.youtube.com/watch?v=DmqLuwcRvMM
 ###
 >
 
