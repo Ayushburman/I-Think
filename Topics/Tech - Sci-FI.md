@@ -165,8 +165,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=F45bQrV1ix0
 ### Do Something: The Vinton G. Cerf Story
 > https://www.youtube.com/watch?v=SCL7e7FUsrc
-###
->
+### Tracking the Internet into the 21st Century with Vint Cerf
+> https://www.youtube.com/watch?v=Hf0rjtnwC9A
 ###
 >
 
