@@ -115,7 +115,12 @@ Ethics, impact of tech, AI, and digital life.
 # 5.Steve Jobs
 ### Steve Jobs - TED - How To Live Before You Die
 > https://www.youtube.com/watch?v=lcZDWo6hiuI
-###
+### Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series
+> https://www.youtube.com/watch?v=Gk-9Fd2mEnI
+
+
+
+
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
