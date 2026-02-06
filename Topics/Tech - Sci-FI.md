@@ -146,6 +146,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Vint Cerf: Re-Thinking the Internet
 > https://www.youtube.com/watch?v=hagxPPoMGjw
 ###
+> https://www.youtube.com/watch?v=vd3dH90tdhk
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
