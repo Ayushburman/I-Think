@@ -123,6 +123,16 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=sJm0P8xpDzA
 ### Steve Jobs in 2010, at D8 Conference (Full Video)
 > https://www.youtube.com/watch?v=i5f8bqYYwps&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&rco=1
+### Steve Jobs The Lost Interview
+> 
+###
+>
+###
+
+
+
+
+
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
