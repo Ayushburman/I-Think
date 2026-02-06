@@ -131,10 +131,10 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=kwkGX-PlTxs&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=5
 ### Steve Jobs and Bill Gates Together at D5 Conference 2007
 > https://www.youtube.com/watch?v=wvhW8cp15tk&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=8
-###
->
-###
-
+### Pixar's Early Days - A Never-Before-Seen Interview With Steve Jobs, 1996
+> https://www.youtube.com/watch?v=R0XmBKsRJF8
+### Steve Jobs Introduces the Macintosh
+> 
 
 
 
