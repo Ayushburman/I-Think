@@ -117,9 +117,9 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=lcZDWo6hiuI
 ### Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series
 > https://www.youtube.com/watch?v=Gk-9Fd2mEnI
-### 
+### Steve Notes
 > https://www.youtube.com/watch?v=t9HmOz8H0qI
-
+### Steve Job's Goodbye Speech
 
 
 > [!CAUTION]
