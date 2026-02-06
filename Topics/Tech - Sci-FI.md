@@ -145,7 +145,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=MjPGPPAUUMM
 ### Vint Cerf: Re-Thinking the Internet
 > https://www.youtube.com/watch?v=hagxPPoMGjw
-###
+### Vint Cerf explains...Who runs the Internet's address book?
 > https://www.youtube.com/watch?v=vd3dH90tdhk
 
 > [!CAUTION]
