@@ -157,8 +157,8 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=1CoHf3NR0xo
 ### Internet History part 2: Vint Cerf & Bob Kahn Invent Code of Internet (TCP explained)
 > https://www.youtube.com/watch?v=gZlNNiI-hq0
-###
->
+### Vint Cerf and the Internet of Shit
+> https://www.youtube.com/watch?v=soV7-gwxarE
 ###
 
 > [!CAUTION]
