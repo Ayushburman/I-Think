@@ -94,7 +94,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Japan Price Ceremony for Ken
 > https://www.youtube.com/watch?v=p-kWw0UTD2A
 --------
-# 1. Tim Berners Lee
+# 4. Tim Berners Lee
 ### Tim Berners-Lee: The next Web of open, linked data
 > https://www.youtube.com/watch?v=OM6XIICm_qo
 ### Tim Berners-Lee: The year open data went worldwide
@@ -111,8 +111,10 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=ixz04XVS4mI
 ### VNR of the 20th anniversary of the World Wide Web 01
 > https://www.youtube.com/watch?v=_IbD96y7xKQ
-###
->
+-------
+# 5.Steve Jobs
+### Steve Jobs - TED - How To Live Before You Die
+> https://www.youtube.com/watch?v=lcZDWo6hiuI
 ###
 
 > [!CAUTION]
