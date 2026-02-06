@@ -126,7 +126,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Steve Jobs The Lost Interview
 > https://www.youtube.com/watch?v=rDqQcmVqAm4&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=2
 ### The Steve Jobs 95 Interview unabridged
->
+> https://www.youtube.com/watch?v=M6Oxl5dAnR0&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=4
 ###
 
 
