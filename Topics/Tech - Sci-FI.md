@@ -169,7 +169,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=Hf0rjtnwC9A
 ###
 > Day 1
-link not added
+
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
