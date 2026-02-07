@@ -168,7 +168,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Tracking the Internet into the 21st Century with Vint Cerf
 > https://www.youtube.com/watch?v=Hf0rjtnwC9A
 ###
-> Day 1
+
 
 
 > [!CAUTION]
