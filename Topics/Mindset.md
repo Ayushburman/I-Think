@@ -13,3 +13,4 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 9. William Osler
 10. Alexandar Fleming 
 11. Frederick Banting
+12. Jonas Salk
