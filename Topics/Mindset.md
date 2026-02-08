@@ -16,3 +16,4 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 12. Jonas Salk
 13. Frederick Banting
 14. Nelson Mandela 
+15. APJ abdul kalam 
