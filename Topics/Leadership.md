@@ -28,6 +28,10 @@ and teamwork.
 > https://youtu.be/-Teez87T0E0?si=G8_xrTFuPE9wMmUp
 
 ### 3. Joseph Stalin 
+> https://youtu.be/5A0BP5VioCA?si=-RNNh-qalwjNVMkK
+
+> 
+> 
 
 
 ### 4. Winston Churchill
