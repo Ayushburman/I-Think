@@ -18,3 +18,4 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 14. Nelson Mandela 
 15. APJ abdul kalam 
 16. Ratan Tata
+17. Oprah Winfrey
