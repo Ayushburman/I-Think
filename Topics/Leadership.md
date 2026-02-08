@@ -15,6 +15,8 @@ and teamwork.
 
 > https://youtu.be/t4YLuk5dXTs?si=H1HSpl8gKF1lYQad
 
+> Cooper Union Address (1860)
+
 ### 3. Joseph Stalin 
 
 
