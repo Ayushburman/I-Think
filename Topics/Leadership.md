@@ -95,6 +95,8 @@ and teamwork.
 ### American Icons: FDR | Full Documentary
 > https://youtu.be/6atOXk7HErk?si=b8VOKFDBF-GOPBO8
 
+### 1982 ABC Documentary: FDR
+> https://youtu.be/2qcVShQK6oM?si=03uEJk6R0aUVc0MN
 
 ### 6. Adolf Hitler 
 
