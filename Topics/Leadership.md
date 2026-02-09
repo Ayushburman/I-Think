@@ -40,8 +40,19 @@ and teamwork.
 ### WE SHALL NEVER SURRENDER
 > https://youtu.be/s_LncVnecLA?si=b8dhGiVXbqe9qmTs
 
-###
+### “Their Finest Hour” 
 > https://youtu.be/6jjhxeHIjvU?si=jSc84GrciqourNi2
+
+### “Be Ye Men of Valour”
+> https://youtu.be/s_jYYl74awM?si=acyH-Mimw-k2oeDk
+
+### 
+> https://youtu.be/5QuSXZTo3Uo?si=92IvPhovyaPVGc2S
+###
+>
+###
+>
+###
 
 
 ### 5. Franklin D Roosevelt 
