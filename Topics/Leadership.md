@@ -89,7 +89,7 @@ and teamwork.
 ### FDR Fireside Chat 6: On Government & Capitalism (1934) 
 > https://youtu.be/90rVhmpGPrU?si=YB8Vk7Q9geD_DLQJ
 
-###
+### FDR’s Life and Presidential Legacy (History Channel) 
 > https://youtu.be/_fwRKlAtPKI?si=r85oBOiLYHRKxkuK
 
  
