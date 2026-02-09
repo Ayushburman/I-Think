@@ -40,6 +40,10 @@ and teamwork.
 ### WE SHALL NEVER SURRENDER
 > https://youtu.be/s_LncVnecLA?si=b8dhGiVXbqe9qmTs
 
+###
+> https://youtu.be/6jjhxeHIjvU?si=jSc84GrciqourNi2
+
+
 ### 5. Franklin D Roosevelt 
 
 ### 6. Adolf Hitler 
