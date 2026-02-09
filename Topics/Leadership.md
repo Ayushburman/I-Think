@@ -98,5 +98,8 @@ and teamwork.
 ### 1982 ABC Documentary: FDR
 > https://youtu.be/2qcVShQK6oM?si=03uEJk6R0aUVc0MN
 
+### Roosevelt Speaking about Nazis & Aid to Britain (1940) 
+> https://youtu.be/AIJm8Hp4Xe0?si=zAleJA8DnAukrpDo
+
 ### 6. Adolf Hitler 
 
