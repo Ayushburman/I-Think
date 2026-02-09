@@ -83,5 +83,11 @@ and teamwork.
 ### FDR’s “Great Arsenal of Democracy” speech 
 > https://youtu.be/rIKMbma6_dc?si=gPyEKML6zxa6PYvw
 
+### FDR Fireside Chat: Progress of the War (1943)
+> https://youtu.be/0tMTP1ZxvXY?si=mGFtDFlKevb8Bmcx
+
+### 
+ 
 
 ### 6. Adolf Hitler 
+
