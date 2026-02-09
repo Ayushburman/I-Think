@@ -52,7 +52,7 @@ and teamwork.
 ### Winston Churchill Addresses the Nation after the Blitz (1941) 
 > https://youtu.be/getugf_i7E0?si=Mb5ATCt5U471m97Y
 
-### 
+### Churchill Speech to US Congress (Dec 1941) 
 > https://youtu.be/PkQ8uFiqx4k?si=PPitiRuPHsKltX4j
 
 ###
