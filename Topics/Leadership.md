@@ -86,7 +86,8 @@ and teamwork.
 ### FDR Fireside Chat: Progress of the War (1943)
 > https://youtu.be/0tMTP1ZxvXY?si=mGFtDFlKevb8Bmcx
 
-### 
+### FDR Fireside Chat 6: On Government & Capitalism (1934) 
+> https://youtu.be/90rVhmpGPrU?si=YB8Vk7Q9geD_DLQJ
  
 
 ### 6. Adolf Hitler 
