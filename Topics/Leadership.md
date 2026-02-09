@@ -55,7 +55,10 @@ and teamwork.
 ### Churchill Speech to US Congress (Dec 1941) 
 > https://youtu.be/PkQ8uFiqx4k?si=PPitiRuPHsKltX4j
 
-###
+### Prime Minister Winston Churchill’s message on VE Day (8 May 1945)
+> https://youtu.be/q_G8YYuk2Zk?si=TKmmryg-RVjwg4Cj
+
+
 
 
 ### 5. Franklin D Roosevelt 
