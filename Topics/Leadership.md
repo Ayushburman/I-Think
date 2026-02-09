@@ -101,5 +101,6 @@ and teamwork.
 ### Roosevelt Speaking about Nazis & Aid to Britain (1940) 
 > https://youtu.be/AIJm8Hp4Xe0?si=zAleJA8DnAukrpDo
 
+------
 ### 6. Adolf Hitler 
 
