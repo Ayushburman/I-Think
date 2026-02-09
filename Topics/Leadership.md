@@ -78,7 +78,10 @@ and teamwork.
 > https://youtu.be/4w4fw3-lM3U?si=AicOKHQKaPYhU9zI
 
 ### Only Thing We Have to Fear Is Fear Itself” – Inaugural Speech (1933) 
-> 
+> https://youtu.be/rIKMbma6_dc?si=gPyEKML6zxa6PYvw
+
+### FDR’s “Great Arsenal of Democracy” speech 
+> https://youtu.be/rIKMbma6_dc?si=gPyEKML6zxa6PYvw
 
 
 ### 6. Adolf Hitler 
