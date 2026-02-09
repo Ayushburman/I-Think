@@ -71,9 +71,14 @@ and teamwork.
 > https://youtu.be/qhv_0RY3lD0?si=OUGtYg2qUDvtRNpw
 
 ## 5. Franklin D Roosevelt 
-### 
+### FDR Declares War on Japan – “Day of Infamy” Speech (Dec 8, 1941)
 > https://youtu.be/lK8gYGg0dkE?si=-DjxG3HkkZUpltL7
 
+### FDR’s Address to Congress (1935 historic footage) 
+> https://youtu.be/4w4fw3-lM3U?si=AicOKHQKaPYhU9zI
+
+###
+> 
 
 
 ### 6. Adolf Hitler 
