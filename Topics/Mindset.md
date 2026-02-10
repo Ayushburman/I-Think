@@ -58,7 +58,15 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 9. Alan Turing
 > https://youtu.be/MidJR581irA?si=cxlWcSaMGaQp60K4
+
 >https://youtu.be/XGqbieVcjPU?si=gY_KRJOA5XmKK1EI
+
+> https://youtu.be/UTmsSG8OW5M?si=9ze1ndXz-MVRqbGt
+
+
+
+
+
 11. Stephen Hawking 
 12. Richard Fynman
 13. William Osler
