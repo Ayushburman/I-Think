@@ -6,6 +6,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 2. Albert Einstein 
 ### 3. madam curie
 > https://youtu.be/7SJsJOQLzz8?si=07361mYM5sqEA2Ab
+> https://youtu.be/Bf7wdUXuG-g?si=bRqDVueXV1VWaGFZ
 
 5. Charles Darwin
 6. Nikola Tesla
