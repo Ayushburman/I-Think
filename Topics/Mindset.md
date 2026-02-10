@@ -21,6 +21,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/3HH_4D1V2rE?si=bQfEL8ZDR5RzT4DI
 
 >https://www.youtube.com/live/5Q49ac4yOv0?si=o96jzuza_k0lb4_1
+>https://youtu.be/Gf6s7tMGrFE?si=5ZwMjQgECDvBmiP0
 
 5. Charles Darwin
 > https://youtu.be/ZtkZMAmgHaU?si=DbOp-dgli-nd415U
