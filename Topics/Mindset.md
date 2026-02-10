@@ -24,6 +24,8 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 5. Charles Darwin
 > https://youtu.be/ZtkZMAmgHaU?si=DbOp-dgli-nd415U
+> https://youtu.be/HmEmWA2SlVc?si=tB8MzMa4FfXBazVK
+> 
    
 7. Nikola Tesla
 8. Alan Turing 
