@@ -56,16 +56,18 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/ecni9SjkWoM?si=hEuPA1--9_BK6_Ub
 
 
-9. Alan Turing 
-10. Stephen Hawking 
-11. Richard Fynman
-12. William Osler
-13. Alexandar Fleming 
-14. Frederick Banting
-15. Jonas Salk
-16. Frederick Banting
-17. Nelson Mandela 
-18. APJ abdul kalam 
-19. Ratan Tata
-20. Oprah Winfrey
+9. Alan Turing
+> https://youtu.be/MidJR581irA?si=cxlWcSaMGaQp60K4
+>
+11. Stephen Hawking 
+12. Richard Fynman
+13. William Osler
+14. Alexandar Fleming 
+15. Frederick Banting
+16. Jonas Salk
+17. Frederick Banting
+18. Nelson Mandela 
+19. APJ abdul kalam 
+20. Ratan Tata
+21. Oprah Winfrey
 18.Jeff Bezos
