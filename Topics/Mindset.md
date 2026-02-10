@@ -26,6 +26,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/ZtkZMAmgHaU?si=DbOp-dgli-nd415U
 > https://youtu.be/HmEmWA2SlVc?si=tB8MzMa4FfXBazVK
 > https://youtu.be/KPh0LOCWT5A?si=2-EgNCzjf1WuSlSc
+> https://youtu.be/UzIZW2m5CfY?si=RwqLZJve6zblej4O
 > 
    
 7. Nikola Tesla
