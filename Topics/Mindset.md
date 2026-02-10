@@ -80,6 +80,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 11. Stephen Hawking
 > https://youtu.be/b-2GV0T5Zpc?si=zWk0s0XqFQq9Vob3
 
+> https://youtu.be/VYxjumUhji0?si=LTx7VJ3XfHnoqM8J
 > 
 
 13. Richard Fynman
