@@ -43,7 +43,11 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 7. Nikola Tesla
 > https://youtu.be/FeUA-0G1p5k?si=PZ-my3ES9Njo_U0W
 
->
+> https://youtu.be/HEH3qLofMaU?si=wYnHiX8SHqACdHBb
+
+> https://youtu.be/tzD8sFvH4PA?si=-2hdMjIYoHR6dB_O
+
+> 
 
 9. Alan Turing 
 10. Stephen Hawking 
