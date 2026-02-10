@@ -4,19 +4,21 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 1. Isaac Newton 
 2. Albert Einstein 
-3. madam curie
-4. Charles Darwin
-5. Nikola Tesla
-6. Alan Turing 
-7. Stephen Hawking 
-8. Richard Fynman
-9. William Osler
-10. Alexandar Fleming 
-11. Frederick Banting
-12. Jonas Salk
-13. Frederick Banting
-14. Nelson Mandela 
-15. APJ abdul kalam 
-16. Ratan Tata
-17. Oprah Winfrey
+### 3. madam curie
+> https://youtu.be/7SJsJOQLzz8?si=07361mYM5sqEA2Ab
+
+5. Charles Darwin
+6. Nikola Tesla
+7. Alan Turing 
+8. Stephen Hawking 
+9. Richard Fynman
+10. William Osler
+11. Alexandar Fleming 
+12. Frederick Banting
+13. Jonas Salk
+14. Frederick Banting
+15. Nelson Mandela 
+16. APJ abdul kalam 
+17. Ratan Tata
+18. Oprah Winfrey
 18.Jeff Bezos
