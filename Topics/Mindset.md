@@ -53,7 +53,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 > https://youtu.be/WzUaxNhKlTo?si=x6c2AQiGBBq6S5or
 
-
+> https://youtu.be/ecni9SjkWoM?si=hEuPA1--9_BK6_Ub
 
 
 9. Alan Turing 
