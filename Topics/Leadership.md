@@ -162,3 +162,8 @@ and teamwork.
 > https://youtu.be/EM9B8Qin9ac?si=n4wBtyRw1PI6xbCa
 
 > https://youtu.be/s_WMnVBjDmw?si=Oi8tQX1m3FoAybFJ
+
+ 
+# APJ Abdul Kalam
+
+> https://youtu.be/9CKCfiX3uO0?si=ZnSi_N6LMsqybRKj
