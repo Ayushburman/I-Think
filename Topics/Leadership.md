@@ -167,3 +167,5 @@ and teamwork.
 # APJ Abdul Kalam
 
 > https://youtu.be/9CKCfiX3uO0?si=ZnSi_N6LMsqybRKj
+
+> https://youtu.be/seve1_ZyqNc?si=tCU3Dq6vO0wJqDDs
