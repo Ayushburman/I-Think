@@ -126,3 +126,7 @@ and teamwork.
 
 ### Barack Obama 
 > https://youtu.be/OFPwDe22CoY?si=Q1x0HyDtz5gqr6YP
+
+> https://youtu.be/MS5UjNKw_1M?si=KMAhSpslptujLcqi
+
+>
