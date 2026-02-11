@@ -121,3 +121,8 @@ and teamwork.
 > https://youtu.be/D164NeKjJjM?si=ltBjxfmYHQ2SId3u
 
 > https://youtu.be/I6eIox2vOiA?si=PMOo0_TdIIIaTJ1q
+-----------------
+# Modern era Leaders 
+
+### Barack Obama 
+> https://youtu.be/OFPwDe22CoY?si=Q1x0HyDtz5gqr6YP
