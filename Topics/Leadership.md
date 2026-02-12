@@ -207,3 +207,9 @@ and teamwork.
 > https://youtu.be/ctAW0NPLgJ4?si=n7ZM2QOtJ0v1sKc9
 
 > https://youtu.be/nGcpKL6VVsA?si=fbP2cmgt__yvu3Sv
+
+----------
+
+# Mahatama Gandhi
+
+> https://youtu.be/ICRIf8eoK10?si=VZ1T20y7aUjR4Uww
