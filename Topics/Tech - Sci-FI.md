@@ -169,7 +169,12 @@ Ethics, impact of tech, AI, and digital life.
 > https://www.youtube.com/watch?v=Hf0rjtnwC9A
 ###
 
+------------
+# Science 
 
+# Gregor Mendel
+
+> https://youtu.be/-0UN-TKNDpA?si=wQyW_KBMsnlFRaQY
 
 > [!CAUTION]
 > This repository is created solely for learning, educational, and entertainment purposes.
