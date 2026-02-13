@@ -273,3 +273,7 @@ and teamwork.
 > https://youtu.be/9Li1VYCYbLQ?si=pNP5tzHvMk1PvZ8I
 
 > https://youtu.be/IQyGLNK-X9Y?si=91QGaP9FarejdxTU
+------
+# Vladimir Putin 
+
+> https://youtu.be/9wcQq2EhFQw?si=r9Yd9hCfgT2S-L17
