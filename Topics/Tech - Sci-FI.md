@@ -188,7 +188,9 @@ Ethics, impact of tech, AI, and digital life.
 
 # Alexander Fleming
 
-> 
+> https://youtu.be/CNbnLgetqHs?si=9tB0VhtOOgScbFIH
+
+
 
 
 
