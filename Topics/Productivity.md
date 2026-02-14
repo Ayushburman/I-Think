@@ -11,4 +11,10 @@ Topics related to time management, habits, focus, and performance.
 
 
 --------
-#Ted
+# Ted
+
+> https://youtu.be/Hu4Yvq-g7_Y?si=ENpkba-l77Evq8Ud
+
+> https://youtu.be/CHxhjDPKfbY?si=mUd9kKS49OY9QemU
+
+> 
