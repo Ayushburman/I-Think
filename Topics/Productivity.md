@@ -8,3 +8,7 @@ Topics related to time management, habits, focus, and performance.
 3. Cal Newport 
 4. james Clear
 5. 
+
+
+--------
+#Ted
