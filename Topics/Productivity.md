@@ -17,4 +17,4 @@ Topics related to time management, habits, focus, and performance.
 
 > https://youtu.be/CHxhjDPKfbY?si=mUd9kKS49OY9QemU
 
-> 
+> https://youtu.be/894jQkeewiU?si=yoVA_b1trhP_Z0S5
