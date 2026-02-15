@@ -314,3 +314,7 @@ and teamwork.
 > https://youtu.be/wQsCSMwjUsY?si=fOI3I6HSVqZPYkF7
 
 > https://youtu.be/HRnBoEcVW9Q?si=2GCIf5fOE_SfYm6x
+------------
+Ted Talk 
+
+# Leadership 
