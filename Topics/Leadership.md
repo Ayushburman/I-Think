@@ -318,3 +318,6 @@ and teamwork.
 Ted Talk 
 
 # Leadership 
+> https://youtu.be/vlpKyLklDDY?si=EgkezSNqo4iPFXEM
+
+>
