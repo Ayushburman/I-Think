@@ -320,4 +320,6 @@ Ted Talk
 # Leadership 
 > https://youtu.be/vlpKyLklDDY?si=EgkezSNqo4iPFXEM
 
->
+> https://youtu.be/aUYSDEYdmzw?si=vOkrEs4H7RPresMl
+
+
