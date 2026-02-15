@@ -95,6 +95,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/DmeOX5Zu36M?si=P3WW4h-wdOr1hR1a
 > https://youtu.be/zXCiv4sc5eY?si=dKiR8WGYsIPfLAdo
 > https://youtu.be/F8b9Ev2Ph5c?si=oaoG9cG3en4rCPs7
+> https://youtu.be/vo_lZiytsMw?si=mpaBrOW2aw0xWrpU
 > 
 
 13. Richard Fynman
