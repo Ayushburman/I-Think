@@ -194,6 +194,8 @@ Ethics, impact of tech, AI, and digital life.
 
 > https://youtu.be/y6084NqO_Sw?si=HEoc3EldBgJOa1_j
 
+------------
+# Ted
 
 
 
