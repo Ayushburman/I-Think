@@ -211,7 +211,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://youtu.be/g2pVB9Ci5pI?si=qk4O34rC9iDg7TJz
 > https://youtu.be/A3WrAEm3PXU?si=FYgBVT1GDFRcvmAe
 > https://youtu.be/MA-uwhr50FU?si=xpneWWfyiySm1XVJ
-> 
+> https://youtu.be/iz7diOuaTos?si=UyRHCPTw8F2tGc3x
 
 
 
