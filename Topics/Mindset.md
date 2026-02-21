@@ -151,6 +151,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 15. William Osler
 > https://youtu.be/TTOkGH9dUnY?si=11zbxGxP0SxyGYOq
 
+> https://youtu.be/xzD1_r4CDdY?si=YAzF5674xR8ovLl9
 
 17. Alexandar Fleming 
 18. Frederick Banting
