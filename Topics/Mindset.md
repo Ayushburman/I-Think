@@ -109,13 +109,15 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 
 13. Richard Fynman
-14. William Osler
-15. Alexandar Fleming 
-16. Frederick Banting
-17. Jonas Salk
-18. Frederick Banting
-19. Nelson Mandela 
-20. APJ abdul kalam 
-21. Ratan Tata
-22. Oprah Winfrey
+> https://youtu.be/lytxafTXg6c?si=oPD4YheMbpO8wkIf
+
+15. William Osler
+16. Alexandar Fleming 
+17. Frederick Banting
+18. Jonas Salk
+19. Frederick Banting
+20. Nelson Mandela 
+21. APJ abdul kalam 
+22. Ratan Tata
+23. Oprah Winfrey
 18.Jeff Bezos
