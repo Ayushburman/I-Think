@@ -72,12 +72,8 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/qn_BBQEjCxI?si=9s2dvmBC9Dp8HxZE
 
 > https://youtu.be/X_Hp1Ut6HZo?si=JB9VK9NE-eEV5s_n
-
-> 
-
-
-
-11. Stephen Hawking
+-------------------------
+## 11. Stephen Hawking
 > https://youtu.be/b-2GV0T5Zpc?si=zWk0s0XqFQq9Vob3
 
 > https://youtu.be/VYxjumUhji0?si=LTx7VJ3XfHnoqM8J
