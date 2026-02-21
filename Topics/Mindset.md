@@ -121,7 +121,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 > https://youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2&si=JOQkntBn2W6WKYii
 
-
+> https://youtu.be/Si6NbKqYEd8?si=1u6sethQXUZQ3bGo
 
 
 15. William Osler
