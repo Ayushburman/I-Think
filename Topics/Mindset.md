@@ -111,6 +111,8 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 13. Richard Fynman
 > https://youtu.be/lytxafTXg6c?si=oPD4YheMbpO8wkIf
 
+> https://youtu.be/P1ww1IXRfTA?si=i1Tzsv-5VlHoFNbm
+
 15. William Osler
 16. Alexandar Fleming 
 17. Frederick Banting
