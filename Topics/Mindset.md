@@ -155,6 +155,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 > https://youtu.be/jj66VqVM73w?si=tnf3-L5djw59AL-z
 
+> https://youtu.be/RFLiD_cesM0?si=PycX9ONd0qM7-4EG
 
 17. Alexandar Fleming 
 18. Frederick Banting
