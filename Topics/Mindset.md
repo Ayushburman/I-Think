@@ -174,7 +174,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 > https://youtu.be/PoRXqyItDFE?si=Rmv168vqrXm6xSmj
 
-
+> https://youtu.be/tv_JY3Am9xA?si=hNZ64Rtn46b19Bxt
 
 
 18. Frederick Banting
