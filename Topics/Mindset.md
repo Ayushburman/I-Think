@@ -217,12 +217,20 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/FfMgBnvK_xY?si=_JywXldikNfWxoJk
 
 
+# 20. Jonas Salk
+> https://youtu.be/erHXKP386Nk?si=1ZbLdQ_ISQLKqPuU
 
 
 
 
 
-20. Jonas Salk
+
+
+
+
+
+
+
 21. Frederick Banting
 22. Nelson Mandela 
 23. APJ abdul kalam 
