@@ -162,7 +162,9 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 # 17. Alexandar Fleming
 > https://youtu.be/CNbnLgetqHs?si=7rJy5qjt84lVynXK
 
-> 
+> https://youtu.be/0ZWjzcsTd5M?si=dTqWy-ZBmExpLtdE
+
+
 
 
 
