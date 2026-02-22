@@ -194,12 +194,15 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 -------------------------
 
+# 18. Frederick Banting
+> https://youtu.be/amCeBhkNo50?si=imMfcap5hc48YZ3z
 
-18. Frederick Banting
-19. Jonas Salk
-20. Frederick Banting
-21. Nelson Mandela 
-22. APJ abdul kalam 
-23. Ratan Tata
-24. Oprah Winfrey
+
+
+20. Jonas Salk
+21. Frederick Banting
+22. Nelson Mandela 
+23. APJ abdul kalam 
+24. Ratan Tata
+25. Oprah Winfrey
 18.Jeff Bezos
