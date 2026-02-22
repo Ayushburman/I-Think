@@ -199,6 +199,18 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 > https://youtu.be/PfaQp5xN7fY?si=vBDRILBkAZnWOz8d
 
+> https://youtu.be/7yNYYyhI5tY?si=pR49-0UTCBFwVcyW
+
+> https://youtu.be/7yNYYyhI5tY?si=BE18BExhT5G-e3YV
+
+
+
+
+
+
+
+
+
 
 20. Jonas Salk
 21. Frederick Banting
