@@ -210,6 +210,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/WnME08SiJ0k?si=6-zJJe0UvOCXD-i2
 
 
+> https://youtu.be/kVG7xlY7xVg?si=NkkFld6-_gWI4KGs
 
 
 20. Jonas Salk
