@@ -230,8 +230,9 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 21. Frederick Banting
     
-23. Nelson Mandela 
-24. APJ abdul kalam 
-25. Ratan Tata
-26. Oprah Winfrey
+23. Nelson Mandela
+    
+25. APJ abdul kalam 
+26. Ratan Tata
+27. Oprah Winfrey
 18.Jeff Bezos
