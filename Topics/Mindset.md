@@ -231,7 +231,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > 
 >
 >
-
+> 
 
 
 21. Frederick Banting
