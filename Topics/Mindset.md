@@ -237,4 +237,5 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 27. Ratan Tata
    
 29. Oprah Winfrey
+   
 18.Jeff Bezos
