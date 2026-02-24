@@ -240,6 +240,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/6D2YSOGpen0?si=PwJWluzjllYPkD2r
 > https://youtu.be/Kt6Eg-UgurI?si=vc7KVRUZIHcq0mWW
 > https://youtu.be/0Abqg7iNab8?si=XMv5obDPOv2-VHE6
+> https://youtu.be/Rk-Lxgp9NWg?si=Cg9O6xKC2rWW6wtl
 > 
 25. APJ abdul kalam
    
