@@ -229,7 +229,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 23. Nelson Mandela
 
 > https://youtu.be/4GkwO6w7WOQ?si=jfGrYf2IvLrs_99F
-> 
+> https://youtu.be/pJiXu4q__VU?si=LP2rBBSC7SZzoh85
     
 25. APJ abdul kalam
    
