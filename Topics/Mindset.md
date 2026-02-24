@@ -242,6 +242,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/0Abqg7iNab8?si=XMv5obDPOv2-VHE6
 > https://youtu.be/Rk-Lxgp9NWg?si=Cg9O6xKC2rWW6wtl
 > https://youtu.be/3_ziO1gFOsQ?si=I0FOvs6A9nx_q80x
+> https://youtu.be/PyfOrbO0xf4?si=MnwXzwzNBVW9Ke_i
 25. APJ abdul kalam
    
 27. Ratan Tata
