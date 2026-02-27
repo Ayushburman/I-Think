@@ -330,6 +330,6 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 # 29. Oprah Winfrey
 
-> 
+> https://youtu.be/RLTgnOuYb6o?si=eC9DJApGFF0mg5l9
    
 18.Jeff Bezos
