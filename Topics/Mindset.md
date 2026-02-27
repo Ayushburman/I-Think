@@ -331,9 +331,10 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 # 29. Oprah Winfrey
 
 > https://youtu.be/RLTgnOuYb6o?si=eC9DJApGFF0mg5l9
-> https://youtu.be/GMWFieBGR7c?si=P9wRQjDeuYSoo2YX
+
+> https://youtu.be/GMWFieB.nbGR7c?si=P9wRQjDeuYSoo2YX
 > https://youtu.be/v7_4_UJCuIU?si=VycGYWt_Y4vCvrNK
-> https://youtu.be/ZaHlXVQcRFI?si=MByPyjEviM6cBFD8
+> https://youtu.be/ZaHlXVQcRFI?si=MByPyjEviM6cBFD86h
 > https://youtu.be/LkSgxuQrYwY?si=FeA3Rxa6rIAgPtl7
 > https://youtu.be/6DlrqeWrczs?si=68nGnNazR8yebTeo
 > https://youtu.be/8_JGarGAPg4?si=O7A2Jru-gPf0NL4n
