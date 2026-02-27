@@ -326,10 +326,10 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/J7wX31ArC08?si=ENON6MB43p_qqGls
 > https://youtu.be/7-ZbWV61uMs?si=MgPV_xef1pe-zWeG
 > https://youtu.be/mNrGif-TJ3E?si=aVXMPmciCboPV-RI
+--------------------
 
+# 29. Oprah Winfrey
 
-
-
-29. Oprah Winfrey
+> 
    
 18.Jeff Bezos
