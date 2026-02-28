@@ -357,9 +357,10 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/cGf85-bQmEQ?si=k1NLgr59xh9y-glP
 
 
-
+--------
 
 
 
 18.Jeff Bezos
 > 
+-----
