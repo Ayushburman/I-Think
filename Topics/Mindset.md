@@ -373,3 +373,5 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/rsuqSn7ifpU?si=dJhuPa4p04MuQ219
 > https://youtu.be/zN1PyNwjHpc?si=xz0Zr5TYfoDt5n1c
 > https://youtu.be/G-0KJF3uLP8?si=Xo8GWOyGodyOawXK
+> https://youtu.be/7TWKKww-F30?si=i4wyxERX_hayek7n
+> 
