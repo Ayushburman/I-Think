@@ -74,3 +74,5 @@ Topics related to time management, habits, focus, and performance.
 
 -----------
 # Tim Cook
+
+> https://youtu.be/38XMIMrIg_g?si=IA84x7YIavRiZvtQ
