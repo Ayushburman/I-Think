@@ -16,7 +16,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/3tX6pBqP_KY?si=WdL6beCY3go89Gyr
 
 > https://youtu.be/VnVVuLIoSWI?si=EJ5wLLHEo8gzOwbo
-> 
+
 > https://youtu.be/906UAkNFs90?si=LFvv1dELwsBFRxw5
 
 ### 3. madam curie
