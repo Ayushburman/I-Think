@@ -10,6 +10,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 
 ## 3. Albert Einstein 
 > https://youtu.be/0zk-NVPYPWk?si=Ghfl04gFIQQJQhd8
+
 > https://youtu.be/KyjQJBDD5V4?si=dU10xmsgdXSXH9X5
 > https://youtu.be/3tX6pBqP_KY?si=WdL6beCY3go89Gyr
 > https://youtu.be/VnVVuLIoSWI?si=EJ5wLLHEo8gzOwbo
