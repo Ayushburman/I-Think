@@ -8,7 +8,7 @@ Topics related to thinking patterns, motivation, resilience, and growth.
 > https://youtu.be/RanLCsiBoYw?si=hAnsmC9dHlX5uhiX
 
 
-# 3. Albert Einstein 
+## 3. Albert Einstein 
 
 ### 3. madam curie
 > https://youtu.be/7SJsJOQLzz8?si=07361mYM5sqEA2Ab
