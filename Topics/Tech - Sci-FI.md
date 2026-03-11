@@ -225,7 +225,7 @@ Ethics, impact of tech, AI, and digital life.
 ### What If a Simple Blood Test Could Detect Cancer? | Hani Goodarzi | TED
 > https://youtu.be/A3WrAEm3PXU?si=FYgBVT1GDFRcvmAe
 
-### 
+### What If a Simple Blood Test Could Detect Cancer? | Hani Goodarzi | TED
 > https://youtu.be/MA-uwhr50FU?si=xpneWWfyiySm1XVJ
 
 
