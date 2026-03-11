@@ -173,7 +173,7 @@ Ethics, impact of tech, AI, and digital life.
 # Science 
 
 # Gregor Mendel
-
+###  Let's Talk About Gregor Mendel
 > https://youtu.be/-0UN-TKNDpA?si=wQyW_KBMsnlFRaQY
 
 > https://youtu.be/GTiOETaZg4w?si=DoX0U4NOaub3_8Vy
