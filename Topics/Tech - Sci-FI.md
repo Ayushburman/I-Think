@@ -201,10 +201,10 @@ Ethics, impact of tech, AI, and digital life.
 ### With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED
 > https://youtu.be/y8NtMZ7VGmU?si=JTWVDy_ldPe4eWbg
 
-### 
+### Welcome to the World of Audio Computers | Jason Rugolo | TED
 > https://youtu.be/L61Kbo3y218?si=mB4zbRkrpJtNNFf0
 
-
+### 
 > https://youtu.be/0_M_syPuFos?si=CwHunloZZ5y1k8lH
 
 > https://youtu.be/y8NtMZ7VGmU?si=NCHKKEyrqvE5DPbo
