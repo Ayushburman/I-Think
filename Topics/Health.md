@@ -4,7 +4,7 @@
 > https://youtu.be/LpSDuDIaBGk?si=VRb09ZzE5b3N9rrn
 ### Food for thought: How your belly controls your brain | Ruairi Robertson | TEDxFulbrightSantaMonica
 > https://youtu.be/awtmTJW9ic8?si=riDV-UKYsrdLRxvG
-
+### Healthcare: is it a right or a luxury? | Tarik Sammour | TEDxAdelaide
 > https://youtu.be/jCVmY1iOJQs?si=YKF0-ie_tfXDK0TR
 
 > https://youtu.be/gaY4m00wXpw?si=gPLv8S37NYl9KT7
