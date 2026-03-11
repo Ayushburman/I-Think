@@ -175,7 +175,7 @@ Ethics, impact of tech, AI, and digital life.
 # Gregor Mendel
 ###  Let's Talk About Gregor Mendel
 > https://youtu.be/-0UN-TKNDpA?si=wQyW_KBMsnlFRaQY
-
+###  The Man Who Discovered Dominant & Recessive Genes: Meet Gregor Mendel
 > https://youtu.be/GTiOETaZg4w?si=DoX0U4NOaub3_8Vy
 
 > https://youtu.be/Mehz7tCxjSE?si=6prWGzZtQwkBiHoZ
