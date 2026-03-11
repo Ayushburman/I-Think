@@ -30,7 +30,7 @@
 > https://youtu.be/Gg6ct9N1vfQ?si=6lV5WyVM6ochwh1P
 ### The Exercise Happiness Paradox | Chris Wharton | TEDxSevenoaks
 > https://youtu.be/8so1WZ4j1oQ?si=PJBFfPRnvFDTP3S9
-
+### Training for longevity. Die young as late as possible. | Michal Vrátný | TEDxUNYP
 > https://youtu.be/AVKwxi0SExw?si=HzvJNlxoh15E2FQA
 
 > https://youtu.be/LkXwfTsqQgQ?si=KpzbC7zeC1_vIDAk
