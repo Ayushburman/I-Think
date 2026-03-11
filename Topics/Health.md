@@ -18,7 +18,7 @@
 > https://youtu.be/7ZsyYCZB3Nw?si=Zlsa4nmU0oSUAGO5
 ### What really matters at the end of life | BJ Miller | TED
 > https://youtu.be/apbSsILLh28?si=3I1FGDJIqFQO8WR4
-
+### Consciousness -- the final frontier | Dada Gunamuktananda | TEDxNoosa 2014
 > https://youtu.be/lo0X2ZdElQ4?si=Zr0YGxLZuPYtQzMa
 
 > https://youtu.be/lo0X2ZdElQ4?si=Zr0YGxLZuPYtQzMa
