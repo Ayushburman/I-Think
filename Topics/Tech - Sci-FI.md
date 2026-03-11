@@ -207,6 +207,7 @@ Ethics, impact of tech, AI, and digital life.
 ### How AI Is Unlocking the Secrets of Nature and the Universe | Demis Hassabis | TED
 > https://youtu.be/0_M_syPuFos?si=CwHunloZZ5y1k8lH
 
+### Welcome to the World of Audio Computers | Jason Rugolo | TED
 > https://youtu.be/L61Kbo3y218?si=1dz-RJjqb4vEYW-M
 
 > https://youtu.be/0_M_syPuFos?si=KgNzqAg-gekwd5eJ
