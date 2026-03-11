@@ -26,7 +26,7 @@
 > https://youtu.be/UjGMiChiUFc?si=NCj3ldwBLbVb-NB3
 ### Power of Fitness | Vincent Lam | TEDxRanneySchool
 > https://youtu.be/37UhELFvPec?si=JH1WwgrxuYJlxG1g
-
+### The Power of Reframing Exercise as Self-Care | Mike Stanlaw | TEDxBayonne
 > https://youtu.be/Gg6ct9N1vfQ?si=6lV5WyVM6ochwh1P
 
 > https://youtu.be/8so1WZ4j1oQ?si=PJBFfPRnvFDTP3S9
