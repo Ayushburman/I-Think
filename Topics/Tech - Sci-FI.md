@@ -221,10 +221,11 @@ Ethics, impact of tech, AI, and digital life.
 
 ### What’s the Point of Digital Fashion? | Karinna Grant | TED
 > https://youtu.be/g2pVB9Ci5pI?si=VjQhawYnSMg6Suqa
-### 
+
+### What If a Simple Blood Test Could Detect Cancer? | Hani Goodarzi | TED
 > https://youtu.be/A3WrAEm3PXU?si=FYgBVT1GDFRcvmAe
 
-
+### 
 > https://youtu.be/MA-uwhr50FU?si=xpneWWfyiySm1XVJ
 
 
