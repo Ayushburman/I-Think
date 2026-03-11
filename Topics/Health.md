@@ -16,7 +16,7 @@
 > https://youtu.be/esPRsT-lmw8?si=5BfUfdpMVQscuvtX
 ### How AI can heal healthcare | Edmund Jackson | TEDxNashville
 > https://youtu.be/7ZsyYCZB3Nw?si=Zlsa4nmU0oSUAGO5
-
+### What really matters at the end of life | BJ Miller | TED
 > https://youtu.be/apbSsILLh28?si=3I1FGDJIqFQO8WR4
 
 > https://youtu.be/lo0X2ZdElQ4?si=Zr0YGxLZuPYtQzMa
