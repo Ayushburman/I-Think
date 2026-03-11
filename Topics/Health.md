@@ -32,7 +32,7 @@
 > https://youtu.be/8so1WZ4j1oQ?si=PJBFfPRnvFDTP3S9
 ### Training for longevity. Die young as late as possible. | Michal Vrátný | TEDxUNYP
 > https://youtu.be/AVKwxi0SExw?si=HzvJNlxoh15E2FQA
-
+### Muscle matters: Dr Brendan Egan at TEDxUCD
 > https://youtu.be/LkXwfTsqQgQ?si=KpzbC7zeC1_vIDAk
 
 > https://youtu.be/K60xHx836T0?si=Blt86MHrZOKqbZgc
