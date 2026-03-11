@@ -185,7 +185,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://youtu.be/7r__R9-eDJE?si=QTqux9xyos9XiZxM
 ### Gregor Mendel - Scientist | Mini Bio | BIO
 > https://youtu.be/QmSJGhPTB5E?si=nrjZjTJUkFCXVR8g
-
+-------
 # Alexander Fleming
 
 > https://youtu.be/CNbnLgetqHs?si=9tB0VhtOOgScbFIH
