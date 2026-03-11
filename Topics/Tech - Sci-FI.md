@@ -210,6 +210,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Welcome to the World of Audio Computers | Jason Rugolo | TED
 > https://youtu.be/L61Kbo3y218?si=1dz-RJjqb4vEYW-M
 
+### What Is an AI Anyway? | Mustafa Suleyman | TED
 > https://youtu.be/KKNCiRWd_j0?si=TofdYtkjENHjiZoi
 
 > https://youtu.be/QOCZYRXL0AQ?si=nEHcy8-UKMnGrlql
