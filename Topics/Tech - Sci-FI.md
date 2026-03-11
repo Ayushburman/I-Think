@@ -219,6 +219,7 @@ Ethics, impact of tech, AI, and digital life.
 ### Why Don’t We Have Better Robots Yet? | Ken Goldberg | TED
 > https://youtu.be/cUdl-Cp-LWw?si=SzfADt1ybEIFeBhL
 
+### What’s the Point of Digital Fashion? | Karinna Grant | TED
 > https://youtu.be/g2pVB9Ci5pI?si=VjQhawYnSMg6Suqa
 
 > https://youtu.be/g2pVB9Ci5pI?si=qk4O34rC9iDg7TJz
