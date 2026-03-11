@@ -196,7 +196,6 @@ Ethics, impact of tech, AI, and digital life.
 
 ------------
 # Ted
-<img width="827" height="505" alt="image" src="https://github.com/user-attachments/assets/caac6dc9-83e0-4e47-97ea-7fbbade59e37" />
 
 ### With Spatial Intelligence, AI Will Understand the Real World | Fei-Fei Li | TED
 > https://youtu.be/y8NtMZ7VGmU?si=JTWVDy_ldPe4eWbg
