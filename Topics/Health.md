@@ -8,7 +8,7 @@
 > https://youtu.be/jCVmY1iOJQs?si=YKF0-ie_tfXDK0TR
 ### How to make diseases disappear | Rangan Chatterjee | TEDxLiverpool
 > https://youtu.be/gaY4m00wXpw?si=gPLv8S37NYl9KT7
-
+### Healthy skin starts from within | Barbara Paldus | TEDxPrague
 > https://youtu.be/rXNt_X5F67I?si=sHbwwxptyV-qAq
 
 > https://youtu.be/B9RruLkAUm8?si=VjyjfRUZtdmDYT_z
