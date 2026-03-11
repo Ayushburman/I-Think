@@ -28,7 +28,7 @@
 > https://youtu.be/37UhELFvPec?si=JH1WwgrxuYJlxG1g
 ### The Power of Reframing Exercise as Self-Care | Mike Stanlaw | TEDxBayonne
 > https://youtu.be/Gg6ct9N1vfQ?si=6lV5WyVM6ochwh1P
-
+### The Exercise Happiness Paradox | Chris Wharton | TEDxSevenoaks
 > https://youtu.be/8so1WZ4j1oQ?si=PJBFfPRnvFDTP3S9
 
 > https://youtu.be/AVKwxi0SExw?si=HzvJNlxoh15E2FQA
