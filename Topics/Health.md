@@ -6,7 +6,7 @@
 > https://youtu.be/awtmTJW9ic8?si=riDV-UKYsrdLRxvG
 ### Healthcare: is it a right or a luxury? | Tarik Sammour | TEDxAdelaide
 > https://youtu.be/jCVmY1iOJQs?si=YKF0-ie_tfXDK0TR
-
+### How to make diseases disappear | Rangan Chatterjee | TEDxLiverpool
 > https://youtu.be/gaY4m00wXpw?si=gPLv8S37NYl9KT7
 
 > https://youtu.be/rXNt_X5F67I?si=sHbwwxptyV-qAq
