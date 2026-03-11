@@ -179,7 +179,7 @@ Ethics, impact of tech, AI, and digital life.
 > https://youtu.be/GTiOETaZg4w?si=DoX0U4NOaub3_8Vy
 ### How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz
 > https://youtu.be/Mehz7tCxjSE?si=6prWGzZtQwkBiHoZ
-
+### Gregor Mendel: The Father of Genetics
 > https://youtu.be/fNprOzx1bZ4?si=HolucZEMtuVPgRpf
 
 > https://youtu.be/7r__R9-eDJE?si=QTqux9xyos9XiZxM
