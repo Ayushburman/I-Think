@@ -14,7 +14,7 @@
 > https://youtu.be/B9RruLkAUm8?si=VjyjfRUZtdmDYT_z
 ### The most important lesson from 83,000 brain scans | Daniel Amen | TEDxOrangeCoast
 > https://youtu.be/esPRsT-lmw8?si=5BfUfdpMVQscuvtX
-
+### How AI can heal healthcare | Edmund Jackson | TEDxNashville
 > https://youtu.be/7ZsyYCZB3Nw?si=Zlsa4nmU0oSUAGO5
 
 > https://youtu.be/apbSsILLh28?si=3I1FGDJIqFQO8WR4
