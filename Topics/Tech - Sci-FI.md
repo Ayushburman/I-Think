@@ -213,6 +213,7 @@ Ethics, impact of tech, AI, and digital life.
 ### What Is an AI Anyway? | Mustafa Suleyman | TED
 > https://youtu.be/KKNCiRWd_j0?si=TofdYtkjENHjiZoi
 
+### How AI Will Step Off the Screen and into the Real World | Daniela Rus | TED
 > https://youtu.be/QOCZYRXL0AQ?si=nEHcy8-UKMnGrlql
 
 > https://youtu.be/QOCZYRXL0AQ?si=4FlVM23GZMcJikK1
