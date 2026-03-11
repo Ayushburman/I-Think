@@ -228,7 +228,7 @@ Ethics, impact of tech, AI, and digital life.
 ### What If a Simple Blood Test Could Detect Cancer? | Hani Goodarzi | TED
 > https://youtu.be/MA-uwhr50FU?si=xpneWWfyiySm1XVJ
 
-
+### How AI Art Could Enhance Humanity’s Collective Memory | Refik Anadol | TED
 > https://youtu.be/iz7diOuaTos?si=UyRHCPTw8F2tGc3x
 
 
