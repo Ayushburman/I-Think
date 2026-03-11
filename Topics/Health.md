@@ -20,9 +20,8 @@
 > https://youtu.be/apbSsILLh28?si=3I1FGDJIqFQO8WR4
 ### Consciousness -- the final frontier | Dada Gunamuktananda | TEDxNoosa 2014
 > https://youtu.be/lo0X2ZdElQ4?si=Zr0YGxLZuPYtQzMa
-
-> https://youtu.be/lo0X2ZdElQ4?si=Zr0YGxLZuPYtQzMa
-https://youtu.be/8jPQjjsBbIc?si=bliCF59MiBwkR0V6
+### How to stay calm when you know you'll be stressed | Daniel Levitin | TED
+> https://youtu.be/8jPQjjsBbIc?si=bliCF59MiBwkR0V6
 
 > https://youtu.be/UjGMiChiUFc?si=NCj3ldwBLbVb-NB3
 
