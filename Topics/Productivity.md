@@ -251,4 +251,8 @@ Focus without distraction = rare skill.
 24. **Thinking Fast and Slow**  
    https://www.amazon.in/dp/0141033576
 
-   
+
+25. **Range**  
+   https://www.amazon.in/dp/0735214484
+
+
