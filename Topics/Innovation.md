@@ -38,4 +38,5 @@
 3. Creative Confidence — Tom Kelley & David Kelley
 4. The Innovator’s Dilemma — Clayton Christensen
 5. Sprint — Jake Knapp
-6. 
+6. The Innovator’s DNA — Jeffrey Dyer
+7. 
