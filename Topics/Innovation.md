@@ -47,4 +47,4 @@
 12. Innovation and Entrepreneurship — Peter F. Drucker
 13. The Myths of Innovation — Scott Berkun
 14. The Art of Innovation — Tom Kelley
-15. 
+15. The Ten Faces of Innovation — Tom Kelley
