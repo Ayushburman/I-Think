@@ -43,4 +43,5 @@
 8. A Whack on the Side of the Head — Roger von Oech
 9. How to Fly a Horse — Kevin Ashton
 10. Alchemy — Rory Sutherland
-11. 
+11. Blue Ocean Strategy — W. Chan Kim & Renée Mauborgne
+12. 
