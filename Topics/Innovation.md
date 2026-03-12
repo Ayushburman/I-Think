@@ -46,4 +46,5 @@
 11. Blue Ocean Strategy — W. Chan Kim & Renée Mauborgne
 12. Innovation and Entrepreneurship — Peter F. Drucker
 13. The Myths of Innovation — Scott Berkun
-14. 
+14. The Art of Innovation — Tom Kelley
+15. 
