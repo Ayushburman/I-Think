@@ -266,3 +266,6 @@ Focus without distraction = rare skill.
 
 # 🧠 Tier 6 — Strategic Productivity
 
+28. **Designing Your Life**  
+   https://www.amazon.in/dp/1101875321 
+   
