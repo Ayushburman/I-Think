@@ -44,4 +44,5 @@
 9. How to Fly a Horse — Kevin Ashton
 10. Alchemy — Rory Sutherland
 11. Blue Ocean Strategy — W. Chan Kim & Renée Mauborgne
-12. 
+12. Innovation and Entrepreneurship — Peter F. Drucker
+13. 
