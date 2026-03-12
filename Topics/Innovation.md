@@ -31,3 +31,7 @@
 
 
 ------
+
+
+1. Zero to One — Peter Thiel
+2. 
