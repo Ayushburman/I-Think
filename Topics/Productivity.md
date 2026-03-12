@@ -143,5 +143,11 @@ Focus without distraction = rare skill.
    Do less but better.  
    https://www.amazon.in/dp/0804137382
 
-   
+
+**The 7 Habits of Highly Effective People**  
+   One of the most influential productivity frameworks.  
+   https://www.amazon.in/dp/1982137274  
+
+
+
    
