@@ -262,4 +262,7 @@ Focus without distraction = rare skill.
 27. **Mindset**  
    https://www.amazon.in/dp/0345472322
 
-   
+
+
+# 🧠 Tier 6 — Strategic Productivity
+
