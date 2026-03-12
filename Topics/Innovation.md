@@ -40,4 +40,5 @@
 5. Sprint — Jake Knapp
 6. The Innovator’s DNA — Jeffrey Dyer
 7. The Idea Factory — Jon Gertner
-8. 
+8. A Whack on the Side of the Head — Roger von Oech
+9. 
