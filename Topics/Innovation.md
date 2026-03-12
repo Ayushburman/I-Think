@@ -35,4 +35,5 @@
 
 1. Zero to One — Peter Thiel
 2. Where Good Ideas Come From — Steven Johnson
-3. 
+3. Creative Confidence — Tom Kelley & David Kelley
+4. 
