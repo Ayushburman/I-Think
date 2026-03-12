@@ -51,4 +51,5 @@
 16. Business Model Generation — Alexander Osterwalder
 17. Steal Like an Artist — Austin Kleon
 18. How to Get Ideas — Jack Foster
-19. 
+19. Play Bigger — Al Ramadan
+20. 
