@@ -269,3 +269,10 @@ Focus without distraction = rare skill.
 28. **Designing Your Life**  
    https://www.amazon.in/dp/1101875321 
    
+
+
+29. **Smarter Faster Better**  
+   https://www.amazon.in/dp/0812983599  
+
+
+   
