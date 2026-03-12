@@ -34,4 +34,5 @@
 
 
 1. Zero to One — Peter Thiel
-2. 
+2. Where Good Ideas Come From — Steven Johnson
+3. 
