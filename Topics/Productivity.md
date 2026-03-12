@@ -110,30 +110,26 @@ Topics related to time management, habits, focus, and performance.
 > https://youtu.be/XoEWh7Za9C8?si=FihMRJeyOxRsjaAr
 -----------
 
-# TIER 1 BOOKS FOR PRODUCTIVITY 
+# 📚 33 Best Productivity Books
 
-### 1. **Atomic Habits**  
-Tiny habits compound into massive change
-> https://www.amazon.in/dp/0735211299
+A curated list of the **best productivity, focus, habits, thinking, and performance books**.  
+Includes **hyped classics, underrated gems, and science-based productivity books**.
 
+---
 
-### 2. **Deep Work**  
-Focus without distraction = rare skill.  
-> https://www.amazon.in/dp/1455586692
+# 🔥 Tier 1 — Legendary Productivity Books
 
+1. **Atomic Habits**  
+   Tiny habits compound into massive change.  
+   https://www.amazon.in/dp/0735211299  
 
+2. **Deep Work**  
+   Focus without distraction = rare skill.  
+   https://www.amazon.in/dp/1455586692  
 
-**Getting Things Done**  
+3. **Getting Things Done**  
    The original GTD productivity system.  
-   https://www.amazon.in/dp/0143126563
-
-
-
-**The One Thing**  
-   Focus on the most important task.  
-   https://www.amazon.in/dp/1885167776
-
-
+   https://www.amazon.in/dp/0143126563  
 
 4. **The One Thing**  
    Focus on the most important task.  
@@ -141,157 +137,134 @@ Focus without distraction = rare skill.
 
 5. **Essentialism**  
    Do less but better.  
-   https://www.amazon.in/dp/0804137382
+   https://www.amazon.in/dp/0804137382  
 
-
-**The 7 Habits of Highly Effective People**  
+6. **The 7 Habits of Highly Effective People**  
    One of the most influential productivity frameworks.  
    https://www.amazon.in/dp/1982137274  
 
+---
+
 # 🧠 Tier 2 — Habit & Behavioral Science
 
-
 7. **The Power of Habit**  
-   https://www.amazon.in/dp/081298160X
-
+   https://www.amazon.in/dp/081298160X  
 
 8. **Tiny Habits**  
-   https://www.amazon.in/dp/0358003326
+   https://www.amazon.in/dp/0358003326  
 
 9. **Mini Habits**  
-   https://www.amazon.in/dp/1494882275
+   https://www.amazon.in/dp/1494882275  
 
 10. **Indistractable**  
-   https://www.amazon.in/dp/194883653X
-
-
+   https://www.amazon.in/dp/194883653X  
 
 11. **Get It Done**  
-   https://www.amazon.in/dp/0316538341
+   https://www.amazon.in/dp/0316538341  
 
-
-
+---
 
 # ⚡ Tier 3 — Time Management & Focus
-
-
 
 12. **The 4-Hour Workweek**  
    https://www.amazon.in/dp/0307465357  
 
-
-
 13. **Tools of Titans**  
-   https://www.amazon.in/dp/1328683788
-
-
-
-
-16. **The Now Habit**  
-   https://www.amazon.in/dp/1585425524
-
-
-
-
-
+   https://www.amazon.in/dp/1328683788  
 
 14. **Make Time**  
    https://www.amazon.in/dp/0525572422  
 
-
-
-
 15. **Eat That Frog**  
-   https://www.amazon.in/dp/162656941X
+   https://www.amazon.in/dp/162656941X  
 
-
+16. **The Now Habit**  
+   https://www.amazon.in/dp/1585425524  
 
 17. **Leave the Office Earlier**  
-   https://www.amazon.in/dp/0767916261
+   https://www.amazon.in/dp/0767916261  
 
+---
 
 # 🚀 Tier 4 — High Performance & Success
 
 18. **The Miracle Morning**  
-   https://www.amazon.in/dp/0979019710
-
-
-
+   https://www.amazon.in/dp/0979019710  
 
 19. **The 5 AM Club**  
-   https://www.amazon.in/dp/1443456624
-
-
-
+   https://www.amazon.in/dp/1443456624  
 
 20. **Start With Why**  
-   https://www.amazon.in/dp/1591846447
-
-
+   https://www.amazon.in/dp/1591846447  
 
 21. **The War of Art**  
    https://www.amazon.in/dp/1936891026  
 
 22. **Measure What Matters**  
-   https://www.amazon.in/dp/0525536221
-
+   https://www.amazon.in/dp/0525536221  
 
 23. **High Performance Habits**  
    https://www.amazon.in/dp/1401952852  
-   
 
-
-22. **Measure What Matters**  
-   https://www.amazon.in/dp/0525536221
-
+---
 
 # 🧩 Tier 5 — Thinking & Cognitive Productivity
 
-
 24. **Thinking Fast and Slow**  
-   https://www.amazon.in/dp/0141033576
-
+   https://www.amazon.in/dp/0141033576  
 
 25. **Range**  
-   https://www.amazon.in/dp/0735214484
+   https://www.amazon.in/dp/0735214484  
 
 26. **Peak**  
-   https://www.amazon.in/dp/0544456238
+   https://www.amazon.in/dp/0544456238  
 
-   
 27. **Mindset**  
-   https://www.amazon.in/dp/0345472322
+   https://www.amazon.in/dp/0345472322  
 
-
+---
 
 # 🧠 Tier 6 — Strategic Productivity
 
 28. **Designing Your Life**  
-   https://www.amazon.in/dp/1101875321 
-   
-
+   https://www.amazon.in/dp/1101875321  
 
 29. **Smarter Faster Better**  
    https://www.amazon.in/dp/0812983599  
 
-
 30. **The Checklist Manifesto**  
    https://www.amazon.in/dp/0312430007  
 
-30. **The Checklist Manifesto**  
-   https://www.amazon.in/dp/0312430007  
-
-   
 31. **A World Without Email**  
-   https://www.amazon.in/dp/0525536558
-
-   
+   https://www.amazon.in/dp/0525536558  
 
 32. **Flow**  
-   https://www.amazon.in/dp/0061339202 
+   https://www.amazon.in/dp/0061339202  
 
-   
 33. **So Good They Can't Ignore You**  
    https://www.amazon.in/dp/1455509124  
 
-   
+---
+
+# ⭐ Recommended Starting Books
+
+If you read only a few books from this list, start with:
+
+- Atomic Habits
+- Deep Work
+- Getting Things Done
+- Essentialism
+- The One Thing
+
+These books build a **strong productivity foundation**.
+
+---
+
+# 📖 Categories Covered
+
+- Habit Formation
+- Deep Focus
+- Time Management
+- Cognitive Thinking
+- High Performance
+- Strategic Productivity
