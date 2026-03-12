@@ -39,4 +39,5 @@
 4. The Innovator’s Dilemma — Clayton Christensen
 5. Sprint — Jake Knapp
 6. The Innovator’s DNA — Jeffrey Dyer
-7. 
+7. The Idea Factory — Jon Gertner
+8. 
