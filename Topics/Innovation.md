@@ -48,3 +48,4 @@
 13. The Myths of Innovation — Scott Berkun
 14. The Art of Innovation — Tom Kelley
 15. The Ten Faces of Innovation — Tom Kelley
+16. Business Model Generation — Alexander Osterwalder
