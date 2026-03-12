@@ -49,3 +49,4 @@
 14. The Art of Innovation — Tom Kelley
 15. The Ten Faces of Innovation — Tom Kelley
 16. Business Model Generation — Alexander Osterwalder
+17. Steal Like an Artist — Austin Kleon
