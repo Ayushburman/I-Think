@@ -50,3 +50,5 @@
 15. The Ten Faces of Innovation — Tom Kelley
 16. Business Model Generation — Alexander Osterwalder
 17. Steal Like an Artist — Austin Kleon
+18. How to Get Ideas — Jack Foster
+19. 
