@@ -259,3 +259,7 @@ Focus without distraction = rare skill.
    https://www.amazon.in/dp/0544456238
 
    
+27. **Mindset**  
+   https://www.amazon.in/dp/0345472322
+
+   
