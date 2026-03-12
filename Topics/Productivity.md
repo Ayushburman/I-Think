@@ -275,4 +275,8 @@ Focus without distraction = rare skill.
    https://www.amazon.in/dp/0812983599  
 
 
-   
+30. **The Checklist Manifesto**  
+   https://www.amazon.in/dp/0312430007  
+
+
+
