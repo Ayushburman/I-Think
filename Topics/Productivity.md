@@ -248,3 +248,7 @@ Focus without distraction = rare skill.
 # 🧩 Tier 5 — Thinking & Cognitive Productivity
 
 
+24. **Thinking Fast and Slow**  
+   https://www.amazon.in/dp/0141033576
+
+   
