@@ -139,5 +139,9 @@ Focus without distraction = rare skill.
    Focus on the most important task.  
    https://www.amazon.in/dp/1885167776  
 
+5. **Essentialism**  
+   Do less but better.  
+   https://www.amazon.in/dp/0804137382
 
+   
    
