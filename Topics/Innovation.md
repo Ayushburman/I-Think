@@ -52,4 +52,5 @@
 17. Steal Like an Artist — Austin Kleon
 18. How to Get Ideas — Jack Foster
 19. Play Bigger — Al Ramadan
-20. 
+20. The Creative Act: A Way of Being — Rick Rubin
+21. 
