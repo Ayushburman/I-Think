@@ -37,4 +37,5 @@
 2. Where Good Ideas Come From — Steven Johnson
 3. Creative Confidence — Tom Kelley & David Kelley
 4. The Innovator’s Dilemma — Clayton Christensen
-5. 
+5. Sprint — Jake Knapp
+6. 
