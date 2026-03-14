@@ -46,7 +46,7 @@
 > https://youtu.be/3Roz6BVdKcQ?si=sVP9OPjMUfmfvw3P
 ### How fitness can empower people with disabilities | Javeno McLean | TEDxManchester
 > https://youtu.be/ZNT5Temrbr0?si=OZMHMQwFgiv0ksfw
-
+### Do you really need to take 10,000 steps a day? - Shannon Odell
 > https://youtu.be/eEWa7cpiyD8?si=B-rgDi8aQ0o622Ry
 
 > https://youtu.be/NoN2b-b2c0o?si=z2QQa7z44bu3b7WL
