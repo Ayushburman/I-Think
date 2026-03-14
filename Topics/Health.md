@@ -86,7 +86,7 @@
 > https://youtu.be/mLBlxywz8Ow?si=CAKSAw13_hYc-D6s
 ### The Beauty and the Beast of Biomedical Advancement | Tyler Allen | TEDxDuke
 > https://youtu.be/N3wJwz97b8A?si=j3JJ9CSN8WfnZ8O6
-
+### Cannabis: Separating the Science from the Hype | Mara Gordon | TEDxPaloAlto
 > https://youtu.be/jyAGlb8PMRc?si=EGie20Pd_jgb4EvH
 
 > https://youtu.be/JGxWT4EUVbs?si=u37uslwi8iuX0Hoz
