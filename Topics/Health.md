@@ -52,7 +52,7 @@
 > https://youtu.be/NoN2b-b2c0o?si=z2QQa7z44bu3b7WL
 ### How "normal people" can train like the worlds best endurance athletes | Stephen Seiler | TEDxArendal
 > https://youtu.be/MALsI0mJ09I?si=KKm3K6vLmAtLBmc6
-
+### The Secrets and Science of Mental Toughness | Joe Risser MD, MPH | TEDxSanDiego
 > https://youtu.be/rNxC16mlO60?si=CmvNt2mQjt3swD2g
 
 > https://youtu.be/sJCBM9ajA5s?si=ACNjVUvL8bZrjy9A
