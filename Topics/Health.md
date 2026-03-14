@@ -64,7 +64,7 @@
 > https://youtu.be/RVdeqAvMGBs?si=rNt5xqvcChB5udAu
 ### The epidemic of the "I Know All" expert | Mikhail (Doctor Mike) Varshavski | TEDxMonteCarlo
 > https://youtu.be/gLDQr9i7LkM?si=r_HNMbKtrZVYRH3K
-
+### Can AI Catch What Doctors Miss? | Eric Topol | TED
 > https://youtu.be/ll5LY7wI_Xc?si=yXapV9cAF47oJ1e-
 
 > https://youtu.be/UjGMiChiUFc?si=VbLstccLqKrOsV2e
