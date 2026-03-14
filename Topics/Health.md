@@ -94,7 +94,7 @@
 > https://youtu.be/7ZsyYCZB3Nw?si=LKElgXBSmNy0OvyH
 ### How does your body process medicine? - Céline Valéry
 > https://youtu.be/uOcpsXMJcJk?si=IccbYQNJZw7obDrr
-
+### Is there scientific proof we can heal ourselves? | Lissa Rankin, MD | TEDxAmericanRiviera
 > https://youtu.be/LWQfe__fNbs?si=0VJA4ODTkwiMyInO
 
 > https://youtu.be/6pSMgmL7vF0?si=Iqkit0qT-ZHTUlwm
