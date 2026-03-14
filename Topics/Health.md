@@ -96,7 +96,7 @@
 > https://youtu.be/uOcpsXMJcJk?si=IccbYQNJZw7obDrr
 ### Is there scientific proof we can heal ourselves? | Lissa Rankin, MD | TEDxAmericanRiviera
 > https://youtu.be/LWQfe__fNbs?si=0VJA4ODTkwiMyInO
-
+### A new type of medicine, custom-made with tiny proteins | Christopher Bahl
 > https://youtu.be/6pSMgmL7vF0?si=Iqkit0qT-ZHTUlwm
 
 > https://youtu.be/wDZgzsQh0Dw?si=yjZoEwXbEMFO-wcF
