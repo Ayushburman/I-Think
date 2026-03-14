@@ -42,7 +42,7 @@
 > https://youtu.be/rGgoCm1hofM?si=B45nuudmqEwfYODs
 ### Pushing boundaries in personal fitness | Cabel McElderry | TEDxRedDeer
 > https://youtu.be/3O1yYuOBFrE?si=NmwNbtyw7dgCEAxf
-
+### Bodybuilding for the brain: John Pelley at TEDxTexasTechUniversity
 > https://youtu.be/3Roz6BVdKcQ?si=sVP9OPjMUfmfvw3P
 
 > https://youtu.be/ZNT5Temrbr0?si=OZMHMQwFgiv0ksfw
