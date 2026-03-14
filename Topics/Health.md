@@ -72,7 +72,7 @@
 > https://youtu.be/RgWQCGX3MOk?si=bxfPm2UpVKe_PovU
 ### The future of regenerative medicine | Clemens van Blitterswijk | TEDxMaastricht
 > https://youtu.be/BR9oAyVldl0?si=8XaNiJ1O6xZ2znIW
-
+### What Happens When We Mix Real Doctors, Big Data, and AI? | Atul Butte | TEDxHarkerSchool
 > https://youtu.be/4vBkzRJKBdk?si=32OtsKjq3-w8rVXj
 
 > https://youtu.be/Kykj3k2wBXg?si=GjZciCff99w0duHH
