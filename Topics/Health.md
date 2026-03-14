@@ -82,7 +82,7 @@
 > https://youtu.be/ZM4u4XIhm08?si=P-ioZ-nSkjQuI8fh
 ### The most important lesson from 83,000 brain scans | Daniel Amen |
 > https://youtu.be/esPRsT-lmw8?si=Qc5H9KB-zjZvd69k
-
+### The Beauty and the Beast of Biomedical Advancement | Tyler Allen | TEDxDuke
 > https://youtu.be/mLBlxywz8Ow?si=CAKSAw13_hYc-D6s
 
 > https://youtu.be/N3wJwz97b8A?si=j3JJ9CSN8WfnZ8O6
