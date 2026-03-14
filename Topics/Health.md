@@ -34,7 +34,7 @@
 > https://youtu.be/AVKwxi0SExw?si=HzvJNlxoh15E2FQA
 ### Muscle matters: Dr Brendan Egan at TEDxUCD
 > https://youtu.be/LkXwfTsqQgQ?si=KpzbC7zeC1_vIDAk
-
+### Winning The Mental Battle of Physical Fitness and Obesity | Ogie Shaw | TEDxSpokane
 > https://youtu.be/K60xHx836T0?si=Blt86MHrZOKqbZgc
 
 > https://youtu.be/2tM1LFFxeKg?si=1qEbb71E0u8mMBoK
