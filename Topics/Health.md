@@ -88,7 +88,7 @@
 > https://youtu.be/N3wJwz97b8A?si=j3JJ9CSN8WfnZ8O6
 ### Cannabis: Separating the Science from the Hype | Mara Gordon | TEDxPaloAlto
 > https://youtu.be/jyAGlb8PMRc?si=EGie20Pd_jgb4EvH
-
+### The Medicine of Frequencies. What did Einstein mean? | Dr. Mitchell Abrams | TEDxTrinityBellwoods
 > https://youtu.be/JGxWT4EUVbs?si=u37uslwi8iuX0Hoz
 
 > https://youtu.be/7ZsyYCZB3Nw?si=LKElgXBSmNy0OvyH
