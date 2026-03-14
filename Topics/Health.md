@@ -54,7 +54,7 @@
 > https://youtu.be/MALsI0mJ09I?si=KKm3K6vLmAtLBmc6
 ### The Secrets and Science of Mental Toughness | Joe Risser MD, MPH | TEDxSanDiego
 > https://youtu.be/rNxC16mlO60?si=CmvNt2mQjt3swD2g
-
+### Why Medicine Often Has Dangerous Side Effects for Women | Alyson McGregor | TED Talks
 > https://youtu.be/sJCBM9ajA5s?si=ACNjVUvL8bZrjy9A
 
 > https://youtu.be/6tCxGouGgS0?si=BoO2y1p_B8X2ETFW
