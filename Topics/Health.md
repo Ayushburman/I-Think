@@ -66,7 +66,7 @@
 > https://youtu.be/gLDQr9i7LkM?si=r_HNMbKtrZVYRH3K
 ### Can AI Catch What Doctors Miss? | Eric Topol | TED
 > https://youtu.be/ll5LY7wI_Xc?si=yXapV9cAF47oJ1e-
-
+### Do Gut Microbes Control Your Personality? | Kathleen McAuliffe | TED
 > https://youtu.be/UjGMiChiUFc?si=VbLstccLqKrOsV2e
 
 > https://youtu.be/RgWQCGX3MOk?si=bxfPm2UpVKe_PovU
