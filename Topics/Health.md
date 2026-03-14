@@ -56,7 +56,7 @@
 > https://youtu.be/rNxC16mlO60?si=CmvNt2mQjt3swD2g
 ### Why Medicine Often Has Dangerous Side Effects for Women | Alyson McGregor | TED Talks
 > https://youtu.be/sJCBM9ajA5s?si=ACNjVUvL8bZrjy9A
-
+### How laboratory scientists work behind the scenes in medicine | Morgan Marquart | TEDxWVU
 > https://youtu.be/6tCxGouGgS0?si=BoO2y1p_B8X2ETFW
 
 > https://youtu.be/h5D3mv8ewCY?si=KhGj8zXaag_jD09-
