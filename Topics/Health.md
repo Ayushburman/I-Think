@@ -98,7 +98,7 @@
 > https://youtu.be/LWQfe__fNbs?si=0VJA4ODTkwiMyInO
 ### A new type of medicine, custom-made with tiny proteins | Christopher Bahl
 > https://youtu.be/6pSMgmL7vF0?si=Iqkit0qT-ZHTUlwm
-
+### Music Medicine: Sound At A Cellular Level | Dr. Lee Bartel | TEDxCollingwood
 > https://youtu.be/wDZgzsQh0Dw?si=yjZoEwXbEMFO-wcF
 ### Why Social Health Is Key to Happiness and Longevity | Kasley Killam | TED
 > https://youtu.be/LpSDuDIaBGk?si=E80dRl1a5a-jZ0pX
