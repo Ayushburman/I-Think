@@ -90,7 +90,7 @@
 > https://youtu.be/jyAGlb8PMRc?si=EGie20Pd_jgb4EvH
 ### The Medicine of Frequencies. What did Einstein mean? | Dr. Mitchell Abrams | TEDxTrinityBellwoods
 > https://youtu.be/JGxWT4EUVbs?si=u37uslwi8iuX0Hoz
-
+### How AI can heal healthcare | Edmund Jackson | TEDxNashville
 > https://youtu.be/7ZsyYCZB3Nw?si=LKElgXBSmNy0OvyH
 
 > https://youtu.be/uOcpsXMJcJk?si=IccbYQNJZw7obDrr
