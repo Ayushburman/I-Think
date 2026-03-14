@@ -92,7 +92,7 @@
 > https://youtu.be/JGxWT4EUVbs?si=u37uslwi8iuX0Hoz
 ### How AI can heal healthcare | Edmund Jackson | TEDxNashville
 > https://youtu.be/7ZsyYCZB3Nw?si=LKElgXBSmNy0OvyH
-
+### How does your body process medicine? - Céline Valéry
 > https://youtu.be/uOcpsXMJcJk?si=IccbYQNJZw7obDrr
 
 > https://youtu.be/LWQfe__fNbs?si=0VJA4ODTkwiMyInO
