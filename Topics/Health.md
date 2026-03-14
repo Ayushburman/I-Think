@@ -84,7 +84,7 @@
 > https://youtu.be/esPRsT-lmw8?si=Qc5H9KB-zjZvd69k
 ### The Beauty and the Beast of Biomedical Advancement | Tyler Allen | TEDxDuke
 > https://youtu.be/mLBlxywz8Ow?si=CAKSAw13_hYc-D6s
-
+### The Beauty and the Beast of Biomedical Advancement | Tyler Allen | TEDxDuke
 > https://youtu.be/N3wJwz97b8A?si=j3JJ9CSN8WfnZ8O6
 
 > https://youtu.be/jyAGlb8PMRc?si=EGie20Pd_jgb4EvH
