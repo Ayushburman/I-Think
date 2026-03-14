@@ -60,7 +60,7 @@
 > https://youtu.be/6tCxGouGgS0?si=BoO2y1p_B8X2ETFW
 ### How mRNA Medicine Will Change the World | Melissa J. Moore | TED
 > https://youtu.be/h5D3mv8ewCY?si=KhGj8zXaag_jD09-
-
+### The Age of CRISPR: Engineering the Future of Genetic Medicine | Benjamin Oakes | TEDxBerkeley
 > https://youtu.be/RVdeqAvMGBs?si=rNt5xqvcChB5udAu
 
 > https://youtu.be/gLDQr9i7LkM?si=r_HNMbKtrZVYRH3K
