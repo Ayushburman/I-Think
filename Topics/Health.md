@@ -44,7 +44,7 @@
 > https://youtu.be/3O1yYuOBFrE?si=NmwNbtyw7dgCEAxf
 ### Bodybuilding for the brain: John Pelley at TEDxTexasTechUniversity
 > https://youtu.be/3Roz6BVdKcQ?si=sVP9OPjMUfmfvw3P
-
+### How fitness can empower people with disabilities | Javeno McLean | TEDxManchester
 > https://youtu.be/ZNT5Temrbr0?si=OZMHMQwFgiv0ksfw
 
 > https://youtu.be/eEWa7cpiyD8?si=B-rgDi8aQ0o622Ry
