@@ -121,7 +121,7 @@
 > https://youtu.be/u5VjEIci66c?si=a5owCB9vaQlVKI-t
 ### 6 Refreshing Summer Salad Recipes to Beat the Heat!
 > https://youtu.be/Wvd9z-CYhg4?si=6R9kAisQWAuVho4-
-###
+### VEG vs. NON VEG. | Who is STRONGER & will LIVE MORE?
 > https://youtu.be/GJKDg_MSKQg?si=A1cjM01y_DBfsS3N
 ### 
 > https://youtu.be/z4NK8rExeg8?si=noOH-1VUXlPOyV0P
