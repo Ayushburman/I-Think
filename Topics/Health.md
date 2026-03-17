@@ -196,5 +196,5 @@
 > https://youtu.be/BGwb8_hbzUM?si=GOOj-TpAmHRL5W2x
 
 > https://youtu.be/QTWPnJ8T4hk?si=27nS1UBoFMpS_85H
-
-. https://youtu.be/ISZLTJH5lYg?si=XtbJ__UBxu72vGLG
+### How do vitamins work? - Ginnie Trinh Nguyen
+> https://youtu.be/ISZLTJH5lYg?si=XtbJ__UBxu72vGLG
