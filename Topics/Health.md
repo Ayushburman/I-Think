@@ -164,7 +164,7 @@
 > https://youtu.be/MOH2rdCAG8I?si=sMoQHWLKIN5AlQ0G
 ### From Mouth to Muscle: How Your Body Absorbs Protein
 > https://youtu.be/_FJSotplMMQ?si=Ue83pHPWzkBFbZ_F
-
+### How to Maximize Muscle Protein Synthesis | Alan Aragon & Dr. Andrew Huberman
 > https://youtu.be/8lKjMoeESEc?si=Mwxb20xHKntzTx71
 
 > https://youtu.be/jwHlyLEZJYY?si=l-7YCkrjVZCmzKWY
