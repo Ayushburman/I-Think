@@ -166,7 +166,7 @@
 > https://youtu.be/_FJSotplMMQ?si=Ue83pHPWzkBFbZ_F
 ### How to Maximize Muscle Protein Synthesis | Alan Aragon & Dr. Andrew Huberman
 > https://youtu.be/8lKjMoeESEc?si=Mwxb20xHKntzTx71
-
+### The Truth About Protein | Dr. Gabrielle Lyon & Dr. Andrew Huberman
 > https://youtu.be/jwHlyLEZJYY?si=l-7YCkrjVZCmzKWY
 ### What is a Protein? (from PDB-101)
 > https://youtu.be/wvTv8TqWC48?si=MNKG0EtH20k9VUoK
