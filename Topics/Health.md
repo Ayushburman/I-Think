@@ -160,7 +160,7 @@
 > https://youtu.be/DdNv8VtXjRg?si=isWylvA-9H4H3MuY
 ### Proteins
 > https://youtu.be/HSCUAjZQhXI?si=1SAkAXaOx3RTsiqY
-
+### Protein Basics. What You Need To Know In 10 Minutes
 > https://youtu.be/MOH2rdCAG8I?si=sMoQHWLKIN5AlQ0G
 
 > https://youtu.be/_FJSotplMMQ?si=Ue83pHPWzkBFbZ_F
