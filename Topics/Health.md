@@ -2,7 +2,24 @@
 
 ---
 
-## [Mind, Brain & Psychology]
+## Table of Contents
+- [Mind, Brain & Psychology](#mind-brain--psychology)
+- [Gut Health & Microbiome](#gut-health--microbiome)
+- [General Health & Lifestyle](#general-health--lifestyle)
+- [Fitness & Exercise Science](#fitness--exercise-science)
+- [Medicine, AI & Biotechnology](#medicine-ai--biotechnology)
+- [Food & Nutrition](#food--nutrition)
+  - [General Nutrition](#general-nutrition)
+  - [Protein](#protein)
+  - [Carbohydrates](#carbohydrates)
+  - [Fats](#fats)
+  - [Eggs & Fish](#eggs--fish)
+  - [Vitamins](#vitamins)
+  - [Special: Post-Transplant / Medical Diet](#special-post-transplant--medical-diet)
+
+---
+
+## Mind, Brain & Psychology
 - ➤ Why Your Body Fights Weight Loss  
   → https://youtu.be/p-Yd4PdmYzg  
 
@@ -20,7 +37,7 @@
 
 ---
 
-## [Gut Health & Microbiome]
+## Gut Health & Microbiome
 - ➤ How your belly controls your brain  
   → https://youtu.be/awtmTJW9ic8  
 
@@ -32,7 +49,7 @@
 
 ---
 
-## [General Health & Lifestyle]
+## General Health & Lifestyle
 - ➤ How to make diseases disappear  
   → https://youtu.be/gaY4m00wXpw  
 
@@ -50,7 +67,7 @@
 
 ---
 
-## [Fitness & Exercise Science]
+## Fitness & Exercise Science
 - ➤ Power of Fitness  
   → https://youtu.be/37UhELFvPec  
 
@@ -80,7 +97,7 @@
 
 ---
 
-## [Medicine, AI & Biotechnology]
+## Medicine, AI & Biotechnology
 - ➤ How AI can heal healthcare  
   → https://youtu.be/7ZsyYCZB3Nw  
 
@@ -111,7 +128,7 @@
 
 ---
 
-## [General Nutrition]
+## General Nutrition
 - ➤ How food affects your brain  
   → https://youtu.be/xyQY8a-ng6g  
 
@@ -126,7 +143,7 @@
 
 ---
 
-## [Protein]
+## Protein
 - ➤ 24 High Protein Foods  
   → https://youtu.be/09zzDo61l_o  
 
@@ -150,7 +167,7 @@
 
 ---
 
-## [Carbohydrates]
+## Carbohydrates
 - ➤ Carbs & health  
   → https://youtu.be/wxzc_2c6GMg  
 
@@ -162,7 +179,7 @@
 
 ---
 
-## [Fats]
+## Fats
 - ➤ Saturated vs Unsaturated fat  
   → https://youtu.be/0QS0kudS5xg  
 
@@ -174,7 +191,7 @@
 
 ---
 
-## [Eggs & Fish]
+## Eggs & Fish
 - ➤ Benefits of eggs  
   → https://youtu.be/F0KqLSauYPU  
 
@@ -183,13 +200,13 @@
 
 ---
 
-## [Vitamins]
+## Vitamins
 - ➤ How vitamins work  
   → https://youtu.be/ISZLTJH5lYg  
 
 ---
 
-## [Special: Post-Transplant / Medical Diet]
+## Special: Post-Transplant / Medical Diet
 - ➤ Food safety after transplant  
   → https://youtu.be/F9w4fbHwy4A  
 
