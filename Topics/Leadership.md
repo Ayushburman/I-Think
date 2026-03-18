@@ -110,6 +110,34 @@
 > Study these after the historical context is established. These leaders shaped the 20th–21st century world order.
  
 ---
+ 
+### 🇺🇸 Barack Obama
+ 
+*44th U.S. President · Democracy · Hope & Change*
+ 
+| # | Title | Link |
+|---|-------|------|
+| 1 | DNC Keynote Address (2004) — The Breakout Speech | [▶ Watch](https://youtu.be/OFPwDe22CoY?si=Q1x0HyDtz5gqr6YP) |
+| 2 | "Yes We Can" — New Hampshire Primary Concession (2008) | [▶ Watch](https://youtu.be/MS5UjNKw_1M?si=KMAhSpslptujLcqi) |
+| 3 | Election Night Victory Speech — Grant Park (2008) | [▶ Watch](https://youtu.be/S4lTtvlFvyk?si=NH4giPQAyoLvbhWP) |
+| 4 | First Inaugural Address (Jan 20, 2009) | [▶ Watch](https://youtu.be/3dZ2sYvpjCg?si=gjQGEOeEYZDvMN1N) |
+| 5 | Cairo Speech — A New Beginning (2009) | [▶ Watch](https://youtu.be/6A8TiUpKDVg?si=fy0DXpS5aED8L5BW) |
+| 6 | "A More Perfect Union" — Race in America (2008) | [▶ Watch](https://youtu.be/5a5VSkkdpB4?si=7FoT-gG5xb9hN3iO) |
+| 7 | Affordable Care Act Address to Congress (2009) | [▶ Watch](https://youtu.be/PGUdWfB8nLg?si=cWfOBsQnFp7aLKK0) |
+| 8 | Sandy Hook Memorial Address — Newtown (2012) | [▶ Watch](https://youtu.be/uWRmBjFxttc?si=4GFeonPHb5psgEYU) |
+| 9 | "Amazing Grace" — Charleston Eulogy (2015) | [▶ Watch](https://youtu.be/ueMNqdB1QIE?si=PPb96Gs1AeV0BnhN) |
+| 10 | Selma Anniversary Address — 50th Anniversary (2015) | [▶ Watch](https://youtu.be/mAFv55o47ok?si=iYM5NdA0zkvOd2X8) |
+| 11 | UN General Assembly Address (2016) | [▶ Watch](https://youtu.be/xXH5agV7skw?si=6WJ651CYQ0fPhGsy) |
+| 12 | Farewell Address — Chicago (Jan 10, 2017) | [▶ Watch](https://youtu.be/YdU7fUXDLpI?si=F6do_emMVqZ3kxDo) |
+| 13 | Obama on Democracy & Leadership — Post-Presidency | [▶ Watch](https://youtu.be/mqaODYJ702s?si=59p-RDj3pJq5rcbY) |
+| 14 | Obama at DNC — Address for Kamala Harris (2024) | [▶ Watch](https://youtu.be/Hb2rKGfIOrM?si=HhVb7KGQHrscjxw0) |
+| 15 | Obama on Leadership & Mentorship | [▶ Watch](https://youtu.be/xOl7HTXuLvk?si=RVF204MJT5sIsIQI) |
+| 16 | Obama — Full Biography Documentary | [▶ Watch](https://youtu.be/wKT5X8I5oW0?si=pMM6ALTRog0r8FB8) |
+| 17 | Obama's Reflections on the Presidency | [▶ Watch](https://youtu.be/lEjeKrZxDFQ?si=LiVcuH4RER2EtI7Q) |
+| 18 | Obama on Technology, AI & the Future | [▶ Watch](https://youtu.be/EM9B8Qin9ac?si=n4wBtyRw1PI6xbCa) |
+| 19 | Obama's Final Interview as President | [▶ Watch](https://youtu.be/s_WMnVBjDmw?si=Oi8tQX1m3FoAybFJ) |
+
+-----
 
 ### 3. Joseph Stalin 
 > https://youtu.be/5A0BP5VioCA?si=-RNNh-qalwjNVMkK
