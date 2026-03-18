@@ -444,29 +444,3 @@
 > https://youtu.be/HRnBoEcVW9Q?si=2GCIf5fOE_SfYm6x
 ------------
 Ted Talk 
-
-# Leadership 
-> https://youtu.be/vlpKyLklDDY?si=EgkezSNqo4iPFXEM
-
-> https://youtu.be/aUYSDEYdmzw?si=vOkrEs4H7RPresMl
-
-> https://youtu.be/lmyZMtPVodo?si=Xk95_oCsb_GCpZZa
-
-> https://youtu.be/lKsvLGdoIH8?si=2Zl_bDWXaLVJWZ8t
-
-> https://youtu.be/dIYmzf21d1g?si=ZwIZICDFgviQLAQt
-
-> https://youtu.be/KgmKNKM0i1g?si=su1iEGYkbk6kTPE4
-
-> https://youtu.be/kARkOdRHaj8?si=qmJiBJAR-zCIDB0z
-
-> https://youtu.be/n4SPwPhWu8g?si=erA8ens1Gm-VVdkT
-
-> https://youtu.be/d_HHnEROy_w?si=NQ42QUrRYfEFJxDC
-
-> https://youtu.be/2bnP2vIef4E?si=JN1k1VmrxH0pHVap
-
-> https://youtu.be/oeCRLGbHsm0?si=7F7fT_7R_7dazjFI
-
-> https://youtu.be/eVFzbxmKNUw?si=5sZGWqhXV157_yGD
---------
