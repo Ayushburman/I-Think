@@ -138,6 +138,22 @@
 | 19 | Obama's Final Interview as President | [▶ Watch](https://youtu.be/s_WMnVBjDmw?si=Oi8tQX1m3FoAybFJ) |
 
 -----
+### 🇮🇳 APJ Abdul Kalam
+ 
+*11th President of India · Scientist · People's President*
+ 
+| # | Title | Link |
+|---|-------|------|
+| 1 | Kalam's Vision for India 2020 | [▶ Watch](https://youtu.be/9CKCfiX3uO0?si=ZnSi_N6LMsqybRKj) |
+| 2 | Kalam on Dreams, Youth & Nation Building | [▶ Watch](https://youtu.be/seve1_ZyqNc?si=tCU3Dq6vO0wJqDDs) |
+| 3 | Kalam's Address to Students | [▶ Watch](https://youtu.be/TckGcxwknYU?si=pADTLxbCPG4QAqNk) |
+| 4 | Kalam on Science, Technology & Leadership | [▶ Watch](https://youtu.be/smjfGmCn7x0?si=-N9_BHBW1wY1u91S) |
+| 5 | Kalam — Wings of Fire: His Life Story | [▶ Watch](https://youtu.be/-7TwMUyWSE0?si=q9CIKxcBXq_Y2E0v) |
+| 6 | Kalam's Motivational Speech on Failure & Resilience | [▶ Watch](https://youtu.be/laGZaS4sdeU?si=lDhbbzvr2obgUs0U) |
+| 7 | Kalam — Full Documentary | [▶ Watch](https://youtu.be/iO5Rf_4bW6g?si=5iD63Snob_qwEbMp) |
+
+----
+
 
 ### 3. Joseph Stalin 
 > https://youtu.be/5A0BP5VioCA?si=-RNNh-qalwjNVMkK
