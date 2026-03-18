@@ -12,7 +12,7 @@
 > https://youtu.be/ZBxZC9I6xyk?si=gCDRR-r5DhHCgV9I
 ### What the World Can Learn From China’s Innovation Playbook | Keyu Jin | TED
 > https://youtu.be/gub38Cd4E0g?si=0sY_gr_tg20dObZg
-
+### 4 simple ways to have a great idea | Richard St. John
 > https://youtu.be/mtn31hh6kU4?si=Le7pHGQ_Zi3BIJrR
 
 > https://youtu.be/M9u9jzMYJKQ?si=muxa5uk5f08HHnwj
