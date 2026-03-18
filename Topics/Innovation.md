@@ -22,7 +22,7 @@
 > https://youtu.be/01Y7qlPFpqw?si=V78TGCPQEjZ0JMg6
 ### The Art of Innovation in the Age of AI | Keith McCormick | TEDxCapeMay
 > https://youtu.be/Idn3l0fxqsw?si=IfpS1vmrb29JfQIk
-
+### The surprising habits of original thinkers | Adam Grant | TED
 > https://youtu.be/fxbCHn6gE3U?si=X0XhhcB748eF8_jQ
 
 > https://youtu.be/pii8tTx1UYM?si=kyfxI6bsajh7F7YV
