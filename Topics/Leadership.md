@@ -336,19 +336,5 @@
 
 > https://youtu.be/nGcpKL6VVsA?si=fbP2cmgt__yvu3Sv
 
-----------
-
-# Mahatama Gandhi
-
-> https://youtu.be/ICRIf8eoK10?si=VZ1T20y7aUjR4Uww
-
-> https://youtu.be/8yMcNubXqc4?si=orDdeERZtFOZvFCZ
-
-> https://youtu.be/Dcn6OmGF5Rk?si=J1n9EcFXYwjW05zB
-
-> https://youtu.be/LcbvJfiIAS0?si=zdgMXMg87V6hBWA9
-
-> https://youtu.be/8YKlsHsB4To?si=4zTgTVIMrIdjye7g
-
 
 
