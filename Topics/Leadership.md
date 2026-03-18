@@ -105,6 +105,10 @@
 | 9 | How Hitler Came to Power — Analysis | [▶ Watch](https://youtu.be/I6eIox2vOiA?si=PMOo0_TdIIIaTJ1q) |
  
 ---
+## Phase 3 — Modern Era Leaders
+ 
+> Study these after the historical context is established. These leaders shaped the 20th–21st century world order.
+ 
 ---
 
 ### 3. Joseph Stalin 
