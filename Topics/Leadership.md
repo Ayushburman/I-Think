@@ -12,6 +12,25 @@
 - [Phase 4 — TED Talks on Leadership](#phase-4--ted-talks-on-leadership)
  
 ---
+### 🎩 Abraham Lincoln
+ 
+*16th U.S. President · Civil War · Emancipation*
+ 
+| # | Title | Link |
+|---|-------|------|
+| 1 | Gettysburg Address (1863) | [▶ Watch](https://youtu.be/bC4kQ2-kHZE?si=9lvE4e40HO1rOmlh) |
+| 2 | Lincoln's First Inaugural Address (1861) | [▶ Watch](https://youtu.be/zyvLzK1Wi6Y?si=ZUAB5xfJ1SFdgO_k) |
+| 3 | Lincoln's Second Inaugural Address (1865) | [▶ Watch](https://youtu.be/a2pQFl35cac?si=KfqdZNSzEQ40d3ZZ) |
+| 4 | Lincoln–Douglas Debates Documentary | [▶ Watch](https://youtu.be/t4YLuk5dXTs?si=H1HSpl8gKF1lYQad) |
+| 5 | Lincoln: Leadership & Legacy (History Channel) | [▶ Watch](https://youtu.be/wM2uw0G1FOg?si=r5Q4A2urhGRDhxez) |
+| 6 | Lincoln on Democracy & Governance | [▶ Watch](https://youtu.be/FSbJ8RrhVv0?si=A_3cdHMwSQgyzjO_) |
+| 7 | Lincoln's War Powers & Civil Liberties | [▶ Watch](https://youtu.be/v9pjvo1_oto?si=MpDnUWxOBMbzCtO8) |
+| 8 | Lincoln: The Great Emancipator Documentary | [▶ Watch](https://youtu.be/yxQJNKWoGaw?si=PdSJFhV32qfwT0V-) |
+| 9 | Lincoln's Cooper Union Speech (1860) | [▶ Watch](https://youtu.be/3QkFNZ4H9Mk?si=8tVpHfD-Yxt6a7wC) |
+| 10 | Lincoln: A Man of His Times — Full Documentary | [▶ Watch](https://youtu.be/-Teez87T0E0?si=G8_xrTFuPE9wMmUp) |
+ 
+---
+
 ## Phase 1 — Historical Leaders
  
 > Start here. These figures define the bedrock of political leadership, oratory, and moral courage.
