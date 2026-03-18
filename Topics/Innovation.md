@@ -26,7 +26,7 @@
 > https://youtu.be/fxbCHn6gE3U?si=X0XhhcB748eF8_jQ
 ### Our approach to innovation is dead wrong | Diana Kander | TEDxKC
 > https://youtu.be/pii8tTx1UYM?si=kyfxI6bsajh7F7YV
-### https://www.youtube.com/watch?v=j4QlG5jKpio
+### The Power of Purpose in Business | Ashley M. Grice | TED
 > https://youtu.be/j4QlG5jKpio?si=uDEF4eZdGkF_PwQB
 
 
