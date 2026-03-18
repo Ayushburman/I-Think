@@ -68,4 +68,29 @@ Start with the **foundations of creative thinking**, move through **innovation f
 - *How to Fly a Horse* — Kevin Ashton
  
 ---
+### 🔬 Innovation Theory & Frameworks
+ 
+> Structured models for understanding and applying innovation.
+ 
+- *The Innovator's Dilemma* — Clayton Christensen
+- *The Innovator's DNA* — Jeffrey Dyer
+- *Innovation and Entrepreneurship* — Peter F. Drucker
+- *The Myths of Innovation* — Scott Berkun
+- *Sprint* — Jake Knapp
+- *Where Good Ideas Come From* — Steven Johnson
+
+---
+ 
+### 🏢 Business Strategy & Market Creation
+ 
+> Thinking at the intersection of innovation and competitive advantage.
+ 
+- *Zero to One* — Peter Thiel
+- *Blue Ocean Strategy* — W. Chan Kim & Renée Mauborgne
+- *Business Model Generation* — Alexander Osterwalder
+- *Play Bigger* — Al Ramadan
+- *Alchemy* — Rory Sutherland
+ 
+---
+
 
