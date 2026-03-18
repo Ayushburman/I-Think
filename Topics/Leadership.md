@@ -4,6 +4,14 @@
 > A curated archive of speeches, documentaries, and TED talks — organized by leader and era.
  
 ---
+## 🗂️ Table of Contents
+ 
+- [Phase 1 — Historical Leaders](#phase-1--historical-leaders)
+- [Phase 2 — WWII Era Leaders](#phase-2--wwii-era-leaders)
+- [Phase 3 — Modern Era Leaders](#phase-3--modern-era-leaders)
+- [Phase 4 — TED Talks on Leadership](#phase-4--ted-talks-on-leadership)
+ 
+---
 
 
 ### 3. Joseph Stalin 
