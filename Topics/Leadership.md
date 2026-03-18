@@ -1,10 +1,9 @@
 # 👥 Leadership Discussions
-
-Decision-making, responsibility, influence,
-and teamwork.
-
-
-
+ 
+> Decision-making, responsibility, influence, and teamwork.  
+> A curated archive of speeches, documentaries, and TED talks — organized by leader and era.
+ 
+---
 ------
 ### 1. Abraham Lincoln
 > https://youtu.be/bC4kQ2-kHZE?si=9lvE4e40HO1rOmlh
