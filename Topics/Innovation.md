@@ -8,7 +8,7 @@
 > https://youtu.be/bEusrD8g-dM?si=7gt-4PVnfaztaGvf
 ### Creative thinking - how to get out of the box and generate ideas: Giovanni Corazza at TEDxRoma
 > https://youtu.be/bEusrD8g-dM?si=evHEiITwmlp5l2OR
-
+### Speed up Innovation with Design Thinking | Guido Stompff | TEDxVenlo
 > https://youtu.be/ZBxZC9I6xyk?si=gCDRR-r5DhHCgV9I
 
 > https://youtu.be/gub38Cd4E0g?si=0sY_gr_tg20dObZg
