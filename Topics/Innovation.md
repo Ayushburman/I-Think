@@ -20,7 +20,7 @@
 > https://youtu.be/P1RUWa8pC0k?si=fEzsy9zXCf60G6EV
 ### Igniting creativity to transform corporate culture: Catherine Courage at TEDxKyoto 2012
 > https://youtu.be/01Y7qlPFpqw?si=V78TGCPQEjZ0JMg6
-
+### The Art of Innovation in the Age of AI | Keith McCormick | TEDxCapeMay
 > https://youtu.be/Idn3l0fxqsw?si=IfpS1vmrb29JfQIk
 
 > https://youtu.be/fxbCHn6gE3U?si=X0XhhcB748eF8_jQ
