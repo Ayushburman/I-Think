@@ -6,7 +6,7 @@
 > https://youtu.be/m9mFIQZMPmI?si=7hqX5EQ49oOcrujF
 ### Creative thinking - how to get out of the box and generate ideas: Giovanni Corazza at TEDxRoma
 > https://youtu.be/bEusrD8g-dM?si=7gt-4PVnfaztaGvf
-
+### Creative thinking - how to get out of the box and generate ideas: Giovanni Corazza at TEDxRoma
 > https://youtu.be/bEusrD8g-dM?si=evHEiITwmlp5l2OR
 
 > https://youtu.be/ZBxZC9I6xyk?si=gCDRR-r5DhHCgV9I
