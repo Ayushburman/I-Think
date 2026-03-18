@@ -92,5 +92,15 @@ Start with the **foundations of creative thinking**, move through **innovation f
 - *Alchemy* — Rory Sutherland
  
 ---
+### 🛠️ Design, Process & Organizational Innovation
+ 
+> Practical approaches to building cultures and products that innovate.
+ 
+- *The Art of Innovation* — Tom Kelley
+- *The Ten Faces of Innovation* — Tom Kelley
+- *The Idea Factory* — Jon Gertner
+ 
+---
+
 
 
