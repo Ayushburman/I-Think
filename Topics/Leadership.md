@@ -350,35 +350,5 @@
 
 > https://youtu.be/8YKlsHsB4To?si=4zTgTVIMrIdjye7g
 
-> https://youtu.be/TQyBEyuyQmA?si=hDWiKyWigc4h1eWt
-
-> https://youtu.be/P6njRwz_dMw?si=6rmeVlLNRk_avgo1
-
-> https://youtu.be/b6Fm19WqCl0?si=RT559pi4mZ1ARaaD
-
-> https://youtu.be/eXzOaOJrKw8?si=QVvU-4rzXLoOuich
-
-> https://youtu.be/hpZwCRInrgo?si=TRHNLynqY4XgFVbr
-
-
-> https://youtu.be/hpZwCRInrgo?si=RIZYU8mbf75S_wh4
-
-> https://youtu.be/f0EcBYwnuWE?si=H6ftWGMAaHwNIv-V
-
-> https://youtu.be/irkXAtTJFUQ?si=ensWw2bid_2PeSZU
-
-> https://youtu.be/l7oYKMVUyXo?si=T5wiQYF0mVwgurkq
-
-> https://youtu.be/5cVhMqIFR6E?si=aBZylM8Ed6LM-cpY
-
-> https://youtu.be/9BEU8A_JZPU?si=zO9tPUYLsEdJ8M2f
-
-> https://youtu.be/m7jcXv5MwMU?si=gk3MBWp-TiG_m-Go
-
----------
- 
-# Dr BR Ambedkar 
-
->https://youtu.be/Wf3VJCpNMqI?si=QTGvLbvd3ljqBDsF
 
 
