@@ -102,5 +102,13 @@ Start with the **foundations of creative thinking**, move through **innovation f
  
 ---
 
-
+# ✦ Notes
+ 
+- Duplicate talk removed *(Giovanni Corazza · TEDxRoma appears once)*
+- Book #21 was left blank in the source — omitted intentionally
+- Watch order is a recommendation, not a strict sequence
+ 
+---
+ 
+*Last updated: 2026*
 
