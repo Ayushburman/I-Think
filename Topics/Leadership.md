@@ -43,6 +43,31 @@
 | 4 | Stalin's Purges & the Soviet State | [▶ Watch](https://youtu.be/yEyJ1WHtfFA?si=z3n7_TXNrivKhgQj) |
  
 ---
+## Phase 2 — WWII Era Leaders
+ 
+> Move here after Phase 1. The war produced the most defining speeches in modern political history.
+ 
+---
+ 
+### 🇬🇧 Winston Churchill
+ 
+*British Prime Minister · WWII · Iron Curtain*
+ 
+| # | Title | Link |
+|---|-------|------|
+| 1 | "We Shall Never Surrender" | [▶ Watch](https://youtu.be/s_LncVnecLA?si=b8dhGiVXbqe9qmTs) |
+| 2 | "Be Ye Men of Valour" — First Wartime Broadcast (1940) | [▶ Watch](https://youtu.be/s_jYYl74awM?si=acyH-Mimw-k2oeDk) |
+| 3 | "Their Finest Hour" (1940) | [▶ Watch](https://youtu.be/6jjhxeHIjvU?si=jSc84GrciqourNi2) |
+| 4 | Churchill Addresses the Nation After the Blitz (1941) | [▶ Watch](https://youtu.be/getugf_i7E0?si=Mb5ATCt5U471m97Y) |
+| 5 | Churchill's Speech to U.S. Congress (Dec 1941) | [▶ Watch](https://youtu.be/PkQ8uFiqx4k?si=PPitiRuPHsKltX4j) |
+| 6 | VE Day Address — Victory in Europe (May 8, 1945) | [▶ Watch](https://youtu.be/q_G8YYuk2Zk?si=TKmmryg-RVjwg4Cj) |
+| 7 | Churchill's Iron Curtain Speech (1946) | [▶ Watch](https://youtu.be/5QuSXZTo3Uo?si=92IrPhovyaPVGc2S) |
+| 8 | Churchill: The Greatest Briton — Documentary | [▶ Watch](https://youtu.be/qWnKwFzx3Bc?si=eFArEYcxa3T9TDed) |
+| 9 | Churchill's Leadership Style & Legacy | [▶ Watch](https://youtu.be/pSi9NVQ3sXI?si=D1iA9l_E1GF4815U) |
+| 10 | Churchill: The Wilderness Years | [▶ Watch](https://youtu.be/8XE-xn32o1Y?si=1ZQUjmbOCaDRZTAX) |
+| 11 | Churchill's Full Biography Documentary | [▶ Watch](https://youtu.be/qhv_0RY3lD0?si=OUGtYg2qUDvtRNpw) |
+ 
+---
 ---
 
 ### 3. Joseph Stalin 
