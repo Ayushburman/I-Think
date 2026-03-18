@@ -427,20 +427,3 @@
 
 > https://youtu.be/U_tdDE0Ghnk?si=QoH2v4fLHriaai8w
 
->https://www.youtube.com/live/M1Iq-i5vtgw?si=1khuBpTpVCcYi69G
-
-> https://youtu.be/VZzsaqC8n_U?si=6dHiQUVjplLGAAQb
-
-> https://youtu.be/leYExGi5iGo?si=8vY0CPzA35R6Ezp2
-
-> https://youtu.be/NIgqhU4lkgo?si=wGt5FiPK3yYtZfoQ
-
-> https://youtu.be/aJI8XTa_DII?si=c1ghLT_2UUBXR0Kr
-
-> https://youtu.be/H8m0GQ2-iUk?si=C97koB_DpbjYK-Y5
-
-> https://youtu.be/wQsCSMwjUsY?si=fOI3I6HSVqZPYkF7
-
-> https://youtu.be/HRnBoEcVW9Q?si=2GCIf5fOE_SfYm6x
-------------
-Ted Talk 
