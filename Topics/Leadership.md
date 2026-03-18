@@ -68,6 +68,25 @@
 | 11 | Churchill's Full Biography Documentary | [▶ Watch](https://youtu.be/qhv_0RY3lD0?si=OUGtYg2qUDvtRNpw) |
  
 ---
+### 🇺🇸 Franklin D. Roosevelt
+ 
+*32nd U.S. President · New Deal · WWII*
+ 
+| # | Title | Link |
+|---|-------|------|
+| 1 | "Only Thing We Have to Fear Is Fear Itself" — Inaugural Address (1933) | [▶ Watch](https://youtu.be/rIKMbma6_dc?si=gPyEKML6zxa6PYvw) |
+| 2 | Fireside Chat 6: On Government & Capitalism (1934) | [▶ Watch](https://youtu.be/90rVhmpGPrU?si=YB8Vk7Q9geD_DLQJ) |
+| 3 | FDR's Address to Congress (1935 — Historic Footage) | [▶ Watch](https://youtu.be/4w4fw3-lM3U?si=AicOKHQKaPYhU9zI) |
+| 4 | Roosevelt on Nazis & Aid to Britain (1940) | [▶ Watch](https://youtu.be/AIJm8Hp4Xe0?si=zAleJA8DnAukrpDo) |
+| 5 | "Great Arsenal of Democracy" Speech (1940) | [▶ Watch](https://youtu.be/rIKMbma6_dc?si=gPyEKML6zxa6PYvw) |
+| 6 | "Day of Infamy" — FDR Declares War on Japan (Dec 8, 1941) | [▶ Watch](https://youtu.be/lK8gYGg0dkE?si=-DjxG3HkkZUpltL7) |
+| 7 | Fireside Chat: Progress of the War (1943) | [▶ Watch](https://youtu.be/0tMTP1ZxvXY?si=mGFtDFlKevb8Bmcx) |
+| 8 | FDR's Life and Presidential Legacy — History Channel | [▶ Watch](https://youtu.be/_fwRKlAtPKI?si=r85oBOiLYHRKxkuK) |
+| 9 | American Icons: FDR — Full Documentary | [▶ Watch](https://youtu.be/6atOXk7HErk?si=b8VOKFDBF-GOPBO8) |
+| 10 | 1982 ABC Documentary: FDR | [▶ Watch](https://youtu.be/2qcVShQK6oM?si=03uEJk6R0aUVc0MN) |
+ 
+---
+ 
 ---
 
 ### 3. Joseph Stalin 
