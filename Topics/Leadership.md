@@ -307,18 +307,3 @@
 > https://youtu.be/laGZaS4sdeU?si=lDhbbzvr2obgUs0U
 
 > https://youtu.be/iO5Rf_4bW6g?si=5iD63Snob_qwEbMp
-
-
------------
-# Indira Gandhi 
-> https://youtu.be/q8aETK5pQR4?si=-cMCi7VLivXOBJwU
-
-> https://youtu.be/XZDBBEuP00I?si=HgMD9z45YwAo98Ng
-
-> https://youtu.be/sfuaGXbs-xY?si=nltr6P9sBHzEwZWp
-
-> https://youtu.be/Gafm24c2RHI?si=4PD4613JWk3ESLj3
-
-> https://youtu.be/UM8Ri8pcD0k?si=ljmORBfnXgz3YV3h
-
-> http
