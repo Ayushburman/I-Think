@@ -41,3 +41,31 @@ Start with the **foundations of creative thinking**, move through **innovation f
  
 ---
  
+### Phase 4 — Culture, Purpose & the Future
+ 
+| # | Talk | Speaker | Link |
+|---|------|---------|------|
+| 11 | Igniting Creativity to Transform Corporate Culture | Catherine Courage · TEDxKyoto | [▶ Watch](https://youtu.be/01Y7qlPFpqw?si=V78TGCPQEjZ0JMg6) |
+| 12 | The Power of Purpose in Business | Ashley M. Grice · TED | [▶ Watch](https://youtu.be/j4QlG5jKpio?si=uDEF4eZdGkF_PwQB) |
+| 13 | What the World Can Learn From China's Innovation Playbook | Keyu Jin · TED | [▶ Watch](https://youtu.be/gub38Cd4E0g?si=0sY_gr_tg20dObZg) |
+| 14 | The Art of Innovation in the Age of AI | Keith McCormick · TEDxCapeMay | [▶ Watch](https://youtu.be/Idn3l0fxqsw?si=IfpS1vmrb29JfQIk) |
+ 
+---
+ 
+## 📚 Books — By Genre & Theme
+ 
+---
+ 
+### 🧠 Creative Thinking & Mindset
+ 
+> Books that rewire how you think before you build anything.
+ 
+- *The Creative Act: A Way of Being* — Rick Rubin
+- *Creative Confidence* — Tom Kelley & David Kelley
+- *A Whack on the Side of the Head* — Roger von Oech
+- *Steal Like an Artist* — Austin Kleon
+- *How to Get Ideas* — Jack Foster
+- *How to Fly a Horse* — Kevin Ashton
+ 
+---
+
