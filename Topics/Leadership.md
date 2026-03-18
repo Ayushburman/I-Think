@@ -31,10 +31,18 @@
  
 ---
 
-## Phase 1 — Historical Leaders
+### ☭ Joseph Stalin
  
-> Start here. These figures define the bedrock of political leadership, oratory, and moral courage.
+*Soviet Premier · WWII · Cold War Origins*
  
+| # | Title | Link |
+|---|-------|------|
+| 1 | Stalin: Man of Steel — Documentary | [▶ Watch](https://youtu.be/5A0BP5VioCA?si=-RNNh-qalwjNVMkK) |
+| 2 | Stalin's Rise to Power | [▶ Watch](https://youtu.be/VjLukZloWMY?si=GzxUMpTptAqPZD5E) |
+| 3 | Stalin: WWII Leadership & Strategy | [▶ Watch](https://youtu.be/rsQZCm7kJtM?si=9hhZOq3cUYbY3Wc8) |
+| 4 | Stalin's Purges & the Soviet State | [▶ Watch](https://youtu.be/yEyJ1WHtfFA?si=z3n7_TXNrivKhgQj) |
+ 
+---
 ---
 
 ### 3. Joseph Stalin 
