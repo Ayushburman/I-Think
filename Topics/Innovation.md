@@ -10,7 +10,7 @@
 > https://youtu.be/bEusrD8g-dM?si=evHEiITwmlp5l2OR
 ### Speed up Innovation with Design Thinking | Guido Stompff | TEDxVenlo
 > https://youtu.be/ZBxZC9I6xyk?si=gCDRR-r5DhHCgV9I
-
+### What the World Can Learn From China’s Innovation Playbook | Keyu Jin | TED
 > https://youtu.be/gub38Cd4E0g?si=0sY_gr_tg20dObZg
 
 > https://youtu.be/mtn31hh6kU4?si=Le7pHGQ_Zi3BIJrR
