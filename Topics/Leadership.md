@@ -12,7 +12,11 @@
 - [Phase 4 — TED Talks on Leadership](#phase-4--ted-talks-on-leadership)
  
 ---
-
+## Phase 1 — Historical Leaders
+ 
+> Start here. These figures define the bedrock of political leadership, oratory, and moral courage.
+ 
+---
 
 ### 3. Joseph Stalin 
 > https://youtu.be/5A0BP5VioCA?si=-RNNh-qalwjNVMkK
