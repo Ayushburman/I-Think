@@ -381,33 +381,4 @@
 
 >https://youtu.be/Wf3VJCpNMqI?si=QTGvLbvd3ljqBDsF
 
-> https://youtu.be/WS7P9TKDZ2k?si=6nIS9hUXutZi4OoA
-
-
-> https://youtu.be/48W1T6Z4EF8?si=oHAV0cQTDGIym02q
-
-> https://youtu.be/ALuyrcNfNRM?si=jqlVxqPe3y4-vWlz
-
-> https://youtu.be/imzO0eNziD4?si=qrhV_LuS0NZE6izy
-
-> https://youtu.be/kvnfhCp_YKo?si=ZJ_OUP_hoslDa9FV
-
-> https://youtu.be/lPsZLK540Cg?si=IbMv47PbA0kGFPTP
-
-> https://youtu.be/keejOOvSlWY?si=UFtfGoJNCDQndo-v
-
-> https://youtu.be/BL7ueFCnEbY?si=_oYpWcDKkLfR9Zx-
-
-> https://youtu.be/9Li1VYCYbLQ?si=pNP5tzHvMk1PvZ8I
-
-> https://youtu.be/IQyGLNK-X9Y?si=91QGaP9FarejdxTU
-------
-# Vladimir Putin 
-
-> https://youtu.be/9wcQq2EhFQw?si=r9Yd9hCfgT2S-L17
-
-> https://youtu.be/fOCWBhuDdDo?si=nLTgHbYi-KqDHeLy
-
-> https://youtu.be/npyMtn5ADQg?si=baLwrK1q2RI66Ocu
-
 
