@@ -86,7 +86,25 @@
 | 10 | 1982 ABC Documentary: FDR | [▶ Watch](https://youtu.be/2qcVShQK6oM?si=03uEJk6R0aUVc0MN) |
  
 ---
+ ### ☠️ Adolf Hitler
  
+*Nazi Germany · WWII · A Study in Demagoguery*
+ 
+> ⚠️ *Included for historical analysis and understanding of authoritarian rhetoric — not endorsement.*
+ 
+| # | Title | Link |
+|---|-------|------|
+| 1 | Hitler's Rise to Power — Documentary | [▶ Watch](https://youtu.be/8-zN4FvGR2M?si=h7c-Pv35MD3mcdR2) |
+| 2 | Mein Kampf & the Nazi Ideology | [▶ Watch](https://youtu.be/XeT9Oc65Hsc?si=UJ1S2my4nftZbWIi) |
+| 3 | Hitler's Propaganda Machine | [▶ Watch](https://youtu.be/BNTKqVfOv6A?si=adr3f11WvPhNJtnI) |
+| 4 | The Nuremberg Rallies — Mass Manipulation | [▶ Watch](https://youtu.be/a_j6o4QBpXo?si=1bdTs31ccpIaGITe) |
+| 5 | Hitler's Rhetoric & Psychological Tactics | [▶ Watch](https://youtu.be/oenHZd8H0XA?si=q4CD_ouoMshTtgl1) |
+| 6 | Hitler: The Downfall of a Dictator | [▶ Watch](https://youtu.be/cV6W6iHjmoE?si=7Rn7CTVthrOlHn-0) |
+| 7 | The Psychology of Hitler's Leadership | [▶ Watch](https://youtu.be/yhfa4kpyMbs?si=q9gwEaJGgjog79FY) |
+| 8 | Hitler's Final Days & the Collapse of the Reich | [▶ Watch](https://youtu.be/D164NeKjJjM?si=ltBjxfmYHQ2SId3u) |
+| 9 | How Hitler Came to Power — Analysis | [▶ Watch](https://youtu.be/I6eIox2vOiA?si=PMOo0_TdIIIaTJ1q) |
+ 
+---
 ---
 
 ### 3. Joseph Stalin 
