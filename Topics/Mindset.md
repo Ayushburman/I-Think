@@ -19,7 +19,19 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 
 
 ---
+
+### 3. Marie Curie
+*Persistence against all odds. The cost and reward of obsessive dedication.*
  
+- [Video 1](https://youtu.be/7SJsJOQLzz8?si=07361mYM5sqEA2Ab)
+- [Video 2](https://youtu.be/Bf7wdUXuG-g?si=bRqDVueXV1VWaGFZ)
+- [Video 3](https://youtu.be/snn29wkKTi4?si=N5DRB7-XJJg1J0iD)
+- [Video 4](https://youtu.be/mnr0VKNpnl0?si=6llXPkszL8fWmOyf)
+- [Video 5](https://youtu.be/3HH_4D1V2rE?si=bQfEL8ZDR5RzT4DI)
+- [Video 6](https://youtu.be/Gf6s7tMGrFE?si=5ZwMjQgECDvBmiP0)
+ 
+---
+
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
