@@ -1,52 +1,50 @@
 # ðŸ§  Mindset Library
 > A curated collection of talks, interviews, and insights from history's most influential minds â€” organized for deliberate learning.
- 
+
 ---
+
 ## How to Use This Library
- 
+
 Each figure is grouped by **domain** and ordered from **foundational thinkers â†’ applied innovators â†’ modern leaders**. Start from the top if you're new, or jump to any section that resonates with where you are right now.
 
------
+---
+
+## ðŸ“ Part I â€” Scientists & Thinkers
+
+### 1. Isaac Newton
+*Foundation of modern physics. Master of solitude, patience, and deep work.*
+
+- [Video 1](https://youtu.be/qSqF6G_yFZc?si=JesLAZmWpb72i_qI)
+- [Video 2](https://youtu.be/RanLCsiBoYw?si=hAnsmC9dHlX5uhiX)
+
+---
 
 ### 2. Albert Einstein
 *Radical imagination over rote knowledge. Thought experiments as tools.*
- 
+
 - [Video 1](https://youtu.be/0zk-NVPYPWk?si=Ghfl04gFIQQJQhd8)
 - [Video 2](https://youtu.be/KyjQJBDD5V4?si=dU10xmsgdXSXH9X5)
 - [Video 3](https://youtu.be/3tX6pBqP_KY?si=WdL6beCY3go89Gyr)
 - [Video 4](https://youtu.be/VnVVuLIoSWI?si=EJ5wLLHEo8gzOwbo)
 - [Video 5](https://youtu.be/906UAkNFs90?si=LFvv1dELwsBFRxw5)
 
-
 ---
-### 5. Nikola Tesla
-*Vision beyond the present moment. The tragedy and triumph of the independent mind.*
- 
-- [Video 1](https://youtu.be/FeUA-0G1p5k?si=PZ-my3ES9Njo_U0W)
-- [Video 2](https://youtu.be/HEH3qLofMaU?si=wYnHiX8SHqACdHBb)
-- [Video 3](https://youtu.be/tzD8sFvH4PA?si=-2hdMjIYoHR6dB_O)
-- [Video 4](https://youtu.be/comM6bC4q14?si=SUGuqc-EONMO7Owu)
-- [Video 5](https://youtu.be/177vg1pEGbo?si=dLUkcOEfuKWVXNBp)
-- [Video 6](https://youtu.be/WzUaxNhKlTo?si=x6c2AQiGBBq6S5or)
-- [Video 7](https://youtu.be/ecni9SjkWoM?si=hEuPA1--9_BK6_Ub)
- 
----
-
 
 ### 3. Marie Curie
 *Persistence against all odds. The cost and reward of obsessive dedication.*
- 
+
 - [Video 1](https://youtu.be/7SJsJOQLzz8?si=07361mYM5sqEA2Ab)
 - [Video 2](https://youtu.be/Bf7wdUXuG-g?si=bRqDVueXV1VWaGFZ)
 - [Video 3](https://youtu.be/snn29wkKTi4?si=N5DRB7-XJJg1J0iD)
 - [Video 4](https://youtu.be/mnr0VKNpnl0?si=6llXPkszL8fWmOyf)
 - [Video 5](https://youtu.be/3HH_4D1V2rE?si=bQfEL8ZDR5RzT4DI)
 - [Video 6](https://youtu.be/Gf6s7tMGrFE?si=5ZwMjQgECDvBmiP0)
- 
+
 ---
+
 ### 4. Charles Darwin
 *Observation, humility, and the courage to challenge consensus.*
- 
+
 - [Video 1](https://youtu.be/ZtkZMAmgHaU?si=DbOp-dgli-nd415U)
 - [Video 2](https://youtu.be/HmEmWA2SlVc?si=tB8MzMa4FfXBazVK)
 - [Video 3](https://youtu.be/KPh0LOCWT5A?si=2-EgNCzjf1WuSlSc)
@@ -55,11 +53,25 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 6](https://youtu.be/dfsUz2O2jww?si=vl4dC4dAmqwrDDrR)
 - [Video 7](https://youtu.be/6yEX_OI0xbQ?si=QTXLuS3N-yzQlv7C)
 - [Video 8](https://youtu.be/KqRvtVZeNyg?si=-qMuQCF5YqEzULyk)
- 
+
 ---
+
+### 5. Nikola Tesla
+*Vision beyond the present moment. The tragedy and triumph of the independent mind.*
+
+- [Video 1](https://youtu.be/FeUA-0G1p5k?si=PZ-my3ES9Njo_U0W)
+- [Video 2](https://youtu.be/HEH3qLofMaU?si=wYnHiX8SHqACdHBb)
+- [Video 3](https://youtu.be/tzD8sFvH4PA?si=-2hdMjIYoHR6dB_O)
+- [Video 4](https://youtu.be/comM6bC4q14?si=SUGuqc-EONMO7Owu)
+- [Video 5](https://youtu.be/177vg1pEGbo?si=dLUkcOEfuKWVXNBp)
+- [Video 6](https://youtu.be/WzUaxNhKlTo?si=x6c2AQiGBBq6S5or)
+- [Video 7](https://youtu.be/ecni9SjkWoM?si=hEuPA1--9_BK6_Ub)
+
+---
+
 ### 6. Alan Turing
 *Logic as a superpower. The quiet genius who changed the world.*
- 
+
 - [Video 1](https://youtu.be/MidJR581irA?si=cxlWcSaMGaQp60K4)
 - [Video 2](https://youtu.be/XGqbieVcjPU?si=gY_KRJOA5XmKK1EI)
 - [Video 3](https://youtu.be/UTmsSG8OW5M?si=9ze1ndXz-MVRqbGt)
@@ -68,11 +80,12 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 6](https://youtu.be/V4V2bpZlqx8?si=dYf5Z8cjJEoNww1U)
 - [Video 7](https://youtu.be/qn_BBQEjCxI?si=9s2dvmBC9Dp8HxZE)
 - [Video 8](https://youtu.be/X_Hp1Ut6HZo?si=JB9VK9NE-eEV5s_n)
- 
+
 ---
+
 ### 7. Richard Feynman
 *Joy of discovery. Making the complex simple. Learning as a way of life.*
- 
+
 - [Video 1](https://youtu.be/lytxafTXg6c?si=oPD4YheMbpO8wkIf)
 - [Video 2](https://youtu.be/P1ww1IXRfTA?si=i1Tzsv-5VlHoFNbm)
 - [Video 3](https://youtu.be/VW6LYuli7VU?si=wyE3ymt6MI71hla-)
@@ -85,11 +98,12 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 10](https://youtu.be/GNhlNSLQAFE?si=ogubc9YNwGRphJR6)
 - [Video 11](https://youtu.be/H9fjhQMsDW4?si=BEZ6G91pRPbj1PQI)
 - [Playlist](https://youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2&si=JOQkntBn2W6WKYii)
- 
+
 ---
- ### 8. Stephen Hawking
+
+### 8. Stephen Hawking
 *Redefining limits. Living with purpose beyond physical constraint.*
- 
+
 - [Video 1](https://youtu.be/b-2GV0T5Zpc?si=zWk0s0XqFQq9Vob3)
 - [Video 2](https://youtu.be/VYxjumUhji0?si=LTx7VJ3XfHnoqM8J)
 - [Video 3](https://youtu.be/vFtM0vHJL5M?si=iRTxLMc4Lg8-5B_w)
@@ -108,25 +122,25 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 16](https://youtu.be/NMfTtS7XT2w?si=DboWdKFXoTpO6MFx)
 - [Video 17](https://youtu.be/Ihs4VFZWwn4?si=EbCpMtMBqBSXogqt)
 - [Video 18](https://youtu.be/CORCCWAdhUw?si=pa-LWwuB-eDtIbpK)
- 
+
 ---
+
 ## ðŸ¥ Part II â€” Medical Pioneers
- 
+
 ### 9. William Osler
 *The art of medicine. Compassion, curiosity, and lifelong learning.*
- 
+
 - [Video 1](https://youtu.be/TTOkGH9dUnY?si=11zbxGxP0SxyGYOq)
 - [Video 2](https://youtu.be/xzD1_r4CDdY?si=YAzF5674xR8ovLl9)
 - [Video 3](https://youtu.be/jj66VqVM73w?si=tnf3-L5djw59AL-z)
 - [Video 4](https://youtu.be/RFLiD_cesM0?si=PycX9ONd0qM7-4EG)
 - [Video 5](https://youtu.be/b6vtQwB-uaQ?si=sU_KP3qah7eT499v)
- 
+
 ---
----
- 
+
 ### 10. Alexander Fleming
 *Accidental discovery, prepared mind. Staying curious in routine work.*
- 
+
 - [Video 1](https://youtu.be/CNbnLgetqHs?si=7rJy5qjt84lVynXK)
 - [Video 2](https://youtu.be/0ZWjzcsTd5M?si=dTqWy-ZBmExpLtdE)
 - [Video 3](https://youtu.be/nh9sHtJrL9s?si=uYU-nM8sGH8guKGe)
@@ -143,23 +157,38 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 14](https://youtu.be/7i60m-b5TBA?si=w3HN_pJbCFHP_Vie)
 - [Video 15](https://youtu.be/q2yd3lGN7xA?si=XIEfSNja_IEgnYer)
 - [Video 16](https://youtu.be/7qeZLLhx5kU?si=SXkZAxetcHGq3l0Q)
- 
+
 ---
- 
+
+### 11. Frederick Banting
+*Single-minded focus that saved millions. Faith in your hypothesis.*
+
+- [Video 1](https://youtu.be/amCeBhkNo50?si=imMfcap5hc48YZ3z)
+- [Video 2](https://youtu.be/PfaQp5xN7fY?si=vBDRILBkAZnWOz8d)
+- [Video 3](https://youtu.be/7yNYYyhI5tY?si=pR49-0UTCBFwVcyW)
+- [Video 4](https://youtu.be/Qs_QCJv3HrA?si=L2vZdfW2ByP3VeUZ)
+- [Video 5](https://youtu.be/5Y3UaOteM0o?si=gej7VvueR98bBtGu)
+- [Video 6](https://youtu.be/WnME08SiJ0k?si=6-zJJe0UvOCXD-i2)
+- [Video 7](https://youtu.be/kVG7xlY7xVg?si=NkkFld6-_gWI4KGs)
+- [Video 8](https://youtu.be/FfMgBnvK_xY?si=_JywXldikNfWxoJk)
+
+---
+
 ### 12. Jonas Salk
 *Generosity of spirit. Choosing impact over profit.*
- 
+
 - [Video 1](https://youtu.be/erHXKP386Nk?si=1ZbLdQ_ISQLKqPuU)
 - [Video 2](https://youtu.be/BUYF3lluPpg?si=qOu22BbY6Jfenwvg)
 - [Video 3](https://youtu.be/tncrBZp0dxM?si=hzaXShXj3GSkPv5g)
 - [Video 4](https://youtu.be/eMFqqgsODRg?si=1ccXim1RoNy0lhIV)
- 
+
 ---
+
 ## ðŸŒ Part III â€” Leaders & Visionaries
- 
+
 ### 13. Nelson Mandela
 *Endurance, forgiveness, and the long game of justice.*
- 
+
 - [Video 1](https://youtu.be/4GkwO6w7WOQ?si=jfGrYf2IvLrs_99F)
 - [Video 2](https://youtu.be/pJiXu4q__VU?si=LP2rBBSC7SZzoh85)
 - [Video 3](https://youtu.be/WcQIEIRLU1Y?si=edZ43djPMQvm3PRk)
@@ -176,11 +205,12 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 14](https://youtu.be/3_ziO1gFOsQ?si=I0FOvs6A9nx_q80x)
 - [Video 15](https://youtu.be/PyfOrbO0xf4?si=MnwXzwzNBVW9Ke_i)
 - [Video 16](https://youtu.be/kxpMyMdvVlk?si=DIqRGnVklvtu5GzG)
- 
+
 ---
+
 ### 14. APJ Abdul Kalam
 *Dreaming big from humble roots. Science, service, and inspiration.*
- 
+
 - [Video 1](https://youtu.be/i5WYp4wMXfc?si=InS58EeT4iU_t1P7)
 - [Video 2](https://youtu.be/-7TwMUyWSE0?si=30T9DUQGGvTe09hb)
 - [Video 3](https://youtu.be/smjfGmCn7x0?si=lmmOdM9majRB-ejE)
@@ -196,11 +226,14 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 13](https://youtu.be/t5b20oLaIaw?si=e7hOyIynP9z8xdHJ)
 - [Video 14](https://youtu.be/ccu2HMbRwW4?si=GZSNdNCqsyLJKgDu)
 - [Video 15](https://youtu.be/OwptSUFl9UM?si=RpvvpkiJCRvOr8W1)
- 
+
 ---
+
+## ðŸ’¼ Part IV â€” Entrepreneurs & Builders
+
 ### 15. Ratan Tata
 *Ethics in business. Building institutions that outlast individuals.*
- 
+
 - [Video 1](https://youtu.be/7m4zQpf3Ouo?si=jZ1BCKenmzPSLu7Z)
 - [Video 2](https://youtu.be/9mySvo-EPT0?si=9jvFi5IqB3ZomXZU)
 - [Video 3](https://youtu.be/1iovw-V_kD4?si=V5ren318ASuIkj6c)
@@ -217,11 +250,12 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 14](https://youtu.be/J7wX31ArC08?si=ENON6MB43p_qqGls)
 - [Video 15](https://youtu.be/7-ZbWV61uMs?si=MgPV_xef1pe-zWeG)
 - [Video 16](https://youtu.be/mNrGif-TJ3E?si=aVXMPmciCboPV-RI)
- 
+
 ---
+
 ### 16. Jeff Bezos
 *Long-term thinking, customer obsession, and embracing failure.*
- 
+
 - [Video 1](https://youtu.be/SCpgKvZB_VQ?si=bL0H0mtiRP-ciucd)
 - [Video 2](https://youtu.be/lJJB7eb-1u0?si=yfti3GO7e2LT6PEe)
 - [Video 3](https://youtu.be/DcWqzZ3I2cY?si=zhfOYDrv883reEg9)
@@ -235,11 +269,12 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 11](https://youtu.be/G-0KJF3uLP8?si=Xo8GWOyGodyOawXK)
 - [Video 12](https://youtu.be/7TWKKww-F30?si=i4wyxERX_hayek7n)
 - [Video 13](https://youtu.be/RVVfJVj5z8s?si=TsnZkVICxxiPOhH6)
- 
+
 ---
+
 ### 17. Oprah Winfrey
 *Turning adversity into influence. Empathy as a leadership skill.*
- 
+
 - [Video 1](https://youtu.be/RLTgnOuYb6o?si=eC9DJApGFF0mg5l9)
 - [Video 2](https://youtu.be/v7_4_UJCuIU?si=VycGYWt_Y4vCvrNK)
 - [Video 3](https://youtu.be/LkSgxuQrYwY?si=FeA3Rxa6rIAgPtl7)
@@ -250,10 +285,11 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 - [Video 8](https://youtu.be/45D6LAUXExc?si=b5aetgSWCulfjN1i)
 - [Video 9](https://youtu.be/6596_qW2PeE?si=Q4sJyR6p_llXIT3o)
 - [Video 10](https://youtu.be/cGf85-bQmEQ?si=k1NLgr59xh9y-glP)
- 
+
 ---
+
 ## Quick Reference â€” Themes by Figure
- 
+
 | Theme | Best Starting Points |
 |---|---|
 | Deep focus & solitude | Newton, Darwin, Turing |
@@ -262,397 +298,7 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 | Purpose & service | Kalam, Salk, Osler |
 | Innovation & risk | Bezos, Tesla, Banting, Fleming |
 | Ethics & legacy | Ratan Tata, Mandela, Salk |
- 
+
 ---
 
-## ðŸ“ Part I â€” Scientists & Thinkers
- 
-### 1. Isaac Newton
-*Foundation of modern physics. Master of solitude, patience, and deep work.*
- 
-- [Video 1](https://youtu.be/qSqF6G_yFZc?si=JesLAZmWpb72i_qI)
-- [Video 2](https://youtu.be/RanLCsiBoYw?si=hAnsmC9dHlX5uhiX)
- 
---
-
-> https://youtu.be/906UAkNFs90?si=LFvv1dELwsBFRxw5
-
-### 3. madam curie
-> https://youtu.be/7SJsJOQLzz8?si=07361mYM5sqEA2Ab
-
-> https://youtu.be/Bf7wdUXuG-g?si=bRqDVueXV1VWaGFZ
-
-> https://youtu.be/snn29wkKTi4?si=N5DRB7-XJJg1J0iD
-
-> https://youtu.be/mnr0VKNpnl0?si=6llXPkszL8fWmOyf
-
-> https://youtu.be/3HH_4D1V2rE?si=bQfEL8ZDR5RzT4DI
-
-> https://youtu.be/Gf6s7tMGrFE?si=5ZwMjQgECDvBmiP0
-
-5. Charles Darwin
-> https://youtu.be/ZtkZMAmgHaU?si=DbOp-dgli-nd415U
-
-> https://youtu.be/HmEmWA2SlVc?si=tB8MzMa4FfXBazVK
-
-> https://youtu.be/KPh0LOCWT5A?si=2-EgNCzjf1WuSlSc
-
-> https://youtu.be/UzIZW2m5CfY?si=RwqLZJve6zblej4O
-
-> https://youtu.be/XOiUZ3ycZwU?si=ZtWlVttXv58ICAEs
-
-> https://youtu.be/dfsUz2O2jww?si=vl4dC4dAmqwrDDrR
-
-> https://youtu.be/6yEX_OI0xbQ?si=QTXLuS3N-yzQlv7C
-
-> https://youtu.be/KqRvtVZeNyg?si=-qMuQCF5YqEzULyk
-
-7. Nikola Tesla
-> https://youtu.be/FeUA-0G1p5k?si=PZ-my3ES9Njo_U0W
-
-> https://youtu.be/HEH3qLofMaU?si=wYnHiX8SHqACdHBb
-
-> https://youtu.be/tzD8sFvH4PA?si=-2hdMjIYoHR6dB_O
-
-> https://youtu.be/comM6bC4q14?si=SUGuqc-EONMO7Owu
-
-> https://youtu.be/177vg1pEGbo?si=dLUkcOEfuKWVXNBp
-
-> https://youtu.be/WzUaxNhKlTo?si=x6c2AQiGBBq6S5or
-
-> https://youtu.be/ecni9SjkWoM?si=hEuPA1--9_BK6_Ub
-
-
-9. Alan Turing
-> https://youtu.be/MidJR581irA?si=cxlWcSaMGaQp60K4
-
->https://youtu.be/XGqbieVcjPU?si=gY_KRJOA5XmKK1EI
-
-> https://youtu.be/UTmsSG8OW5M?si=9ze1ndXz-MVRqbGt
-
-> https://youtu.be/3NODW5sok5U?si=0leUDUUA2eBWSgL4
-
-> https://youtu.be/G2_Q9FoD-oQ?si=QZf3D-z6ujLEie0l
-
-> https://youtu.be/V4V2bpZlqx8?si=dYf5Z8cjJEoNww1U
-
-> https://youtu.be/qn_BBQEjCxI?si=9s2dvmBC9Dp8HxZE
-
-> https://youtu.be/X_Hp1Ut6HZo?si=JB9VK9NE-eEV5s_n
--------------------------
-## 11. Stephen Hawking
-> https://youtu.be/b-2GV0T5Zpc?si=zWk0s0XqFQq9Vob3
-
-> https://youtu.be/VYxjumUhji0?si=LTx7VJ3XfHnoqM8J
-
-> https://youtu.be/vFtM0vHJL5M?si=iRTxLMc4Lg8-5B_w
-
-> https://youtu.be/fFLVyWBDTfo?si=Sb1BbY_vTyvxfymX
-
-> https://youtu.be/OfGeskCmSUc?si=2JqXeT06RaHapVd6
-
---------------
-> https://youtu.be/pN34FNbOKXc?si=6j0QjlMGYMem66Qx
-
-> https://youtu.be/gOwAWpBeDSg?si=h8heCQ34OVrHGe1n
-
-> https://youtu.be/TXBuG90iGcg?si=-VuaNPHfn943BbtY
-
-> https://youtu.be/DmeOX5Zu36M?si=P3WW4h-wdOr1hR1a
-
-> https://youtu.be/zXCiv4sc5eY?si=dKiR8WGYsIPfLAdo
-
-> https://youtu.be/F8b9Ev2Ph5c?si=oaoG9cG3en4rCPs7
-
-> https://youtu.be/vo_lZiytsMw?si=mpaBrOW2aw0xWrpU
-
-> https://youtu.be/MmfikLimeQ8?si=tNKTk8aXGYqb0RCB
-
-> https://youtu.be/Cw6xuzosn4s?si=BSZWXzie0k6uW_8N
-
-> https://youtu.be/H14bBuluwB8?si=ydmqCKrcx9EfJ7SQ
-
-> https://youtu.be/NMfTtS7XT2w?si=DboWdKFXoTpO6MFx
-
-> https://youtu.be/Ihs4VFZWwn4?si=EbCpMtMBqBSXogqt
-
-> https://youtu.be/CORCCWAdhUw?si=pa-LWwuB-eDtIbpK
-
-
-
-
-
-
-13. Richard Fynman
-> https://youtu.be/lytxafTXg6c?si=oPD4YheMbpO8wkIf
-
-> https://youtu.be/P1ww1IXRfTA?si=i1Tzsv-5VlHoFNbm
-
-> https://youtu.be/VW6LYuli7VU?si=wyE3ymt6MI71hla-
-
-> https://youtu.be/bAX27XRHMH8?si=pjFfD-iN3xjLnzMO
-
-> https://youtu.be/36GT2zI8lVA?si=imM-elH2g4HI-VRY
-
-> https://youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2&si=JOQkntBn2W6WKYii
-
-> https://youtu.be/Si6NbKqYEd8?si=1u6sethQXUZQ3bGo
-
-> https://youtu.be/yRcOEnIOzII?si=b95DNB5tUjD8LnPo
-
-> https://youtu.be/vbn8eMRZUS4?si=JMb4fO-WMEMLQ08d
-
-> https://youtu.be/HhPZ7yx8ttg?si=tbZS-VkEUQJcxflc
-
-> https://youtu.be/GNhlNSLQAFE?si=ogubc9YNwGRphJR6
-
-> https://youtu.be/H9fjhQMsDW4?si=BEZ6G91pRPbj1PQI
-
-> https://youtu.be/yRcOEnIOzII?si=5nfczUu6IXtjefi2
-
-> 
-
-
-
-
-
-15. William Osler
-> https://youtu.be/TTOkGH9dUnY?si=11zbxGxP0SxyGYOq
-
-> https://youtu.be/xzD1_r4CDdY?si=YAzF5674xR8ovLl9
-
-> https://youtu.be/jj66VqVM73w?si=tnf3-L5djw59AL-z
-
-> https://youtu.be/RFLiD_cesM0?si=PycX9ONd0qM7-4EG
-
-> https://youtu.be/b6vtQwB-uaQ?si=sU_KP3qah7eT499v
-
-# 17. Alexandar Fleming
-> https://youtu.be/CNbnLgetqHs?si=7rJy5qjt84lVynXK
-
-> https://youtu.be/0ZWjzcsTd5M?si=dTqWy-ZBmExpLtdE
-
-> https://youtu.be/nh9sHtJrL9s?si=uYU-nM8sGH8guKGe
-
-> https://youtu.be/y6084NqO_Sw?si=MYXlKj6813LSxQbz
-
-> https://youtu.be/mhXmkDapHWg?si=JSn2bcLrfgqIRcvs
-
-> https://youtu.be/_01YqX3ixLA?si=wjthiJMmLqbWdo9n
-
-> https://youtu.be/PoRXqyItDFE?si=Rmv168vqrXm6xSmj
-
-> https://youtu.be/tv_JY3Am9xA?si=hNZ64Rtn46b19Bxt
-
-> https://youtu.be/kCAi8rz87G4?si=gLnHHOnDG0P7dpk_
-
-> https://youtu.be/iuBBcVieork?si=V9AYaDpYMlmi0IBR
-
-> https://youtu.be/UuSoiWcckgc?si=ddEA93pUwrBmOgkb
-
-> https://youtu.be/ZEkg1LOsUuE?si=18K9m4n7gusWuvp6
-
-> https://youtu.be/qO9oW1bGXKI?si=E2vkyRLXdOz0YscI
-
-> https://youtu.be/7i60m-b5TBA?si=w3HN_pJbCFHP_Vie
-
-> https://youtu.be/q2yd3lGN7xA?si=XIEfSNja_IEgnYer
-
-> https://youtu.be/7qeZLLhx5kU?si=SXkZAxetcHGq3l0Q
-
--------------------------
-
-# 18. Frederick Banting
-> https://youtu.be/amCeBhkNo50?si=imMfcap5hc48YZ3z
-
-> https://youtu.be/PfaQp5xN7fY?si=vBDRILBkAZnWOz8d
-
-> https://youtu.be/7yNYYyhI5tY?si=pR49-0UTCBFwVcyW
-
-> https://youtu.be/7yNYYyhI5tY?si=BE18BExhT5G-e3YV
-
-> https://youtu.be/Qs_QCJv3HrA?si=L2vZdfW2ByP3VeUZ
-
-> https://youtu.be/5Y3UaOteM0o?si=gej7VvueR98bBtGu
-
-> https://youtu.be/WnME08SiJ0k?si=6-zJJe0UvOCXD-i2
-
-
-> https://youtu.be/kVG7xlY7xVg?si=NkkFld6-_gWI4KGs
-
-> https://youtu.be/RanLCsiBoYw?si=F6JLwA5hQNLQCusD
-
-> https://youtu.be/FfMgBnvK_xY?si=_JywXldikNfWxoJk
-
-
-# 20. Jonas Salk
-> https://youtu.be/erHXKP386Nk?si=1ZbLdQ_ISQLKqPuU
-
-> https://youtu.be/BUYF3lluPpg?si=qOu22BbY6Jfenwvg
-
-> https://youtu.be/tncrBZp0dxM?si=hzaXShXj3GSkPv5g
-
-> https://youtu.be/eMFqqgsODRg?si=1ccXim1RoNy0lhIV
---------------------
-23. Nelson Mandela
-
-> https://youtu.be/4GkwO6w7WOQ?si=jfGrYf2IvLrs_99F
-
-> https://youtu.be/pJiXu4q__VU?si=LP2rBBSC7SZzoh85
-
-> https://youtu.be/WcQIEIRLU1Y?si=edZ43djPMQvm3PRk
-
-> https://youtu.be/rkcbODygOV8?si=uLO7q5fbRoMshyA
-
-> https://youtu.be/w42rHdvFpVM?si=zLt9uzL57gIOBGth
-
-> https://youtu.be/xH3GwgtmK10?si=NxS4-hIKf0i4EWcF
-
-> https://youtu.be/UkjWvYC1jAw?si=oCEi5vjs3DA_oe4p
-
-> https://youtu.be/rCtsOTZ-uB4?si=gLwKteVDmqnVgNdT
-
-> https://youtu.be/yA68tXdJClA?si=D-Lw-TvtDViBTDaJ
-
-> https://youtu.be/6D2YSOGpen0?si=PwJWluzjllYPkD2r
-
-> https://youtu.be/Kt6Eg-UgurI?si=vc7KVRUZIHcq0mWW
-
-> https://youtu.be/0Abqg7iNab8?si=XMv5obDPOv2-VHE6
-
-> https://youtu.be/Rk-Lxgp9NWg?si=Cg9O6xKC2rWW6wtl
-
-> https://youtu.be/3_ziO1gFOsQ?si=I0FOvs6A9nx_q80x
-
-> https://youtu.be/PyfOrbO0xf4?si=MnwXzwzNBVW9Ke_i
-
-> https://youtu.be/kxpMyMdvVlk?si=DIqRGnVklvtu5GzG
-
---------------
-# 25. APJ abdul kalam
-> https://youtu.be/i5WYp4wMXfc?si=InS58EeT4iU_t1P7
-
-> https://youtu.be/-7TwMUyWSE0?si=30T9DUQGGvTe09hb
-
-> https://youtu.be/smjfGmCn7x0?si=lmmOdM9majRB-ejE
-
-> https://youtu.be/iO5Rf_4bW6g?si=_O5i9PWj6ReWU5tz
-
-> https://youtu.be/TckGcxwknYU?si=_YTQBxiEcbamnjrk
-
-> https://youtu.be/9CKCfiX3uO0?si=ASgrrx9_nY-vzgPx
-
-> https://youtu.be/7E-cwdnsiow?si=b6fnTLhQluhAOV-B
-
-> https://youtu.be/hpDmpEvBMAI?si=pErHj-d5rdbbbBV9
-
-> https://youtu.be/DhdUj_5PAX4?si=KpFbGkcFs6N6nV1B
-
-> https://youtu.be/d36YFbYwlU8?si=OjsV8OGOzNGf6NEf
-
-> https://youtu.be/I4k2jHNNid8?si=tAS21Xh2tgeLma4L
-
-> https://youtu.be/aIzAY8ymtNk?si=nyOhCJ8cShCBKdpY
-
-> https://youtu.be/t5b20oLaIaw?si=e7hOyIynP9z8xdHJ
-
-> https://youtu.be/ccu2HMbRwW4?si=GZSNdNCqsyLJKgDu
-
-> https://youtu.be/OwptSUFl9UM?si=RpvvpkiJCRvOr8W1
-
-
-
-
-# 27. Ratan Tata
-> https://youtu.be/7m4zQpf3Ouo?si=jZ1BCKenmzPSLu7Z
-
->https://youtu.be/9mySvo-EPT0?si=9jvFi5IqB3ZomXZU
-
-> https://youtu.be/1iovw-V_kD4?si=V5ren318ASuIkj6c
-
-> https://youtu.be/TGHqBX1YJRc?si=jFNvP5q-yB4dqZky
-
-> https://youtu.be/ozetTgOHu78?si=YwJtsm00cU8cwq_t
-
-> https://youtu.be/R6Tu8NPoN80?si=xnk7pCza6kmNMKih
-
-> https://youtu.be/KI_JK22TrJ8?si=8PWrRZMhbj9y_-M_
-
-> https://youtu.be/PQyVvFbv08A?si=urocvF_N5ZckPQG6
-
-> https://youtu.be/PQyVvFbv08A?si=jviue-wLff3Qggwz
-
-> https://youtu.be/sVIbmd4nUrA?si=HcEjVjBRLFeBZ9jd
-
-> https://youtu.be/9dLKZZN5tSo?si=0ptscukHbrwtTMT9
-
-> https://youtu.be/N3qCSmUXxlM?si=D_ET1qU_QHrMOK1v
-
-> https://youtu.be/mpUk7SVOPG0?si=OwyqHaokOsSJoT2G
-
-> https://youtu.be/kQ0P2kJa624?si=9Ukj57FVbk3W1wbJ
-> https://youtu.be/J7wX31ArC08?si=ENON6MB43p_qqGls
-> https://youtu.be/7-ZbWV61uMs?si=MgPV_xef1pe-zWeG
-> https://youtu.be/mNrGif-TJ3E?si=aVXMPmciCboPV-RI
---------------------
-
-# 29. Oprah Winfrey
-
-> https://youtu.be/RLTgnOuYb6o?si=eC9DJApGFF0mg5l9
-
-> https://youtu.be/GMWFieB.nbGR7c?si=P9wRQjDeuYSoo2YX
-
-> https://youtu.be/v7_4_UJCuIU?si=VycGYWt_Y4vCvrNK
-
-> https://youtu.be/ZaHlXVQcRFI?si=MByPyjEviM6cBFD86h
-
-> https://youtu.be/LkSgxuQrYwY?si=FeA3Rxa6rIAgPtl7
-
-> https://youtu.be/6DlrqeWrczs?si=68nGnNazR8yebTeo
-
-> https://youtu.be/8_JGarGAPg4?si=O7A2Jru-gPf0NL4n
-
-> https://youtu.be/auOrYTASVqQ?si=VQPgzhAs0UwS0tGn
-
-> https://youtu.be/fxm3TYqD-Kw?si=1ZKOjt6kAhMOgamT
-
-> https://youtu.be/45D6LAUXExc?si=b5aetgSWCulfjN1i
-
-> https://youtu.be/6596_qW2PeE?si=Q4sJyR6p_llXIT3o
-
-> https://youtu.be/6DlrqeWrczs?si=RxbJMglA7EsSgrf_
-
-> https://youtu.be/cGf85-bQmEQ?si=k1NLgr59xh9y-glP
-
-
---------
-
-
-
-18.Jeff Bezos
-> https://youtu.be/SCpgKvZB_VQ?si=bL0H0mtiRP-ciucd
-
-> https://youtu.be/lJJB7eb-1u0?si=yfti3GO7e2LT6PEe
-
-> https://youtu.be/DcWqzZ3I2cY?si=zhfOYDrv883reEg9
-
-> https://youtu.be/CgkA6cSEGT4?si=p_JIy5yjFZZhMgtM
-
-> https://youtu.be/EctzLTFrktc?si=jh2z2UviT_LHkqge
-
-> https://youtu.be/vMKNUylmanQ?si=JLUXjLGpw-5B-BdT
-
-> https://youtu.be/s71nJQqzYRQ?si=XojwPANcIljvMBcO
-
-> https://youtu.be/rWRbTnE1PEM?si=TJqFLQEDXysiHoky
-
-> https://youtu.be/rsuqSn7ifpU?si=dJhuPa4p04MuQ219
-
-> https://youtu.be/zN1PyNwjHpc?si=xz0Zr5TYfoDt5n1c
-
-> https://youtu.be/G-0KJF3uLP8?si=Xo8GWOyGodyOawXK
-
-> https://youtu.be/7TWKKww-F30?si=i4wyxERX_hayek7n
-
-> https://youtu.be/RVVfJVj5z8s?si=TsnZkVICxxiPOhH6
----------
+*All links are YouTube videos. No affiliation. Curated for learning.*
