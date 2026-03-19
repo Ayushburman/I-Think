@@ -1,36 +1,7 @@
 
 
 --------
-# 6. Vint Cerf
-### Big interview with Vint Cerf, 'the father of Internet'
-> https://www.youtube.com/watch?v=RmTh2PSXA8M
-### Meet the Father of the Internet: Vinton Cerf
-> https://www.youtube.com/watch?v=MjPGPPAUUMM
-### Vint Cerf: Re-Thinking the Internet
-> https://www.youtube.com/watch?v=hagxPPoMGjw
-### Vint Cerf explains...Who runs the Internet's address book?
-> https://www.youtube.com/watch?v=vd3dH90tdhk
-### AI, LA the Next Billion Users | Vint Cerf | Talks at Google
-> https://www.youtube.com/watch?v=DmqLuwcRvMM
-### Vint Cerf explains the internet protocol layer
-> https://www.youtube.com/watch?v=HUqNA1EPzPM
-### Vint Cerf on AI, Digital Inclusion, and the Future of Technology | Digging into the Future with PTC
-> https://www.youtube.com/watch?v=OHK9BdTnBT4
-### The Internet's Origins and Future | Vint Cerf | TEDxNiendorf
-> https://www.youtube.com/watch?v=1CoHf3NR0xo
-### Internet History part 2: Vint Cerf & Bob Kahn Invent Code of Internet (TCP explained)
-> https://www.youtube.com/watch?v=gZlNNiI-hq0
-### Vint Cerf and the Internet of Shit
-> https://www.youtube.com/watch?v=soV7-gwxarE
-### Vint Cerf of Google on the Future of the Internet
-> https://www.youtube.com/watch?v=bReJ5IHlMbs
-### A Brief But Spectacular take on the future of the internet
-> https://www.youtube.com/watch?v=F45bQrV1ix0
-### Do Something: The Vinton G. Cerf Story
-> https://www.youtube.com/watch?v=SCL7e7FUsrc
-### Tracking the Internet into the 21st Century with Vint Cerf
-> https://www.youtube.com/watch?v=Hf0rjtnwC9A
-###
+
 
 ------------
 # Science 
