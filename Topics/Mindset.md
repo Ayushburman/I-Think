@@ -8,14 +8,17 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 
 -----
 
-## 3. Albert Einstein 
-> https://youtu.be/0zk-NVPYPWk?si=Ghfl04gFIQQJQhd8
-
-> https://youtu.be/KyjQJBDD5V4?si=dU10xmsgdXSXH9X5
-
-> https://youtu.be/3tX6pBqP_KY?si=WdL6beCY3go89Gyr
-
-> https://youtu.be/VnVVuLIoSWI?si=EJ5wLLHEo8gzOwbo
+---
+ 
+## 📐 Part I — Scientists & Thinkers
+ 
+### 1. Isaac Newton
+*Foundation of modern physics. Master of solitude, patience, and deep work.*
+ 
+- [Video 1](https://youtu.be/qSqF6G_yFZc?si=JesLAZmWpb72i_qI)
+- [Video 2](https://youtu.be/RanLCsiBoYw?si=hAnsmC9dHlX5uhiX)
+ 
+--
 
 > https://youtu.be/906UAkNFs90?si=LFvv1dELwsBFRxw5
 
