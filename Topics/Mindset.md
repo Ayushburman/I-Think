@@ -237,7 +237,22 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 13](https://youtu.be/RVVfJVj5z8s?si=TsnZkVICxxiPOhH6)
  
 ---
+### 17. Oprah Winfrey
+*Turning adversity into influence. Empathy as a leadership skill.*
  
+- [Video 1](https://youtu.be/RLTgnOuYb6o?si=eC9DJApGFF0mg5l9)
+- [Video 2](https://youtu.be/v7_4_UJCuIU?si=VycGYWt_Y4vCvrNK)
+- [Video 3](https://youtu.be/LkSgxuQrYwY?si=FeA3Rxa6rIAgPtl7)
+- [Video 4](https://youtu.be/6DlrqeWrczs?si=68nGnNazR8yebTeo)
+- [Video 5](https://youtu.be/8_JGarGAPg4?si=O7A2Jru-gPf0NL4n)
+- [Video 6](https://youtu.be/auOrYTASVqQ?si=VQPgzhAs0UwS0tGn)
+- [Video 7](https://youtu.be/fxm3TYqD-Kw?si=1ZKOjt6kAhMOgamT)
+- [Video 8](https://youtu.be/45D6LAUXExc?si=b5aetgSWCulfjN1i)
+- [Video 9](https://youtu.be/6596_qW2PeE?si=Q4sJyR6p_llXIT3o)
+- [Video 10](https://youtu.be/cGf85-bQmEQ?si=k1NLgr59xh9y-glP)
+ 
+---
+
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
