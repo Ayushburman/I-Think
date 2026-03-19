@@ -57,7 +57,19 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 8](https://youtu.be/KqRvtVZeNyg?si=-qMuQCF5YqEzULyk)
  
 ---
-
+### 6. Alan Turing
+*Logic as a superpower. The quiet genius who changed the world.*
+ 
+- [Video 1](https://youtu.be/MidJR581irA?si=cxlWcSaMGaQp60K4)
+- [Video 2](https://youtu.be/XGqbieVcjPU?si=gY_KRJOA5XmKK1EI)
+- [Video 3](https://youtu.be/UTmsSG8OW5M?si=9ze1ndXz-MVRqbGt)
+- [Video 4](https://youtu.be/3NODW5sok5U?si=0leUDUUA2eBWSgL4)
+- [Video 5](https://youtu.be/G2_Q9FoD-oQ?si=QZf3D-z6ujLEie0l)
+- [Video 6](https://youtu.be/V4V2bpZlqx8?si=dYf5Z8cjJEoNww1U)
+- [Video 7](https://youtu.be/qn_BBQEjCxI?si=9s2dvmBC9Dp8HxZE)
+- [Video 8](https://youtu.be/X_Hp1Ut6HZo?si=JB9VK9NE-eEV5s_n)
+ 
+---
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
