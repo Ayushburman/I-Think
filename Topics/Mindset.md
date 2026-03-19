@@ -110,6 +110,18 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 18](https://youtu.be/CORCCWAdhUw?si=pa-LWwuB-eDtIbpK)
  
 ---
+## 🏥 Part II — Medical Pioneers
+ 
+### 9. William Osler
+*The art of medicine. Compassion, curiosity, and lifelong learning.*
+ 
+- [Video 1](https://youtu.be/TTOkGH9dUnY?si=11zbxGxP0SxyGYOq)
+- [Video 2](https://youtu.be/xzD1_r4CDdY?si=YAzF5674xR8ovLl9)
+- [Video 3](https://youtu.be/jj66VqVM73w?si=tnf3-L5djw59AL-z)
+- [Video 4](https://youtu.be/RFLiD_cesM0?si=PycX9ONd0qM7-4EG)
+- [Video 5](https://youtu.be/b6vtQwB-uaQ?si=sU_KP3qah7eT499v)
+ 
+---
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
