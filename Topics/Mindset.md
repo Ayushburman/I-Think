@@ -198,7 +198,27 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 15](https://youtu.be/OwptSUFl9UM?si=RpvvpkiJCRvOr8W1)
  
 ---
-
+### 15. Ratan Tata
+*Ethics in business. Building institutions that outlast individuals.*
+ 
+- [Video 1](https://youtu.be/7m4zQpf3Ouo?si=jZ1BCKenmzPSLu7Z)
+- [Video 2](https://youtu.be/9mySvo-EPT0?si=9jvFi5IqB3ZomXZU)
+- [Video 3](https://youtu.be/1iovw-V_kD4?si=V5ren318ASuIkj6c)
+- [Video 4](https://youtu.be/TGHqBX1YJRc?si=jFNvP5q-yB4dqZky)
+- [Video 5](https://youtu.be/ozetTgOHu78?si=YwJtsm00cU8cwq_t)
+- [Video 6](https://youtu.be/R6Tu8NPoN80?si=xnk7pCza6kmNMKih)
+- [Video 7](https://youtu.be/KI_JK22TrJ8?si=8PWrRZMhbj9y_-M_)
+- [Video 8](https://youtu.be/PQyVvFbv08A?si=urocvF_N5ZckPQG6)
+- [Video 9](https://youtu.be/sVIbmd4nUrA?si=HcEjVjBRLFeBZ9jd)
+- [Video 10](https://youtu.be/9dLKZZN5tSo?si=0ptscukHbrwtTMT9)
+- [Video 11](https://youtu.be/N3qCSmUXxlM?si=D_ET1qU_QHrMOK1v)
+- [Video 12](https://youtu.be/mpUk7SVOPG0?si=OwyqHaokOsSJoT2G)
+- [Video 13](https://youtu.be/kQ0P2kJa624?si=9Ukj57FVbk3W1wbJ)
+- [Video 14](https://youtu.be/J7wX31ArC08?si=ENON6MB43p_qqGls)
+- [Video 15](https://youtu.be/7-ZbWV61uMs?si=MgPV_xef1pe-zWeG)
+- [Video 16](https://youtu.be/mNrGif-TJ3E?si=aVXMPmciCboPV-RI)
+ 
+---
  
 ## 📐 Part I — Scientists & Thinkers
  
