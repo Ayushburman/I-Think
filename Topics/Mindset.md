@@ -252,6 +252,18 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 10](https://youtu.be/cGf85-bQmEQ?si=k1NLgr59xh9y-glP)
  
 ---
+## Quick Reference — Themes by Figure
+ 
+| Theme | Best Starting Points |
+|---|---|
+| Deep focus & solitude | Newton, Darwin, Turing |
+| Creativity & imagination | Einstein, Feynman, Tesla |
+| Resilience & adversity | Curie, Hawking, Mandela, Oprah |
+| Purpose & service | Kalam, Salk, Osler |
+| Innovation & risk | Bezos, Tesla, Banting, Fleming |
+| Ethics & legacy | Ratan Tata, Mandela, Salk |
+ 
+---
 
 ## 📐 Part I — Scientists & Thinkers
  
