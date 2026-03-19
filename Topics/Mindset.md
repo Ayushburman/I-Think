@@ -1,6 +1,3 @@
-# 🧠 Mindset Discussions
-
-Topics related to thinking patterns, motivation, resilience, and growth.
 
 ### 1. Isaac Newton
 > https://youtu.be/qSqF6G_yFZc?si=JesLAZmWpb72i_qI
