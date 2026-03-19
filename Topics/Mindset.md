@@ -219,6 +219,24 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 16](https://youtu.be/mNrGif-TJ3E?si=aVXMPmciCboPV-RI)
  
 ---
+### 16. Jeff Bezos
+*Long-term thinking, customer obsession, and embracing failure.*
+ 
+- [Video 1](https://youtu.be/SCpgKvZB_VQ?si=bL0H0mtiRP-ciucd)
+- [Video 2](https://youtu.be/lJJB7eb-1u0?si=yfti3GO7e2LT6PEe)
+- [Video 3](https://youtu.be/DcWqzZ3I2cY?si=zhfOYDrv883reEg9)
+- [Video 4](https://youtu.be/CgkA6cSEGT4?si=p_JIy5yjFZZhMgtM)
+- [Video 5](https://youtu.be/EctzLTFrktc?si=jh2z2UviT_LHkqge)
+- [Video 6](https://youtu.be/vMKNUylmanQ?si=JLUXjLGpw-5B-BdT)
+- [Video 7](https://youtu.be/s71nJQqzYRQ?si=XojwPANcIljvMBcO)
+- [Video 8](https://youtu.be/rWRbTnE1PEM?si=TJqFLQEDXysiHoky)
+- [Video 9](https://youtu.be/rsuqSn7ifpU?si=dJhuPa4p04MuQ219)
+- [Video 10](https://youtu.be/zN1PyNwjHpc?si=xz0Zr5TYfoDt5n1c)
+- [Video 11](https://youtu.be/G-0KJF3uLP8?si=Xo8GWOyGodyOawXK)
+- [Video 12](https://youtu.be/7TWKKww-F30?si=i4wyxERX_hayek7n)
+- [Video 13](https://youtu.be/RVVfJVj5z8s?si=TsnZkVICxxiPOhH6)
+ 
+---
  
 ## 📐 Part I — Scientists & Thinkers
  
