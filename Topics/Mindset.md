@@ -8,6 +8,16 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 
 -----
 
+### 2. Albert Einstein
+*Radical imagination over rote knowledge. Thought experiments as tools.*
+ 
+- [Video 1](https://youtu.be/0zk-NVPYPWk?si=Ghfl04gFIQQJQhd8)
+- [Video 2](https://youtu.be/KyjQJBDD5V4?si=dU10xmsgdXSXH9X5)
+- [Video 3](https://youtu.be/3tX6pBqP_KY?si=WdL6beCY3go89Gyr)
+- [Video 4](https://youtu.be/VnVVuLIoSWI?si=EJ5wLLHEo8gzOwbo)
+- [Video 5](https://youtu.be/906UAkNFs90?si=LFvv1dELwsBFRxw5)
+
+
 ---
  
 ## 📐 Part I — Scientists & Thinkers
