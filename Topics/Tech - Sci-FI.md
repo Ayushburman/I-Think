@@ -1,12 +1,5 @@
 
--------
 
---------------
-
----------
-
-
--------
 # 5.Steve Jobs
 ### Steve Jobs - TED - How To Live Before You Die
 > https://www.youtube.com/watch?v=lcZDWo6hiuI
