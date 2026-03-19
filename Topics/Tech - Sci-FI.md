@@ -4,26 +4,7 @@
 --------------
 
 ---------
-# 4. Ken Thompson
-### VCF East: Ken Thompson interviewed by Brian Kernighan
-> https://www.youtube.com/watch?v=EY6q5dv_B-o
-### Oral History of Ken Thompson
-> https://www.youtube.com/watch?v=OmVHkL0IWk4
-### Thompson tells how he developed the Go language at Google.
-> https://www.youtube.com/watch?v=NTrAISNdf70
-### Ken Thompson is a singularity (Brian Kernighan)
-> https://www.youtube.com/watch?v=fL2QwyxcJ5s
-### Google I/O 2012 - Meet the Go Team
-> https://www.youtube.com/watch?v=sln-gJaURzk
-### UNIX was designed for programmers | Brian Kernighan and Lex Fridman
-> https://www.youtube.com/watch?v=v0ON23Y4W68
-### AT&T Archives: Seeing the Digital Future (1961)
-> https://www.youtube.com/watch?v=avHo0-qU8xo
-### T-Dose 2016, From UNIX to Linux, a time lapse of 45 years, Hendrik Jan Thomassen
-> https://www.youtube.com/watch?v=boahlBmc-NY
-### Japan Price Ceremony for Ken
-> https://www.youtube.com/watch?v=p-kWw0UTD2A
---------
+
 # 4. Tim Berners Lee
 ### Tim Berners-Lee: The next Web of open, linked data
 > https://www.youtube.com/watch?v=OM6XIICm_qo
