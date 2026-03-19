@@ -122,6 +122,30 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 5](https://youtu.be/b6vtQwB-uaQ?si=sU_KP3qah7eT499v)
  
 ---
+---
+ 
+### 10. Alexander Fleming
+*Accidental discovery, prepared mind. Staying curious in routine work.*
+ 
+- [Video 1](https://youtu.be/CNbnLgetqHs?si=7rJy5qjt84lVynXK)
+- [Video 2](https://youtu.be/0ZWjzcsTd5M?si=dTqWy-ZBmExpLtdE)
+- [Video 3](https://youtu.be/nh9sHtJrL9s?si=uYU-nM8sGH8guKGe)
+- [Video 4](https://youtu.be/y6084NqO_Sw?si=MYXlKj6813LSxQbz)
+- [Video 5](https://youtu.be/mhXmkDapHWg?si=JSn2bcLrfgqIRcvs)
+- [Video 6](https://youtu.be/_01YqX3ixLA?si=wjthiJMmLqbWdo9n)
+- [Video 7](https://youtu.be/PoRXqyItDFE?si=Rmv168vqrXm6xSmj)
+- [Video 8](https://youtu.be/tv_JY3Am9xA?si=hNZ64Rtn46b19Bxt)
+- [Video 9](https://youtu.be/kCAi8rz87G4?si=gLnHHOnDG0P7dpk_)
+- [Video 10](https://youtu.be/iuBBcVieork?si=V9AYaDpYMlmi0IBR)
+- [Video 11](https://youtu.be/UuSoiWcckgc?si=ddEA93pUwrBmOgkb)
+- [Video 12](https://youtu.be/ZEkg1LOsUuE?si=18K9m4n7gusWuvp6)
+- [Video 13](https://youtu.be/qO9oW1bGXKI?si=E2vkyRLXdOz0YscI)
+- [Video 14](https://youtu.be/7i60m-b5TBA?si=w3HN_pJbCFHP_Vie)
+- [Video 15](https://youtu.be/q2yd3lGN7xA?si=XIEfSNja_IEgnYer)
+- [Video 16](https://youtu.be/7qeZLLhx5kU?si=SXkZAxetcHGq3l0Q)
+ 
+---
+ 
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
