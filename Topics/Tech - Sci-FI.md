@@ -1,24 +1,6 @@
 
 
---------
 
-
-------------
-# Science 
-
-# Gregor Mendel
-###  Let's Talk About Gregor Mendel
-> https://youtu.be/-0UN-TKNDpA?si=wQyW_KBMsnlFRaQY
-###  The Man Who Discovered Dominant & Recessive Genes: Meet Gregor Mendel
-> https://youtu.be/GTiOETaZg4w?si=DoX0U4NOaub3_8Vy
-### How Mendel's pea plants helped us understand genetics - Hortensia Jiménez Díaz
-> https://youtu.be/Mehz7tCxjSE?si=6prWGzZtQwkBiHoZ
-### Gregor Mendel: The Father of Genetics
-> https://youtu.be/fNprOzx1bZ4?si=HolucZEMtuVPgRpf
-### Gregor Mendel: The Father of Modern Genetics
-> https://youtu.be/7r__R9-eDJE?si=QTqux9xyos9XiZxM
-### Gregor Mendel - Scientist | Mini Bio | BIO
-> https://youtu.be/QmSJGhPTB5E?si=nrjZjTJUkFCXVR8g
 -------
 # Alexander Fleming
 ### The accident that changed the world - Allison Ramsey and Mary Staicu
