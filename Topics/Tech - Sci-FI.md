@@ -5,23 +5,7 @@
 
 ---------
 
-# 4. Tim Berners Lee
-### Tim Berners-Lee: The next Web of open, linked data
-> https://www.youtube.com/watch?v=OM6XIICm_qo
-### Tim Berners-Lee: The year open data went worldwide
-> https://www.youtube.com/watch?v=3YcZ3Zqk0a8
-### A Magna Carta for the Web
-> https://www.youtube.com/watch?v=rCplocVemjo
-### Tim Berners-Lee on fame, family and the AI future - Lives Less Ordinary podcast, BBC World Service
-> https://www.youtube.com/watch?v=PWTF32kaa9M
-### Sir Tim on the Internet & future of humanity (Intelligence Squared)
-> https://www.youtube.com/watch?v=PWTF32kaa9M
-### He Invented the World Wide Web. Here’s What He Hopes for the Age of AI | Amanpour and Company
-> https://www.youtube.com/watch?v=7ESrC3w1_FM
-### Celebrating the 20th anniversary of the WWW with Tim Berners-Lee at CERN in March 2009
-> https://www.youtube.com/watch?v=ixz04XVS4mI
-### VNR of the 20th anniversary of the World Wide Web 01
-> https://www.youtube.com/watch?v=_IbD96y7xKQ
+
 -------
 # 5.Steve Jobs
 ### Steve Jobs - TED - How To Live Before You Die
