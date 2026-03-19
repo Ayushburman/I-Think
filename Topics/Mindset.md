@@ -70,6 +70,24 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 8](https://youtu.be/X_Hp1Ut6HZo?si=JB9VK9NE-eEV5s_n)
  
 ---
+### 7. Richard Feynman
+*Joy of discovery. Making the complex simple. Learning as a way of life.*
+ 
+- [Video 1](https://youtu.be/lytxafTXg6c?si=oPD4YheMbpO8wkIf)
+- [Video 2](https://youtu.be/P1ww1IXRfTA?si=i1Tzsv-5VlHoFNbm)
+- [Video 3](https://youtu.be/VW6LYuli7VU?si=wyE3ymt6MI71hla-)
+- [Video 4](https://youtu.be/bAX27XRHMH8?si=pjFfD-iN3xjLnzMO)
+- [Video 5](https://youtu.be/36GT2zI8lVA?si=imM-elH2g4HI-VRY)
+- [Video 6](https://youtu.be/Si6NbKqYEd8?si=1u6sethQXUZQ3bGo)
+- [Video 7](https://youtu.be/yRcOEnIOzII?si=b95DNB5tUjD8LnPo)
+- [Video 8](https://youtu.be/vbn8eMRZUS4?si=JMb4fO-WMEMLQ08d)
+- [Video 9](https://youtu.be/HhPZ7yx8ttg?si=tbZS-VkEUQJcxflc)
+- [Video 10](https://youtu.be/GNhlNSLQAFE?si=ogubc9YNwGRphJR6)
+- [Video 11](https://youtu.be/H9fjhQMsDW4?si=BEZ6G91pRPbj1PQI)
+- [Playlist](https://youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2&si=JOQkntBn2W6WKYii)
+ 
+---
+ 
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
