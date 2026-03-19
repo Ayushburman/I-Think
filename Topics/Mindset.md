@@ -87,7 +87,29 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Playlist](https://youtube.com/playlist?list=PLyQSN7X0ro23NUN9RYBP5xdBYoiv2_5y2&si=JOQkntBn2W6WKYii)
  
 ---
+ ### 8. Stephen Hawking
+*Redefining limits. Living with purpose beyond physical constraint.*
  
+- [Video 1](https://youtu.be/b-2GV0T5Zpc?si=zWk0s0XqFQq9Vob3)
+- [Video 2](https://youtu.be/VYxjumUhji0?si=LTx7VJ3XfHnoqM8J)
+- [Video 3](https://youtu.be/vFtM0vHJL5M?si=iRTxLMc4Lg8-5B_w)
+- [Video 4](https://youtu.be/fFLVyWBDTfo?si=Sb1BbY_vTyvxfymX)
+- [Video 5](https://youtu.be/OfGeskCmSUc?si=2JqXeT06RaHapVd6)
+- [Video 6](https://youtu.be/pN34FNbOKXc?si=6j0QjlMGYMem66Qx)
+- [Video 7](https://youtu.be/gOwAWpBeDSg?si=h8heCQ34OVrHGe1n)
+- [Video 8](https://youtu.be/TXBuG90iGcg?si=-VuaNPHfn943BbtY)
+- [Video 9](https://youtu.be/DmeOX5Zu36M?si=P3WW4h-wdOr1hR1a)
+- [Video 10](https://youtu.be/zXCiv4sc5eY?si=dKiR8WGYsIPfLAdo)
+- [Video 11](https://youtu.be/F8b9Ev2Ph5c?si=oaoG9cG3en4rCPs7)
+- [Video 12](https://youtu.be/vo_lZiytsMw?si=mpaBrOW2aw0xWrpU)
+- [Video 13](https://youtu.be/MmfikLimeQ8?si=tNKTk8aXGYqb0RCB)
+- [Video 14](https://youtu.be/Cw6xuzosn4s?si=BSZWXzie0k6uW_8N)
+- [Video 15](https://youtu.be/H14bBuluwB8?si=ydmqCKrcx9EfJ7SQ)
+- [Video 16](https://youtu.be/NMfTtS7XT2w?si=DboWdKFXoTpO6MFx)
+- [Video 17](https://youtu.be/Ihs4VFZWwn4?si=EbCpMtMBqBSXogqt)
+- [Video 18](https://youtu.be/CORCCWAdhUw?si=pa-LWwuB-eDtIbpK)
+ 
+---
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
