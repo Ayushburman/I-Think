@@ -1,20 +1,6 @@
 
 -------
-# 1. Sam Altman
-### “OpenAI’s Sam Altman talks ChatGPT, AI agents and superintelligence — live at TED2025”
-> https://www.youtube.com/watch?v=5MWT_doo68k
-### Sam Altman on the future of AI | ReThinking with Adam Grant
-> https://www.youtube.com/watch?v=c0NqpG--Pzw
-### Joe Rogan Experience #2044 - Sam Altman
-> https://www.youtube.com/watch?v=7dCPytNTnjk
-### Watch ET Conversations with OpenAI CEO Sam Altman | An ET Exclusive
-> https://www.youtube.com/watch?v=AiE7FsdRzz8
-### Sam Altman’s Dystopian Vision to Replace God With AI
-> https://www.youtube.com/watch?v=AUfsW8wpfWM
-### Sam Altman x Nikhil Kamath: How to Win When AI Changes Everything | People by WTF | Episode 13
-> https://www.youtube.com/watch?v=SfOaZIGJ_gs
-### Inside OpenAI's Stargate Megafactory with Sam Altman | The Circuit
-> https://www.youtube.com/watch?v=GhIJs4zbH0o
+
 --------------
 # 3. Dennis Ritchie 
 ### Dennis Ritchie's video interview June 2011
