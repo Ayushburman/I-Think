@@ -1,30 +1,5 @@
 
 
-# 5.Steve Jobs
-### Steve Jobs - TED - How To Live Before You Die
-> https://www.youtube.com/watch?v=lcZDWo6hiuI
-### Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series
-> https://www.youtube.com/watch?v=Gk-9Fd2mEnI
-### Steve Notes
-> https://www.youtube.com/watch?v=t9HmOz8H0qI
-### Steve Job's Goodbye Speech
-> https://www.youtube.com/watch?v=sJm0P8xpDzA
-### Steve Jobs in 2010, at D8 Conference (Full Video)
-> https://www.youtube.com/watch?v=i5f8bqYYwps&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&rco=1
-### Steve Jobs The Lost Interview
-> https://www.youtube.com/watch?v=rDqQcmVqAm4&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=2
-### The Steve Jobs 95 Interview unabridged
-> https://www.youtube.com/watch?v=M6Oxl5dAnR0&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=4
-### Steve Jobs on Starting A Business
-> https://www.youtube.com/watch?v=kwkGX-PlTxs&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=5
-### Steve Jobs and Bill Gates Together at D5 Conference 2007
-> https://www.youtube.com/watch?v=wvhW8cp15tk&list=PLYAbamVoxfaaXppT0GrAPmQV7a1cajnjF&index=8
-### Pixar's Early Days - A Never-Before-Seen Interview With Steve Jobs, 1996
-> https://www.youtube.com/watch?v=R0XmBKsRJF8
-### Steve Jobs Introduces the Macintosh
-> https://www.youtube.com/watch?v=1tQ5XwvjPmA
-### Steve Jobs in 2003 at D1 the First D All Things Digital Conference (Enhanced Quality)
-> https://www.youtube.com/watch?v=oMyZwhzy5hE
 --------
 # 6. Vint Cerf
 ### Big interview with Vint Cerf, 'the father of Internet'
