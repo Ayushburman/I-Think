@@ -2,27 +2,7 @@
 -------
 
 --------------
-# 3. Dennis Ritchie 
-### Dennis Ritchie's video interview June 2011
-> https://www.youtube.com/watch?v=umF6SNYaJNw
-### Pushing the Limits of Technology: The Ken Thompson and Dennis Ritchie Story
-> https://www.youtube.com/watch?v=g3jOJfrOknA
-### Dennis Ritchie — Biographical Computer History Video
-> https://www.youtube.com/watch?v=RaotHMNZPaI
-### The Story of Dennis Ritchie
-> https://www.youtube.com/watch?v=RaotHMNZPaI
-### Ken Thompson’s Hall of Fame Induction
-> https://www.youtube.com/watch?v=0x3aRutVeQU
-### Dennis Ritchie - Write in C
-> https://www.youtube.com/watch?v=H4YRPdRXKFs
-### AT&T Archives: The UNIX Operating System
-> https://www.youtube.com/watch?v=tc4ROCJYbm0
-### Dennis Ritchie In One Minute
-> https://www.youtube.com/watch?v=K9pXILeqGCk
-### The Untold story of C
-> https://www.youtube.com/watch?v=fxFL_BGev8M
-### Recreating Dennis Ritchie's PhD Thesis - Computerphile
-> https://www.youtube.com/watch?v=82TxNejKsng
+
 ---------
 # 4. Ken Thompson
 ### VCF East: Ken Thompson interviewed by Brian Kernighan
