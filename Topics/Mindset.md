@@ -178,6 +178,27 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 16](https://youtu.be/kxpMyMdvVlk?si=DIqRGnVklvtu5GzG)
  
 ---
+### 14. APJ Abdul Kalam
+*Dreaming big from humble roots. Science, service, and inspiration.*
+ 
+- [Video 1](https://youtu.be/i5WYp4wMXfc?si=InS58EeT4iU_t1P7)
+- [Video 2](https://youtu.be/-7TwMUyWSE0?si=30T9DUQGGvTe09hb)
+- [Video 3](https://youtu.be/smjfGmCn7x0?si=lmmOdM9majRB-ejE)
+- [Video 4](https://youtu.be/iO5Rf_4bW6g?si=_O5i9PWj6ReWU5tz)
+- [Video 5](https://youtu.be/TckGcxwknYU?si=_YTQBxiEcbamnjrk)
+- [Video 6](https://youtu.be/9CKCfiX3uO0?si=ASgrrx9_nY-vzgPx)
+- [Video 7](https://youtu.be/7E-cwdnsiow?si=b6fnTLhQluhAOV-B)
+- [Video 8](https://youtu.be/hpDmpEvBMAI?si=pErHj-d5rdbbbBV9)
+- [Video 9](https://youtu.be/DhdUj_5PAX4?si=KpFbGkcFs6N6nV1B)
+- [Video 10](https://youtu.be/d36YFbYwlU8?si=OjsV8OGOzNGf6NEf)
+- [Video 11](https://youtu.be/I4k2jHNNid8?si=tAS21Xh2tgeLma4L)
+- [Video 12](https://youtu.be/aIzAY8ymtNk?si=nyOhCJ8cShCBKdpY)
+- [Video 13](https://youtu.be/t5b20oLaIaw?si=e7hOyIynP9z8xdHJ)
+- [Video 14](https://youtu.be/ccu2HMbRwW4?si=GZSNdNCqsyLJKgDu)
+- [Video 15](https://youtu.be/OwptSUFl9UM?si=RpvvpkiJCRvOr8W1)
+ 
+---
+
  
 ## 📐 Part I — Scientists & Thinkers
  
