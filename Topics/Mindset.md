@@ -1,9 +1,12 @@
+# 🧠 Mindset Library
+> A curated collection of talks, interviews, and insights from history's most influential minds — organized for deliberate learning.
+ 
+---
+## How to Use This Library
+ 
+Each figure is grouped by **domain** and ordered from **foundational thinkers → applied innovators → modern leaders**. Start from the top if you're new, or jump to any section that resonates with where you are right now.
 
-### 1. Isaac Newton
-> https://youtu.be/qSqF6G_yFZc?si=JesLAZmWpb72i_qI
-
-> https://youtu.be/RanLCsiBoYw?si=hAnsmC9dHlX5uhiX
-
+-----
 
 ## 3. Albert Einstein 
 > https://youtu.be/0zk-NVPYPWk?si=Ghfl04gFIQQJQhd8
