@@ -19,6 +19,19 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers â†
 
 
 ---
+### 5. Nikola Tesla
+*Vision beyond the present moment. The tragedy and triumph of the independent mind.*
+ 
+- [Video 1](https://youtu.be/FeUA-0G1p5k?si=PZ-my3ES9Njo_U0W)
+- [Video 2](https://youtu.be/HEH3qLofMaU?si=wYnHiX8SHqACdHBb)
+- [Video 3](https://youtu.be/tzD8sFvH4PA?si=-2hdMjIYoHR6dB_O)
+- [Video 4](https://youtu.be/comM6bC4q14?si=SUGuqc-EONMO7Owu)
+- [Video 5](https://youtu.be/177vg1pEGbo?si=dLUkcOEfuKWVXNBp)
+- [Video 6](https://youtu.be/WzUaxNhKlTo?si=x6c2AQiGBBq6S5or)
+- [Video 7](https://youtu.be/ecni9SjkWoM?si=hEuPA1--9_BK6_Ub)
+ 
+---
+
 
 ### 3. Marie Curie
 *Persistence against all odds. The cost and reward of obsessive dedication.*
