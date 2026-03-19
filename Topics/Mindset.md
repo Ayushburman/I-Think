@@ -146,6 +146,16 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
  
 ---
  
+### 12. Jonas Salk
+*Generosity of spirit. Choosing impact over profit.*
+ 
+- [Video 1](https://youtu.be/erHXKP386Nk?si=1ZbLdQ_ISQLKqPuU)
+- [Video 2](https://youtu.be/BUYF3lluPpg?si=qOu22BbY6Jfenwvg)
+- [Video 3](https://youtu.be/tncrBZp0dxM?si=hzaXShXj3GSkPv5g)
+- [Video 4](https://youtu.be/eMFqqgsODRg?si=1ccXim1RoNy0lhIV)
+ 
+---
+ 
 ## 📐 Part I — Scientists & Thinkers
  
 ### 1. Isaac Newton
