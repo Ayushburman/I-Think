@@ -31,6 +31,19 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 6](https://youtu.be/Gf6s7tMGrFE?si=5ZwMjQgECDvBmiP0)
  
 ---
+### 4. Charles Darwin
+*Observation, humility, and the courage to challenge consensus.*
+ 
+- [Video 1](https://youtu.be/ZtkZMAmgHaU?si=DbOp-dgli-nd415U)
+- [Video 2](https://youtu.be/HmEmWA2SlVc?si=tB8MzMa4FfXBazVK)
+- [Video 3](https://youtu.be/KPh0LOCWT5A?si=2-EgNCzjf1WuSlSc)
+- [Video 4](https://youtu.be/UzIZW2m5CfY?si=RwqLZJve6zblej4O)
+- [Video 5](https://youtu.be/XOiUZ3ycZwU?si=ZtWlVttXv58ICAEs)
+- [Video 6](https://youtu.be/dfsUz2O2jww?si=vl4dC4dAmqwrDDrR)
+- [Video 7](https://youtu.be/6yEX_OI0xbQ?si=QTXLuS3N-yzQlv7C)
+- [Video 8](https://youtu.be/KqRvtVZeNyg?si=-qMuQCF5YqEzULyk)
+ 
+---
 
 ## 📐 Part I — Scientists & Thinkers
  
