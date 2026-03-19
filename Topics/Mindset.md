@@ -155,6 +155,29 @@ Each figure is grouped by **domain** and ordered from **foundational thinkers �
 - [Video 4](https://youtu.be/eMFqqgsODRg?si=1ccXim1RoNy0lhIV)
  
 ---
+## 🌍 Part III — Leaders & Visionaries
+ 
+### 13. Nelson Mandela
+*Endurance, forgiveness, and the long game of justice.*
+ 
+- [Video 1](https://youtu.be/4GkwO6w7WOQ?si=jfGrYf2IvLrs_99F)
+- [Video 2](https://youtu.be/pJiXu4q__VU?si=LP2rBBSC7SZzoh85)
+- [Video 3](https://youtu.be/WcQIEIRLU1Y?si=edZ43djPMQvm3PRk)
+- [Video 4](https://youtu.be/rkcbODygOV8?si=uLO7q5fbRoMshyA)
+- [Video 5](https://youtu.be/w42rHdvFpVM?si=zLt9uzL57gIOBGth)
+- [Video 6](https://youtu.be/xH3GwgtmK10?si=NxS4-hIKf0i4EWcF)
+- [Video 7](https://youtu.be/UkjWvYC1jAw?si=oCEi5vjs3DA_oe4p)
+- [Video 8](https://youtu.be/rCtsOTZ-uB4?si=gLwKteVDmqnVgNdT)
+- [Video 9](https://youtu.be/yA68tXdJClA?si=D-Lw-TvtDViBTDaJ)
+- [Video 10](https://youtu.be/6D2YSOGpen0?si=PwJWluzjllYPkD2r)
+- [Video 11](https://youtu.be/Kt6Eg-UgurI?si=vc7KVRUZIHcq0mWW)
+- [Video 12](https://youtu.be/0Abqg7iNab8?si=XMv5obDPOv2-VHE6)
+- [Video 13](https://youtu.be/Rk-Lxgp9NWg?si=Cg9O6xKC2rWW6wtl)
+- [Video 14](https://youtu.be/3_ziO1gFOsQ?si=I0FOvs6A9nx_q80x)
+- [Video 15](https://youtu.be/PyfOrbO0xf4?si=MnwXzwzNBVW9Ke_i)
+- [Video 16](https://youtu.be/kxpMyMdvVlk?si=DIqRGnVklvtu5GzG)
+ 
+---
  
 ## 📐 Part I — Scientists & Thinkers
  
