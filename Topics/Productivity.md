@@ -1,273 +1,103 @@
-# 📈 Productivity Discussions
-
-Topics related to time management, habits, focus, and performance.
-
---------
-# Ted
-
-> https://youtu.be/Hu4Yvq-g7_Y?si=ENpkba-l77Evq8Ud
-
-> https://youtu.be/CHxhjDPKfbY?si=mUd9kKS49OY9QemU
-
-> https://youtu.be/894jQkeewiU?si=yoVA_b1trhP_Z0S5
-
-> https://youtu.be/T4CB5RPbtCk?si=CerGD6UZLerKhyJb
-
-> https://youtu.be/TQMbvJNRpLE?si=4_cV3WVxfLIc1s1h
-
-> https://youtu.be/fLJsdqxnZb0?si=_-89ZR1Fam7Smyj7
-
-> https://youtu.be/iDbdXTMnOmE?si=IJzM0Ni3TRRUFhg1
-
-> https://youtu.be/LNHBMFCzznE?si=4jdpWt8KV0c8CqCN
-
-> https://youtu.be/FWTNMzK9vG4?si=lELbPjUG31SU65cw
-
-> https://youtu.be/qOEB1Fr0_MM?si=Dl6__FkpT4hpMsMR
-
-> https://youtu.be/REFh5TMOoS0?si=7DRBN9cwHeGlIo4A
-
-> https://youtu.be/vo_lZiytsMw?si=qwG-yeElX4DbYsNE
-
-> https://youtu.be/WXBA4eWskrc?si=EXBVQgDMlK1eS0Cb
-
-> https://youtu.be/PBaFURjVrm0?si=gNuCg0jbDfoHm4-Y
-
-> https://youtu.be/SxbDsuC-Ch4?si=hT-oxgGx15H9iZs1
-
-> https://youtu.be/arj7oStGLkU?si=pQ5fHfVigAzRfmc4
-
-> https://youtu.be/n3kNlFMXslo?si=GfpSyN-Bfpy-suQC
-
-> https://youtu.be/ctyqx6trUmo?si=wa7V31_B7MKMq2ZR
-
-> https://youtu.be/T4CB5RPbtCk?si=9n1g6jjCMh56sPXa
-
-> https://youtu.be/ATdRtfp2-dE?si=KLUHBF2QngiYENUv
-
-> https://youtu.be/OmyfB513E1s?si=hIdsnagcp4hq19TG
-
-> https://youtu.be/ex1YT5C5Fvw?si=4rjA6gxvKGy6VHbg
-
-> https://youtu.be/H5c41aWpQ14?si=3qgMW7cQiJbDN71a
-
-> https://youtu.be/jndWxpCzO5g?si=v-YLBZeACvnwAQf7
-
-> https://youtu.be/hSGt_rhu49U?si=HI2s7_30Pf7J0Uri
-
-> https://youtu.be/iDbdXTMnOmE?si=Qt59Q0mFr8eTW1DM
-
-> https://youtu.be/MN_LkumE3Ig?si=V9CUHw6hhzjxzQnz
-
-> https://youtu.be/N3BcRlVBb04?si=F_c1g07HDhv5GFZC
-
-> https://youtu.be/hw2clzJWdV0?si=5QXTMnnkPHy53mX2
-
-
------------
-# Tim Cook
-
-> https://youtu.be/38XMIMrIg_g?si=IA84x7YIavRiZvtQ
-
-> https://youtu.be/mOBVL2Jr_Lw?si=KWBrKYGV8Y1nebEo
-
-> https://youtu.be/YSUrboDF-hA?si=bOHojT0VR5z9WgWu
-
-> https://youtu.be/eRbJUFmmQWA?si=Y0OrcFWYV6oOvKCZ
-
-> https://youtu.be/BvLTK_fYnRI?si=U03UXDa1PCL7ZFsW
-
-> https://youtu.be/JXQYO8poXC8?si=PvguyxQsrxhjmh7P
-
-> https://youtu.be/CMLiMsjwBWI?si=t0n6Bb6Hk6vQJ8vj
-
-
-
-
------
-> https://youtu.be/tKkd6Zsz9gA?si=hZRwhdiW7dxvyESu
-
-> https://youtu.be/woMR-yVTtvw?si=LKIN4nt9cWw4f8RF
-
-> https://youtu.be/1b2LfAGkkpk?si=GQ4uzbl7ljqBTT-r
-
-> https://youtu.be/CeKWVKMUIEQ?si=mZFEac5MoVjwPwEv
-
-> https://youtu.be/8kFFg5jAoQc?si=Imao4-3ZulOSNaCD
-
-> https://youtu.be/b-2GV0T5Zpc?si=SSZg1OYQO4sYrkAM
-
-> https://youtu.be/TBpEpeN-ufg?si=QKZvK5uneDtKid4c
-
-> https://youtu.be/EI0NXTrS5Pw?si=q4jdyC5Q85xTi-DQ
-
-> https://youtu.be/HAnw168huqA?si=f743b5H46Z6bLHum
-
-> https://youtu.be/Af_-shtZ-XY?si=PuXbZjclyRbYR1CV
-
-> https://youtu.be/bEDVAABB2_g?si=PmS7S1UgpYuuL9jd
-
-> https://youtu.be/XoEWh7Za9C8?si=FihMRJeyOxRsjaAr
------------
-
-# 📚 33 Best Productivity Books
-
-A curated list of the **best productivity, focus, habits, thinking, and performance books**.  
-Includes **hyped classics, underrated gems, and science-based productivity books**.
-
----
-
-# 🔥 Tier 1 — Legendary Productivity Books
-
-1. **Atomic Habits**  
-   Tiny habits compound into massive change.  
-   https://www.amazon.in/dp/0735211299  
-
-2. **Deep Work**  
-   Focus without distraction = rare skill.  
-   https://www.amazon.in/dp/1455586692  
-
-3. **Getting Things Done**  
-   The original GTD productivity system.  
-   https://www.amazon.in/dp/0143126563  
-
-4. **The One Thing**  
-   Focus on the most important task.  
-   https://www.amazon.in/dp/1885167776  
-
-5. **Essentialism**  
-   Do less but better.  
-   https://www.amazon.in/dp/0804137382  
-
-6. **The 7 Habits of Highly Effective People**  
-   One of the most influential productivity frameworks.  
-   https://www.amazon.in/dp/1982137274  
-
----
-
-# 🧠 Tier 2 — Habit & Behavioral Science
-
-7. **The Power of Habit**  
-   https://www.amazon.in/dp/081298160X  
-
-8. **Tiny Habits**  
-   https://www.amazon.in/dp/0358003326  
-
-9. **Mini Habits**  
-   https://www.amazon.in/dp/1494882275  
-
-10. **Indistractable**  
-   https://www.amazon.in/dp/194883653X  
-
-11. **Get It Done**  
-   https://www.amazon.in/dp/0316538341  
-
----
-
-# ⚡ Tier 3 — Time Management & Focus
-
-12. **The 4-Hour Workweek**  
-   https://www.amazon.in/dp/0307465357  
-
-13. **Tools of Titans**  
-   https://www.amazon.in/dp/1328683788  
-
-14. **Make Time**  
-   https://www.amazon.in/dp/0525572422  
-
-15. **Eat That Frog**  
-   https://www.amazon.in/dp/162656941X  
-
-16. **The Now Habit**  
-   https://www.amazon.in/dp/1585425524  
-
-17. **Leave the Office Earlier**  
-   https://www.amazon.in/dp/0767916261  
-
----
-
-# 🚀 Tier 4 — High Performance & Success
-
-18. **The Miracle Morning**  
-   https://www.amazon.in/dp/0979019710  
-
-19. **The 5 AM Club**  
-   https://www.amazon.in/dp/1443456624  
-
-20. **Start With Why**  
-   https://www.amazon.in/dp/1591846447  
-
-21. **The War of Art**  
-   https://www.amazon.in/dp/1936891026  
-
-22. **Measure What Matters**  
-   https://www.amazon.in/dp/0525536221  
-
-23. **High Performance Habits**  
-   https://www.amazon.in/dp/1401952852  
-
----
-
-# 🧩 Tier 5 — Thinking & Cognitive Productivity
-
-24. **Thinking Fast and Slow**  
-   https://www.amazon.in/dp/0141033576  
-
-25. **Range**  
-   https://www.amazon.in/dp/0735214484  
-
-26. **Peak**  
-   https://www.amazon.in/dp/0544456238  
-
-27. **Mindset**  
-   https://www.amazon.in/dp/0345472322  
-
----
-
-# 🧠 Tier 6 — Strategic Productivity
-
-28. **Designing Your Life**  
-   https://www.amazon.in/dp/1101875321  
-
-29. **Smarter Faster Better**  
-   https://www.amazon.in/dp/0812983599  
-
-30. **The Checklist Manifesto**  
-   https://www.amazon.in/dp/0312430007  
-
-31. **A World Without Email**  
-   https://www.amazon.in/dp/0525536558  
-
-32. **Flow**  
-   https://www.amazon.in/dp/0061339202  
-
-33. **So Good They Can't Ignore You**  
-   https://www.amazon.in/dp/1455509124  
-
----
-
-# ⭐ Recommended Starting Books
-
-If you read only a few books from this list, start with:
-
-- Atomic Habits
-- Deep Work
-- Getting Things Done
-- Essentialism
-- The One Thing
-
-These books build a **strong productivity foundation**.
-
----
-
-# 📖 Categories Covered
-
-- Habit Formation
-- Deep Focus
+# 📈 Productivity System — Learning Hub
+
+A structured, minimalist system for mastering:
+- Focus
+- Habits
 - Time Management
-- Cognitive Thinking
-- High Performance
-- Strategic Productivity
+- Performance
+- Thinking
+
+---
+
+## 📑 Table of Contents
+
+- [Learning Path](#learning-path)
+- [Video Library](#video-library)
+  - [TED Talks](#ted-talks)
+  - [Tim Cook & Leadership](#tim-cook--leadership)
+- [Book Library](#book-library)
+  - [Foundation](#foundation)
+  - [Habit Science](#habit-science)
+  - [Time & Focus](#time--focus)
+  - [Performance](#performance)
+  - [Thinking](#thinking)
+  - [Strategy](#strategy)
+- [Quick Start](#quick-start)
+- [Execution System](#execution-system)
+
+---
+
+## 🧭 Learning Path
+
+Follow this order:
+
+1. Foundation Thinking  
+2. Habit Formation  
+3. Deep Focus  
+4. Time Management  
+5. Performance  
+6. Strategic Thinking  
+
+---
+
+## 🎥 Video Library
+
+### TED Talks
+https://youtu.be/Hu4Yvq-g7_Y
+
+https://youtu.be/CHxhjDPKfbY
+
+https://youtu.be/894jQkeewiU
+
+https://youtu.be/T4CB5RPbtCk
+
+https://youtu.be/TQMbvJNRpLE
+
+https://youtu.be/fLJsdqxnZb0
+
+https://youtu.be/iDbdXTMnOmE
+
+https://youtu.be/LNHBMFCzznE
+
+https://youtu.be/FWTNMzK9vG4
+
+https://youtu.be/qOEB1Fr0_MM
+
+https://youtu.be/REFh5TMOoS0
+
+https://youtu.be/vo_lZiytsMw
+
+https://youtu.be/WXBA4eWskrc
+
+https://youtu.be/PBaFURjVrm0
+
+https://youtu.be/SxbDsuC-Ch4
+
+https://youtu.be/arj7oStGLkU
+
+https://youtu.be/n3kNlFMXslo
+
+https://youtu.be/ctyqx6trUmo
+
+https://youtu.be/ATdRtfp2-dE
+
+https://youtu.be/OmyfB513E1s
+
+https://youtu.be/ex1YT5C5Fvw
+
+https://youtu.be/H5c41aWpQ14
+
+https://youtu.be/jndWxpCzO5g
+
+https://youtu.be/hSGt_rhu49U
+
+https://youtu.be/MN_LkumE3Ig
+
+https://youtu.be/N3BcRlVBb04
+
+https://youtu.be/hw2clzJWdV0
 
 
+---
 
+### Tim Cook & Leadership
