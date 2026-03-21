@@ -19,6 +19,7 @@
 > https://youtu.be/4i4VaM7uyh8?si=bCJj7frEIaphe7CI
 ------
 # Exams 
+### How to study EFFECTIVELY without distraction (for long time)
 > https://youtu.be/seMVR9lwrjM?si=hrzO7wWwlUwNGs3z
 
 > https://youtu.be/XQFsva8fi9k?si=qGYulpc1ihpBREy6
