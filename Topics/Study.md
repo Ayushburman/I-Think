@@ -101,17 +101,17 @@
 > https://youtu.be/2APK3tlPL_0?si=qep8VMQqV2YgdCmh
 ### he Righteous Mind by Jonathan Haidt (BOOK INSIGHTS)
 > https://youtu.be/jNwGl73RyRY?si=5Je3qKf6P5Yv9bmB
-
+### Jonathan Haidt: "The Righteous Mind: Why Good People are Divided by Politics and Religion"
 > https://youtu.be/ONUM4akzLGE?si=H4TBenH4XRKPRWeh
-
+### A Brief Synopsis of The Master and His Emissary | Dr Iain McGilchrist
 > https://youtu.be/81Ci-9y_EYo?si=aLy1K0DYlGneMtal
-
+### Discussing The Master and His Emissary by Dr Iain McGilchrist
 > https://youtube.com/playlist?list=PLqBHk3itxyPDKFnwj8-SmlwHra64cCrky&si=qxtIJH5-Qkr1bBj6
-
+### HOW TO TAKE SMART NOTES by Sönke Ahrens | Core Message
 > https://youtu.be/JnS3g68zCXw?si=Gcnq-UXKJ75GhoM6
-
+### Study And Learn More Effectively With HOW TO TAKE SMART NOTES By Sönke Ahrens - Book Summary #30
 > https://youtu.be/0TuWGm9YiXw?si=AW_9k0oZUsQtamPf
-
+### The Brain That Changes and Heals Itself (w/ Dr. Norman Doidge, U of Toronto, Columbia University)
 > https://youtu.be/H_RUxICuEiM?si=7BpHiGvuCfzRkuJZ
 
 > https://youtu.be/ZxazH01t1Tc?si=pmcMv9iCJxk9dqBR
