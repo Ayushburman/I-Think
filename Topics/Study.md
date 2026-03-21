@@ -39,7 +39,7 @@
 > https://youtu.be/W65PKHuiZHY?si=65mxHWMBjBMT4e1Q
 ### How to MEMORIZE anything so FAST it feels like cheating?
 > https://youtu.be/vc6Hv9ORT5A?si=qlrm638Z16XCx_TP
-
+### How to Study 12+ Hours a Day With Focus
 > https://youtu.be/ZfxHVmNSlQ4?si=iTI483r02W43poU7
 
 > https://youtu.be/ex1YT5C5Fvw?si=UZKH7R44di2LMu0n
