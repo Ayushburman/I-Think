@@ -113,16 +113,17 @@
 > https://youtu.be/0TuWGm9YiXw?si=AW_9k0oZUsQtamPf
 ### The Brain That Changes and Heals Itself (w/ Dr. Norman Doidge, U of Toronto, Columbia University)
 > https://youtu.be/H_RUxICuEiM?si=7BpHiGvuCfzRkuJZ
-
+### The Brain That Changes Itself (2008): Neuroplasticity Insights with Dr. Norman Doidge
 > https://youtu.be/ZxazH01t1Tc?si=pmcMv9iCJxk9dqBR
-
+### The Beginning of Infinity (HINDI/हिंदी में)
 > https://youtu.be/QF5um9Hi9JU?si=2Gdon74xWavoNkOc
-
+### The Beginning of Infinity: Explanations That… by David Deutsch · Audiobook preview
 > https://youtu.be/rsuVd6Y1ab8?si=xZZbPzgqehpoNbEU
-
+### Rationality: from AI to Zombies by Antediluvian Atheist
 > https://youtube.com/playlist?list=PLsrfJq_DJi4vJ7-VBeR9xVW_6blBrVzET&si=v1xQL1slZh19c5Gr
-
+### Surfing Uncertainty by Andy Clark: 8 Minute Summary
 > https://youtu.be/dGJQBxMBpiI?si=_zEZaP43AF34zTw4
+
 ------
 
 # More Books
