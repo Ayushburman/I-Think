@@ -194,11 +194,11 @@
 > https://youtu.be/caPy0OZmXKs?si=LfyEQg8TwGr4uYTj
 
 > https://youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_&si=a9bRZgLE1FKViFP5
-
+### All of Statistics - Chapter 1 - Probability
 > https://youtu.be/tdsBniV_BWU?si=iRnDKJxP1k9OFLiO
-
+### Statistical Rethinking 2023 
 > https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&si=N68pLyim4QnSwyu2
-
+### Statistical Rethinking 2022 by Richard McElreath 
 > https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&si=r4MwQN4PGdjQf1e1
 
 
