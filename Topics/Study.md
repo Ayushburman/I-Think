@@ -153,41 +153,41 @@
 > https://youtu.be/yiEYu9DM1Q0?si=rg3ZVpq_vFoZHSf8
 ### The Drunkard's Walk: How Randomness Rules Our… by Leonard Mlodinow · Audiobook preview
 > https://youtu.be/Vg_iVU55RoA?si=4g-YAcgqx48GI0Cu
-
+### The Drunkard's Walk: How Randomness Rules our Lives
 > https://youtu.be/KRLwyq5dK48?si=-senzR_XiMr5Gnt3
-
+### THE ART OF THINKING CLEARLY by Rolf Dobelli | Core Message
 > https://youtu.be/rdrMSd1asIw?si=r2wV7175kIDwqOUV
-> 
->https://youtu.be/vNOV4nlOHtQ?si=v0dhqVt5dmWDhAXs
-> 
+### The Art of Thinking Clearly (Rolf Dobelli, Chairman at ZURICH.MINDS) | DLDwomen 12
+> https://youtu.be/vNOV4nlOHtQ?si=v0dhqVt5dmWDhAXs
+### The Art of Thinking Clearly by Rolf Dobelli Audiobook
 > https://youtu.be/9w6EeB7yweE?si=weeRNGE-VyW_A3TG
-
+### An Illustrated Book of Bad Arguments by Ali Almossawi Book Summary
 > https://youtu.be/gCbKn59BPXc?si=ZLlDGuJ-QITOLKnf
- 
+### Ali Almossawi: An Illustrated Book of Bad Arguments
 > https://youtu.be/TN39muPzKS8?si=rPudlGvYx6nw3N2P
-
+### An Illustrated Video Book of Bad Arguments
 > https://youtu.be/zD1DkTtUdpk?si=3v9l80kFVnRfcD3l
-
+### Mastermind by Maria Konnikova: 11 Minute Summary
 > https://youtu.be/s32tdz2L46A?si=yGtE5dsEVDY4ZCF4
-
+### How to Think Like Sherlock Holmes
 > https://youtu.be/XayG1qkZg9E?si=KDs16e73ev8Kinoe
-
+### Algorithms to Live By | Brian Christian & Tom Griffiths | Talks at Google
 > https://youtu.be/OwKj-wgXteo?si=sje9x1--hNWSj4Lf
-
+### ALGORITHMS TO LIVE BY by Brian Christian & Tom Griffiths | Core Message
 > https://youtu.be/2VCPmabnBdo?si=vIdeJdB_qy8ZocRN
-
+### Algorithms to Live By | Brian Christian
 > https://youtu.be/gPBiJsqTRms?si=ATPnQa4J5eCRqYbb
-
+### Algorithms to Live By | Brian Christian
 > https://youtu.be/7PhDnmJDYfI?si=wUPN-MyNa64pkVjU
-> 
+### How Not to Be Wrong by Jordan Ellenberg: 9 Minute Summary
 > https://youtu.be/adnNclkrxfE?si=2Sz7YKBsMSSePl7G
-
+### HOW NOT TO BE WRONG by Jordan Ellenberg | BOOK TRAILER
 > https://youtu.be/uYNsSeYjkp4?si=XmxRrs7Le4e8ZC9Y
-
+### Thinking in Bets | Annie Duke | Talks at Google
 > https://youtu.be/1XYI2gH-eJ8?si=0sSZYXplw5VSCnT7
-
+### THINKING IN BETS by Annie Duke | Core Message
 > https://youtu.be/pedNak4S9IE?si=avfnXdffG3dJemVR
-
+### Superforecasting | Philip Tetlock
 > https://youtu.be/hgey_jyrzo4?si=U5PwaJil9OntTl1P
 ### Fooled by Randomness by Nassim Nicholas Taleb
 > https://youtu.be/eV7SupmEgFs?si=C1kO824Diq7qN6pe
