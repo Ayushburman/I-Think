@@ -11,7 +11,7 @@
 > https://youtu.be/xVBReIuT_Xw?si=Uhc_UIFnu3vx5dfk
 ### 【Packed Exams】Foreign medical students battle sleepless nights and numerous subjects in finals.
 > https://youtu.be/KC_fxB1xCjU?si=KkVAnn1nNdexMqNi
-
+### [Study Hell] Medical students study 100 hours in the week before their exams [medical student vlog]
 > https://youtu.be/iso9fPWjMtI?si=iNqacWLzZm_FFWUQt5
 
 > https://youtu.be/cRDG7MGuMb0?si=hbgawXTi4bYp28nT
