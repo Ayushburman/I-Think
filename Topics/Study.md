@@ -21,7 +21,7 @@
 # Exams 
 ### How to study EFFECTIVELY without distraction (for long time)
 > https://youtu.be/seMVR9lwrjM?si=hrzO7wWwlUwNGs3z
-
+### How to Study for Hours Without Getting Distracted
 > https://youtu.be/XQFsva8fi9k?si=qGYulpc1ihpBREy6
 
 > https://youtu.be/aWCL2iyPKUM?si=kBVm1vtMIAFvW6nG
