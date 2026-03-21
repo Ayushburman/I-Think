@@ -137,21 +137,21 @@
 > https://youtu.be/J2kgAuzdhhY?si=wGPZQH9mysJggKWV
 ### The Art of Statistics by David Spiegelhalter Book Summary
 > https://youtu.be/eIW6lErug8g?si=ZRHe8U8teMMC9fWZ
-
+### The Art of Statistics with Professor Sir David Spiegelhalter
 > https://www.youtube.com/live/sFhAVWCAfhc?si=nD-ZXfjocFL3ggz8
-
+### Super Crunchers by Ian Ayres: 7 Minute Summary
 > https://youtu.be/BPEf0jbiSmc?si=nMH-UVEmEaGuanqr
-
+### Ian Ayres on Super Crunchers and the Power of Data 10/22/2007
 > https://youtu.be/1cB9BJYcb9s?si=vvzfAEEJ_o2sySnh
-
+### Super Crunchers | Ian Ayres | Talks at Google
 > https://youtu.be/5Yml4H2sG4U?si=2Asreh6I0nMH05nw
-
+### The Drunkard's Walk: How Randomness Rules Our Lives | Leonard Mlodinow | Talks at Google
 > https://youtu.be/F0sLuRsu1Do?si=XNJnT21mWTl9xs6O
-
+### The Drunkard's Walk by Leonard Mlodinow | 5 Minute Book Summary
 > https://youtu.be/yiEYu9DM1Q0?si=KeShkXOaVqhheJCM
-
+### The Drunkard's Walk by Leonard Mlodinow | 5 Minute Book Summary
 > https://youtu.be/yiEYu9DM1Q0?si=rg3ZVpq_vFoZHSf8
-
+### The Drunkard's Walk: How Randomness Rules Our… by Leonard Mlodinow · Audiobook preview
 > https://youtu.be/Vg_iVU55RoA?si=4g-YAcgqx48GI0Cu
 
 > https://youtu.be/KRLwyq5dK48?si=-senzR_XiMr5Gnt3
