@@ -25,7 +25,7 @@
 > https://youtu.be/XQFsva8fi9k?si=qGYulpc1ihpBREy6
 ### How I studied for 19 HOURS without getting tired (and how you can too) 😴
 > https://youtu.be/aWCL2iyPKUM?si=kBVm1vtMIAFvW6nG
-
+### Jordan Peterson - Why it's so Hard to Sit Down and Study/Work
 > https://youtu.be/IFmQ5waavJY?si=NHXnrP2LHXQDdXAo
 
 > https://youtu.be/CSeRWP8YISw?si=gKVgHIsGs_X499lv
