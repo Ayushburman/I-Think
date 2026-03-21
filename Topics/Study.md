@@ -188,11 +188,11 @@
 > https://youtu.be/pedNak4S9IE?si=avfnXdffG3dJemVR
 
 > https://youtu.be/hgey_jyrzo4?si=U5PwaJil9OntTl1P
-
+### Fooled by Randomness by Nassim Nicholas Taleb
 > https://youtu.be/eV7SupmEgFs?si=C1kO824Diq7qN6pe
-
+### HE BLACK SWAN SUMMARY (BY NASSIM TALEB)
 > https://youtu.be/caPy0OZmXKs?si=LfyEQg8TwGr4uYTj
-
+### Intermediate Statistics Larry Wasserman (CMU
 > https://youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_&si=a9bRZgLE1FKViFP5
 ### All of Statistics - Chapter 1 - Probability
 > https://youtu.be/tdsBniV_BWU?si=iRnDKJxP1k9OFLiO
