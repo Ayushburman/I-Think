@@ -23,7 +23,7 @@
 > https://youtu.be/seMVR9lwrjM?si=hrzO7wWwlUwNGs3z
 ### How to Study for Hours Without Getting Distracted
 > https://youtu.be/XQFsva8fi9k?si=qGYulpc1ihpBREy6
-
+### How I studied for 19 HOURS without getting tired (and how you can too) 😴
 > https://youtu.be/aWCL2iyPKUM?si=kBVm1vtMIAFvW6nG
 
 > https://youtu.be/IFmQ5waavJY?si=NHXnrP2LHXQDdXAo
