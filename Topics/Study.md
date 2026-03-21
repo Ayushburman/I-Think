@@ -95,11 +95,11 @@
 > https://youtu.be/2aLedOs_h1w?si=-xV0q5ny6vnMEm9i
 ### I Am A Strange Loop
 > https://youtu.be/MVg6-TfNp3c?si=5MbHcZqcaM2GbEJI
-
+### Superforecasting: 5 Quick Ways To Get 20% Smarter Without Raising Your IQ
 > https://youtu.be/hgey_jyrzo4?si=NDSDe6SHCIon48d4
-
+### The Righteous Mind | Jonathan Haidt | Talks at Google
 > https://youtu.be/2APK3tlPL_0?si=qep8VMQqV2YgdCmh
-
+### he Righteous Mind by Jonathan Haidt (BOOK INSIGHTS)
 > https://youtu.be/jNwGl73RyRY?si=5Je3qKf6P5Yv9bmB
 
 > https://youtu.be/ONUM4akzLGE?si=H4TBenH4XRKPRWeh
