@@ -1,214 +1,266 @@
-# Japanese Strategy to learn 
-### how i study 12 hours a day. (it's easier than you think)
-> https://youtu.be/p_QT8C26W_w?si=-QeV3W3f_i0zR9PR
-### The Japanese Student Routine That Helps You Remember EVERYTHING
-> https://youtu.be/txVYhAVvvUo?si=u8QiPm7Ar9oqFUKh
-### Studying 24 Hours With The World's Smartest Students
-> https://youtu.be/u35PM5xRdaA?si=NtAQu_ovbHUk1Jjh
-### If You Don’t Suffer Now, You’ll Suffer Later”—Welcome to Gaokao Prep｜China X-Ray｜
-> https://youtu.be/pkdjPiXRonQ?si=nXrkjd-ShiHFXYM1
-### 2000 Pages of lecture notes in 17 hours🔥 How medical students spend the night before an exam
-> https://youtu.be/xVBReIuT_Xw?si=Uhc_UIFnu3vx5dfk
-### 【Packed Exams】Foreign medical students battle sleepless nights and numerous subjects in finals.
-> https://youtu.be/KC_fxB1xCjU?si=KkVAnn1nNdexMqNi
-### [Study Hell] Medical students study 100 hours in the week before their exams [medical student vlog]
-> https://youtu.be/iso9fPWjMtI?si=iNqacWLzZm_FFWUQt5
-### Study Vlog / Study life of Japanese student / Pomodoro / 12h study day / Study With Me
-> https://youtu.be/cRDG7MGuMb0?si=hbgawXTi4bYp28nT
-### Japanese uni student vlog 🇯🇵 Last day of school alone→Moving to Tokyo & Starting new life 
-> https://youtu.be/4i4VaM7uyh8?si=bCJj7frEIaphe7CI
-------
-# Exams 
-### How to study EFFECTIVELY without distraction (for long time)
-> https://youtu.be/seMVR9lwrjM?si=hrzO7wWwlUwNGs3z
-### How to Study for Hours Without Getting Distracted
-> https://youtu.be/XQFsva8fi9k?si=qGYulpc1ihpBREy6
-### How I studied for 19 HOURS without getting tired (and how you can too) 😴
-> https://youtu.be/aWCL2iyPKUM?si=kBVm1vtMIAFvW6nG
-### Jordan Peterson - Why it's so Hard to Sit Down and Study/Work
-> https://youtu.be/IFmQ5waavJY?si=NHXnrP2LHXQDdXAo
-###  How to Study 12 Hours a Day Without Burning Out It’s Easier Than You Think
-> https://youtu.be/CSeRWP8YISw?si=gKVgHIsGs_X499lv
-### "Dopamine Loading" is the EASIEST way to get ADDICTED to studying
-> https://youtu.be/jyLXcy5SGd8?si=kxWbC1L2SbH8u09w
-### How to Sleep 4 Hours and Feel Like 8 (Science-Backed)
-> https://youtu.be/_GaY21NF4-U?si=50z3tqJc4NcTXpqB
-### "Holidays are opportunities" A two-day vlog of a medical student studying 20 hours a week
-> https://youtu.be/KxRi_fh98ck?si=8vy3AVs0xCAMQvZA
-### how to study even when you're EXHAUSTED
-> https://youtu.be/W65PKHuiZHY?si=65mxHWMBjBMT4e1Q
-### How to MEMORIZE anything so FAST it feels like cheating?
-> https://youtu.be/vc6Hv9ORT5A?si=qlrm638Z16XCx_TP
-### How to Study 12+ Hours a Day With Focus
-> https://youtu.be/ZfxHVmNSlQ4?si=iTI483r02W43poU7
-### How to Be So Productive It Feels ILLEGAL (No Motivation Needed)
-> https://youtu.be/ex1YT5C5Fvw?si=UZKH7R44di2LMu0n
-### how i study 12 hours a day. (it's easier than you think)
-> https://youtu.be/p_QT8C26W_w?si=tULw7lZsEr0XrFDP
-### 18 hours studying?? Trying KOREAN high school students 18 hour study routine 🔥 (help)
-> https://youtu.be/fOV-IScx2Mw?si=JNnw7ch3uruFZ4yF
-### how I studied for 12 hours a day for over a year
-> https://youtu.be/kICh_d6tHQk?si=wBXjt3d8cE7ERWBl
-### How I memorized an entire chapter from “Moby Dick”
-> https://youtu.be/mh9B5UJbbRg?si=66AIb8XrGxaTnHpu
-### How to Absorb Books 3x Faster in 7 Days (from a Med Student)
-> https://youtu.be/vge9LQIV1bg?si=DuL--oZ_2KdQmkEr
-### Reading Changes your Brain, let me explain.
-> https://youtu.be/AUw7laSlcbo?si=O1eHU1QMcpVj1bBm
-### 7 Brain Exercises to Sharpen Your Mind and Improve Focus
-> https://youtu.be/6A7Rbl_FKMU?si=qdK-RD-6MlYOX_Li
-### How To Remember Books Using A Memory Palace
-> https://youtu.be/CajZiZxHj1Y?si=SgCrLYey1p765H0i
-### Feats of memory anyone can do | Joshua Foer
-> https://youtu.be/U6PoUg7jXsA?si=iPGZhYzdiBBskz4U
-### Moonwalking with Einstein | Joshua Foer | Talks at Google
-> https://youtu.be/VX3c8uDLBY8?si=nTRjb8u-5ZQIohkY
-### Science-Based: Learn Anything FASTER [Make It Stick]
-> https://youtu.be/lnMMyHa9Y-Q?si=pfu5loaQWz63W9gh
-### How to Study: MAKE IT STICK by P. Brown, M.McDaniel & H.Roediger III | Core Message
-> https://youtu.be/MfylloWuuZU?si=2iCCsAet_odnB835
-### Thinking, Fast and Slow by Daniel Kahneman | Animated Book Summary
-> https://youtu.be/sn_cnhuGUKU?si=N7n6f8NRDDtRRO0R
-### Daniel Kahneman: Thinking Fast vs. Thinking Slow | Inc. Magazine
-> https://youtu.be/PirFrDVRBo4?si=p7SHwBAHFSaz13Zk
-### Thinking, Fast and Slow | Daniel Kahneman | Talks at Google
-> https://youtu.be/CjVQJdIrDJ0?si=NgYTAWFimWvYF_iQ
-### Super Thinking - Book Summary
-> https://youtu.be/p2S8RUuhgrI?si=fS4wWWS8H_3vZ2Af
-### The Art of Thinking Clearly (Rolf Dobelli, Chairman at ZURICH.MINDS) | DLDwomen 12
-> https://youtu.be/vNOV4nlOHtQ?si=5BPcWZ9I_FvYk21L
-### The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook
-> https://youtu.be/TyFqyOUib3M?si=Sxo_-YzlRLoxkCRO
-### The Great Mental Models, Volume 1: General Thinking Concepts - Shane Parrish, Rhiannon Beaubien
-> https://youtu.be/219NkK8EhC4?si=fzyNUOXcYJGniZ36
-### he 9 Powerful Mental Models Used By History's Greatest Minds
-> https://youtu.be/jgzreTGEb4M?si=3N2HhejmlEt2gTbM
-### Gödel, Escher, Bach: An Eternal Golden Braid
-> https://youtube.com/playlist?list=PLBOgSgXfJ6B2nbZ_YREW_Nb-AX8FW9U9K&si=1VEglF6QKhOgrpqV
-### The paradox at the heart of mathematics: Gödel's Incompleteness Theorem - Marcus du Sautoy
-> https://youtu.be/I4pQbo5MQOs?si=grdumNlySw1XnQtU
-### "What Is a Strange Loop and What is it Like To Be One?" by Douglas Hofstadter (2013)
-> https://youtu.be/UT5CxsyKwxg?si=vQVSF8k3e4Ehfota
-### You Are A Strange Loop
-> https://youtu.be/hQsnHkfs3sA?si=PVnCM9snCN7Q2_Gh
-### I Am a Strange Loop (HINDI/हिंदी में)
-> https://youtu.be/2aLedOs_h1w?si=-xV0q5ny6vnMEm9i
-### I Am A Strange Loop
-> https://youtu.be/MVg6-TfNp3c?si=5MbHcZqcaM2GbEJI
-### Superforecasting: 5 Quick Ways To Get 20% Smarter Without Raising Your IQ
-> https://youtu.be/hgey_jyrzo4?si=NDSDe6SHCIon48d4
-### The Righteous Mind | Jonathan Haidt | Talks at Google
-> https://youtu.be/2APK3tlPL_0?si=qep8VMQqV2YgdCmh
-### he Righteous Mind by Jonathan Haidt (BOOK INSIGHTS)
-> https://youtu.be/jNwGl73RyRY?si=5Je3qKf6P5Yv9bmB
-### Jonathan Haidt: "The Righteous Mind: Why Good People are Divided by Politics and Religion"
-> https://youtu.be/ONUM4akzLGE?si=H4TBenH4XRKPRWeh
-### A Brief Synopsis of The Master and His Emissary | Dr Iain McGilchrist
-> https://youtu.be/81Ci-9y_EYo?si=aLy1K0DYlGneMtal
-### Discussing The Master and His Emissary by Dr Iain McGilchrist
-> https://youtube.com/playlist?list=PLqBHk3itxyPDKFnwj8-SmlwHra64cCrky&si=qxtIJH5-Qkr1bBj6
-### HOW TO TAKE SMART NOTES by Sönke Ahrens | Core Message
-> https://youtu.be/JnS3g68zCXw?si=Gcnq-UXKJ75GhoM6
-### Study And Learn More Effectively With HOW TO TAKE SMART NOTES By Sönke Ahrens - Book Summary #30
-> https://youtu.be/0TuWGm9YiXw?si=AW_9k0oZUsQtamPf
-### The Brain That Changes and Heals Itself (w/ Dr. Norman Doidge, U of Toronto, Columbia University)
-> https://youtu.be/H_RUxICuEiM?si=7BpHiGvuCfzRkuJZ
-### The Brain That Changes Itself (2008): Neuroplasticity Insights with Dr. Norman Doidge
-> https://youtu.be/ZxazH01t1Tc?si=pmcMv9iCJxk9dqBR
-### The Beginning of Infinity (HINDI/हिंदी में)
-> https://youtu.be/QF5um9Hi9JU?si=2Gdon74xWavoNkOc
-### The Beginning of Infinity: Explanations That… by David Deutsch · Audiobook preview
-> https://youtu.be/rsuVd6Y1ab8?si=xZZbPzgqehpoNbEU
-### Rationality: from AI to Zombies by Antediluvian Atheist
-> https://youtube.com/playlist?list=PLsrfJq_DJi4vJ7-VBeR9xVW_6blBrVzET&si=v1xQL1slZh19c5Gr
-### Surfing Uncertainty by Andy Clark: 8 Minute Summary
-> https://youtu.be/dGJQBxMBpiI?si=_zEZaP43AF34zTw4
+# KNOWLEDGE
 
-------
+> A curated index of resources on learning, memory, reasoning, and the architecture of thought.
+> Arranged in recommended viewing order — from technique to depth.
 
-# More Books
-### The Signal and the Noise | Nate Silver | Talks at Google
-> https://youtu.be/mYIgSq-ZWE0?si=lGulI4Cg_1D5Rjaq
-### THE SIGNAL AND THE NOISE (BY NATE SILVER)
-> https://youtu.be/POrb5ZogvDs?si=9X-OfHrikLmiOw__
-### The Signal and the Noise - Nate Silver
-> https://youtu.be/z4zhI9uLs4U?si=QHQx5oKlM-MTxvYo
-### Everyone should read this book! (Especially if you work with data)
-> https://youtu.be/J2kgAuzdhhY?si=wGPZQH9mysJggKWV
-### The Art of Statistics by David Spiegelhalter Book Summary
-> https://youtu.be/eIW6lErug8g?si=ZRHe8U8teMMC9fWZ
-### The Art of Statistics with Professor Sir David Spiegelhalter
-> https://www.youtube.com/live/sFhAVWCAfhc?si=nD-ZXfjocFL3ggz8
-### Super Crunchers by Ian Ayres: 7 Minute Summary
-> https://youtu.be/BPEf0jbiSmc?si=nMH-UVEmEaGuanqr
-### Ian Ayres on Super Crunchers and the Power of Data 10/22/2007
-> https://youtu.be/1cB9BJYcb9s?si=vvzfAEEJ_o2sySnh
-### Super Crunchers | Ian Ayres | Talks at Google
-> https://youtu.be/5Yml4H2sG4U?si=2Asreh6I0nMH05nw
-### The Drunkard's Walk: How Randomness Rules Our Lives | Leonard Mlodinow | Talks at Google
-> https://youtu.be/F0sLuRsu1Do?si=XNJnT21mWTl9xs6O
-### The Drunkard's Walk by Leonard Mlodinow | 5 Minute Book Summary
-> https://youtu.be/yiEYu9DM1Q0?si=KeShkXOaVqhheJCM
-### The Drunkard's Walk by Leonard Mlodinow | 5 Minute Book Summary
-> https://youtu.be/yiEYu9DM1Q0?si=rg3ZVpq_vFoZHSf8
-### The Drunkard's Walk: How Randomness Rules Our… by Leonard Mlodinow · Audiobook preview
-> https://youtu.be/Vg_iVU55RoA?si=4g-YAcgqx48GI0Cu
-### The Drunkard's Walk: How Randomness Rules our Lives
-> https://youtu.be/KRLwyq5dK48?si=-senzR_XiMr5Gnt3
-### THE ART OF THINKING CLEARLY by Rolf Dobelli | Core Message
-> https://youtu.be/rdrMSd1asIw?si=r2wV7175kIDwqOUV
-### The Art of Thinking Clearly (Rolf Dobelli, Chairman at ZURICH.MINDS) | DLDwomen 12
-> https://youtu.be/vNOV4nlOHtQ?si=v0dhqVt5dmWDhAXs
-### The Art of Thinking Clearly by Rolf Dobelli Audiobook
-> https://youtu.be/9w6EeB7yweE?si=weeRNGE-VyW_A3TG
-### An Illustrated Book of Bad Arguments by Ali Almossawi Book Summary
-> https://youtu.be/gCbKn59BPXc?si=ZLlDGuJ-QITOLKnf
-### Ali Almossawi: An Illustrated Book of Bad Arguments
-> https://youtu.be/TN39muPzKS8?si=rPudlGvYx6nw3N2P
-### An Illustrated Video Book of Bad Arguments
-> https://youtu.be/zD1DkTtUdpk?si=3v9l80kFVnRfcD3l
-### Mastermind by Maria Konnikova: 11 Minute Summary
-> https://youtu.be/s32tdz2L46A?si=yGtE5dsEVDY4ZCF4
-### How to Think Like Sherlock Holmes
-> https://youtu.be/XayG1qkZg9E?si=KDs16e73ev8Kinoe
-### Algorithms to Live By | Brian Christian & Tom Griffiths | Talks at Google
-> https://youtu.be/OwKj-wgXteo?si=sje9x1--hNWSj4Lf
-### ALGORITHMS TO LIVE BY by Brian Christian & Tom Griffiths | Core Message
-> https://youtu.be/2VCPmabnBdo?si=vIdeJdB_qy8ZocRN
-### Algorithms to Live By | Brian Christian
-> https://youtu.be/gPBiJsqTRms?si=ATPnQa4J5eCRqYbb
-### Algorithms to Live By | Brian Christian
-> https://youtu.be/7PhDnmJDYfI?si=wUPN-MyNa64pkVjU
-### How Not to Be Wrong by Jordan Ellenberg: 9 Minute Summary
-> https://youtu.be/adnNclkrxfE?si=2Sz7YKBsMSSePl7G
-### HOW NOT TO BE WRONG by Jordan Ellenberg | BOOK TRAILER
-> https://youtu.be/uYNsSeYjkp4?si=XmxRrs7Le4e8ZC9Y
-### Thinking in Bets | Annie Duke | Talks at Google
-> https://youtu.be/1XYI2gH-eJ8?si=0sSZYXplw5VSCnT7
-### THINKING IN BETS by Annie Duke | Core Message
-> https://youtu.be/pedNak4S9IE?si=avfnXdffG3dJemVR
-### Superforecasting | Philip Tetlock
-> https://youtu.be/hgey_jyrzo4?si=U5PwaJil9OntTl1P
-### Fooled by Randomness by Nassim Nicholas Taleb
-> https://youtu.be/eV7SupmEgFs?si=C1kO824Diq7qN6pe
-### HE BLACK SWAN SUMMARY (BY NASSIM TALEB)
-> https://youtu.be/caPy0OZmXKs?si=LfyEQg8TwGr4uYTj
-### Intermediate Statistics Larry Wasserman (CMU
-> https://youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_&si=a9bRZgLE1FKViFP5
-### All of Statistics - Chapter 1 - Probability
-> https://youtu.be/tdsBniV_BWU?si=iRnDKJxP1k9OFLiO
-### Statistical Rethinking 2023 
-> https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&si=N68pLyim4QnSwyu2
-### Statistical Rethinking 2022 by Richard McElreath 
-> https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&si=r4MwQN4PGdjQf1e1
+---
 
+## Table of Contents
 
+- [I — How to Study](#i--how-to-study)
+- [II — Memory & Retention](#ii--memory--retention)
+- [III — Focus & Endurance](#iii--focus--endurance)
+- [IV — World-Class Student Routines](#iv--world-class-student-routines)
+- [V — Thinking Frameworks](#v--thinking-frameworks)
+- [VI — Probability, Statistics & Prediction](#vi--probability-statistics--prediction)
+- [VII — Neuroscience & the Brain](#vii--neuroscience--the-brain)
+- [VIII — Philosophy of Mind & Strange Loops](#viii--philosophy-of-mind--strange-loops)
+- [IX — Courses (Deep Study)](#ix--courses-deep-study)
+- [X — Priority Stack](#x--priority-stack)
 
-------
-# Note 
-fastest brain upgrade stack:
-The Signal and the Noise
-Superforecasting
-Algorithms to Live By
-How Not to Be Wrong
-Fooled by Randomness
+---
+
+## I — How to Study
+
+> Start here. These establish the mechanics before anything else.
+
+| Title | Link |
+|-------|------|
+| Science-Based: Learn Anything FASTER — Make It Stick | [→ Watch](https://youtu.be/lnMMyHa9Y-Q) |
+| How to Study: MAKE IT STICK — Core Message | [→ Watch](https://youtu.be/MfylloWuuZU) |
+| HOW TO TAKE SMART NOTES by Sönke Ahrens — Core Message | [→ Watch](https://youtu.be/JnS3g68zCXw) |
+| Study And Learn More Effectively With HOW TO TAKE SMART NOTES | [→ Watch](https://youtu.be/0TuWGm9YiXw) |
+| How to Study EFFECTIVELY without distraction (for long time) | [→ Watch](https://youtu.be/seMVR9lwrjM) |
+| How to Study for Hours Without Getting Distracted | [→ Watch](https://youtu.be/XQFsva8fi9k) |
+| How to Absorb Books 3× Faster in 7 Days (from a Med Student) | [→ Watch](https://youtu.be/vge9LQIV1bg) |
+| Reading Changes your Brain — Let Me Explain | [→ Watch](https://youtu.be/AUw7laSlcbo) |
+
+**Further Reading**
+- *Make It Stick* — Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel
+- *How to Take Smart Notes* — Sönke Ahrens
+- *A Mind for Numbers* — Barbara Oakley
+
+---
+
+## II — Memory & Retention
+
+> The science and technique of encoding information that actually sticks.
+
+| Title | Link |
+|-------|------|
+| How to MEMORIZE anything so FAST it feels like cheating | [→ Watch](https://youtu.be/vc6Hv9ORT5A) |
+| How To Remember Books Using A Memory Palace | [→ Watch](https://youtu.be/CajZiZxHj1Y) |
+| How I memorized an entire chapter from "Moby Dick" | [→ Watch](https://youtu.be/mh9B5UJbbRg) |
+| Feats of Memory Anyone Can Do — Joshua Foer (TED) | [→ Watch](https://youtu.be/U6PoUg7jXsA) |
+| Moonwalking with Einstein — Joshua Foer at Google | [→ Watch](https://youtu.be/VX3c8uDLBY8) |
+| 7 Brain Exercises to Sharpen Your Mind and Improve Focus | [→ Watch](https://youtu.be/6A7Rbl_FKMU) |
+
+**Further Reading**
+- *Moonwalking with Einstein* — Joshua Foer
+- *Unlimited Memory* — Kevin Horsley
+- *The Memory Book* — Harry Lorayne & Jerry Lucas
+
+---
+
+## III — Focus & Endurance
+
+> Sustaining output across long sessions without burning out.
+
+| Title | Link |
+|-------|------|
+| Jordan Peterson — Why It's So Hard to Sit Down and Study/Work | [→ Watch](https://youtu.be/IFmQ5waavJY) |
+| "Dopamine Loading" — The Easiest Way to Get ADDICTED to Studying | [→ Watch](https://youtu.be/jyLXcy5SGd8) |
+| How I Studied for 19 HOURS Without Getting Tired | [→ Watch](https://youtu.be/aWCL2iyPKUM) |
+| How to Study 12 Hours a Day Without Burning Out | [→ Watch](https://youtu.be/CSeRWP8YISw) |
+| How to Study 12+ Hours a Day With Focus | [→ Watch](https://youtu.be/ZfxHVmNSlQ4) |
+| How to study even when you're EXHAUSTED | [→ Watch](https://youtu.be/W65PKHuiZHY) |
+| How to Sleep 4 Hours and Feel Like 8 (Science-Backed) | [→ Watch](https://youtu.be/_GaY21NF4-U) |
+| How to Be So Productive It Feels ILLEGAL (No Motivation Needed) | [→ Watch](https://youtu.be/ex1YT5C5Fvw) |
+
+**Further Reading**
+- *Deep Work* — Cal Newport
+- *Atomic Habits* — James Clear
+- *The Willpower Instinct* — Kelly McGonigal
+
+---
+
+## IV — World-Class Student Routines
+
+> Observational and motivational. See how extreme dedication looks in practice.
+
+| Title | Link |
+|-------|------|
+| how i study 12 hours a day — Japanese Strategy | [→ Watch](https://youtu.be/p_QT8C26W_w) |
+| The Japanese Student Routine That Helps You Remember EVERYTHING | [→ Watch](https://youtu.be/txVYhAVvvUo) |
+| Study Vlog — Pomodoro / 12h Study Day / Study With Me | [→ Watch](https://youtu.be/cRDG7MGuMb0) |
+| Studying 24 Hours With The World's Smartest Students | [→ Watch](https://youtu.be/u35PM5xRdaA) |
+| Trying Korean High School Students' 18-Hour Study Routine | [→ Watch](https://youtu.be/fOV-IScx2Mw) |
+| How I Studied 12 Hours a Day for Over a Year | [→ Watch](https://youtu.be/kICh_d6tHQk) |
+| "Holidays are Opportunities" — Medical Student Studying 20 Hours a Week | [→ Watch](https://youtu.be/KxRi_fh98ck) |
+| 2000 Pages of Lecture Notes in 17 Hours — Night Before an Exam | [→ Watch](https://youtu.be/xVBReIuT_Xw) |
+| Medical Students Study 100 Hours in the Week Before Exams | [→ Watch](https://youtu.be/iso9fPWjMtI) |
+| Foreign Medical Students Battle Sleepless Nights — Finals | [→ Watch](https://youtu.be/KC_fxB1xCjU) |
+| "If You Don't Suffer Now, You'll Suffer Later" — Gaokao Prep | [→ Watch](https://youtu.be/pkdjPiXRonQ) |
+| Japanese Uni Student Vlog — Last Day of School → Moving to Tokyo | [→ Watch](https://youtu.be/4i4VaM7uyh8) |
+
+---
+
+## V — Thinking Frameworks
+
+> How to reason well. Mental models, cognitive biases, decision-making.
+
+| Title | Link |
+|-------|------|
+| Thinking, Fast and Slow — Animated Book Summary | [→ Watch](https://youtu.be/sn_cnhuGUKU) |
+| Daniel Kahneman: Thinking Fast vs. Thinking Slow — Inc. Magazine | [→ Watch](https://youtu.be/PirFrDVRBo4) |
+| Thinking, Fast and Slow — Kahneman at Google | [→ Watch](https://youtu.be/CjVQJdIrDJ0) |
+| Super Thinking — Book Summary | [→ Watch](https://youtu.be/p2S8RUuhgrI) |
+| The Great Mental Models Vol. 1 — Shane Parrish | [→ Watch](https://youtu.be/219NkK8EhC4) |
+| The 9 Powerful Mental Models Used By History's Greatest Minds | [→ Watch](https://youtu.be/jgzreTGEb4M) |
+| The Art of Thinking Clearly — Rolf Dobelli (DLDwomen) | [→ Watch](https://youtu.be/vNOV4nlOHtQ) |
+| THE ART OF THINKING CLEARLY — Core Message | [→ Watch](https://youtu.be/rdrMSd1asIw) |
+| The Art of Thinking Clearly — Full Audiobook | [→ Watch](https://youtu.be/TyFqyOUib3M) |
+| An Illustrated Book of Bad Arguments — Ali Almossawi | [→ Watch](https://youtu.be/TN39muPzKS8) |
+| An Illustrated Video Book of Bad Arguments | [→ Watch](https://youtu.be/zD1DkTtUdpk) |
+| An Illustrated Book of Bad Arguments — Book Summary | [→ Watch](https://youtu.be/gCbKn59BPXc) |
+| Mastermind by Maria Konnikova — How to Think Like Sherlock Holmes | [→ Watch](https://youtu.be/XayG1qkZg9E) |
+| Mastermind — 11 Minute Summary | [→ Watch](https://youtu.be/s32tdz2L46A) |
+| Algorithms to Live By — Brian Christian & Tom Griffiths at Google | [→ Watch](https://youtu.be/OwKj-wgXteo) |
+| ALGORITHMS TO LIVE BY — Core Message | [→ Watch](https://youtu.be/2VCPmabnBdo) |
+| The Righteous Mind — Jonathan Haidt at Google | [→ Watch](https://youtu.be/2APK3tlPL_0) |
+| The Righteous Mind — Book Insights | [→ Watch](https://youtu.be/jNwGl73RyRY) |
+| Thinking in Bets — Annie Duke at Google | [→ Watch](https://youtu.be/1XYI2gH-eJ8) |
+| THINKING IN BETS — Core Message | [→ Watch](https://youtu.be/pedNak4S9IE) |
+| Superforecasting — Philip Tetlock | [→ Watch](https://youtu.be/hgey_jyrzo4) |
+
+**Further Reading**
+- *Thinking, Fast and Slow* — Daniel Kahneman
+- *The Art of Thinking Clearly* — Rolf Dobelli
+- *Algorithms to Live By* — Brian Christian & Tom Griffiths
+- *Thinking in Bets* — Annie Duke
+- *Superforecasting* — Philip Tetlock
+- *Poor Charlie's Almanack* — Charles T. Munger
+- *The Scout Mindset* — Julia Galef
+
+---
+
+## VI — Probability, Statistics & Prediction
+
+> Quantitative reasoning. How to read data, uncertainty, and the world accurately.
+
+| Title | Link |
+|-------|------|
+| How Not to Be Wrong — Jordan Ellenberg (9 min Summary) | [→ Watch](https://youtu.be/adnNclkrxfE) |
+| HOW NOT TO BE WRONG — Book Trailer | [→ Watch](https://youtu.be/uYNsSeYjkp4) |
+| The Signal and the Noise — Nate Silver at Google | [→ Watch](https://youtu.be/mYIgSq-ZWE0) |
+| THE SIGNAL AND THE NOISE — Summary | [→ Watch](https://youtu.be/POrb5ZogvDs) |
+| The Signal and the Noise — Nate Silver | [→ Watch](https://youtu.be/z4zhI9uLs4U) |
+| Everyone should read this book! (if you work with data) | [→ Watch](https://youtu.be/J2kgAuzdhhY) |
+| The Art of Statistics — David Spiegelhalter (Book Summary) | [→ Watch](https://youtu.be/eIW6lErug8g) |
+| The Art of Statistics — Live with Prof. Spiegelhalter | [→ Watch](https://www.youtube.com/live/sFhAVWCAfhc) |
+| Super Crunchers — Ian Ayres (7 min Summary) | [→ Watch](https://youtu.be/BPEf0jbiSmc) |
+| Super Crunchers — Ian Ayres at Google | [→ Watch](https://youtu.be/5Yml4H2sG4U) |
+| The Drunkard's Walk — Leonard Mlodinow at Google | [→ Watch](https://youtu.be/F0sLuRsu1Do) |
+| The Drunkard's Walk — 5 Minute Book Summary | [→ Watch](https://youtu.be/yiEYu9DM1Q0) |
+| Fooled by Randomness — Nassim Nicholas Taleb | [→ Watch](https://youtu.be/eV7SupmEgFs) |
+| The Black Swan — Summary | [→ Watch](https://youtu.be/caPy0OZmXKs) |
+| Rationality: From AI to Zombies — Playlist | [→ Watch](https://youtube.com/playlist?list=PLsrfJq_DJi4vJ7-VBeR9xVW_6blBrVzET) |
+| Surfing Uncertainty — Andy Clark (8 min Summary) | [→ Watch](https://youtu.be/dGJQBxMBpiI) |
+
+**Further Reading**
+- *The Signal and the Noise* — Nate Silver
+- *How Not to Be Wrong* — Jordan Ellenberg
+- *The Drunkard's Walk* — Leonard Mlodinow
+- *Fooled by Randomness* — Nassim Nicholas Taleb
+- *The Black Swan* — Nassim Nicholas Taleb
+- *The Art of Statistics* — David Spiegelhalter
+- *Naked Statistics* — Charles Wheelan
+
+---
+
+## VII — Neuroscience & the Brain
+
+> Neuroplasticity, learning biology, and how the physical brain changes.
+
+| Title | Link |
+|-------|------|
+| The Brain That Changes and Heals Itself — Dr. Norman Doidge | [→ Watch](https://youtu.be/H_RUxICuEiM) |
+| The Brain That Changes Itself (2008) — Neuroplasticity Insights | [→ Watch](https://youtu.be/ZxazH01t1Tc) |
+| A Brief Synopsis of The Master and His Emissary — Dr. Iain McGilchrist | [→ Watch](https://youtu.be/81Ci-9y_EYo) |
+| Discussing The Master and His Emissary — Full Playlist | [→ Watch](https://youtube.com/playlist?list=PLqBHk3itxyPDKFnwj8-SmlwHra64cCrky) |
+
+**Further Reading**
+- *The Brain That Changes Itself* — Norman Doidge
+- *The Master and His Emissary* — Iain McGilchrist
+- *Incognito* — David Eagleman
+- *The Body Keeps the Score* — Bessel van der Kolk
+
+---
+
+## VIII — Philosophy of Mind & Strange Loops
+
+> Self-reference, consciousness, infinity, and the deepest questions of cognition.
+
+| Title | Link |
+|-------|------|
+| Gödel, Escher, Bach: An Eternal Golden Braid — Full Playlist | [→ Watch](https://youtube.com/playlist?list=PLBOgSgXfJ6B2nbZ_YREW_Nb-AX8FW9U9K) |
+| The Paradox at the Heart of Mathematics — Gödel's Incompleteness Theorem | [→ Watch](https://youtu.be/I4pQbo5MQOs) |
+| "What Is a Strange Loop?" — Douglas Hofstadter (2013) | [→ Watch](https://youtu.be/UT5CxsyKwxg) |
+| You Are A Strange Loop | [→ Watch](https://youtu.be/hQsnHkfs3sA) |
+| I Am A Strange Loop | [→ Watch](https://youtu.be/MVg6-TfNp3c) |
+| I Am A Strange Loop (Hindi) | [→ Watch](https://youtu.be/2aLedOs_h1w) |
+| The Beginning of Infinity — David Deutsch (Audiobook Preview) | [→ Watch](https://youtu.be/rsuVd6Y1ab8) |
+| The Beginning of Infinity (Hindi) | [→ Watch](https://youtu.be/QF5um9Hi9JU) |
+
+**Further Reading**
+- *Gödel, Escher, Bach* — Douglas Hofstadter
+- *I Am a Strange Loop* — Douglas Hofstadter
+- *The Beginning of Infinity* — David Deutsch
+- *Surfaces and Essences* — Douglas Hofstadter & Emmanuel Sander
+- *The Emperor's New Mind* — Roger Penrose
+
+---
+
+## IX — Courses (Deep Study)
+
+> Structured academic content for serious engagement with statistics and probability.
+
+| Title | Link |
+|-------|------|
+| Intermediate Statistics — Larry Wasserman (CMU) | [→ Playlist](https://youtube.com/playlist?list=PLJPW8OTey_OZk6K_9QLpguoPg_Ip3GkW_) |
+| All of Statistics — Chapter 1: Probability | [→ Watch](https://youtu.be/tdsBniV_BWU) |
+| Statistical Rethinking 2023 — Richard McElreath | [→ Playlist](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) |
+| Statistical Rethinking 2022 — Richard McElreath | [→ Playlist](https://youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) |
+
+**Companion Texts**
+- *All of Statistics* — Larry Wasserman
+- *Statistical Rethinking* — Richard McElreath
+- *Bayesian Data Analysis* — Gelman et al.
+
+---
+
+## X — Priority Stack
+
+> The fastest path to a meaningful upgrade in reasoning and judgment.
+> Read and watch in this order.
+
+```
+1. The Signal and the Noise          — Nate Silver
+2. Superforecasting                  — Philip Tetlock
+3. Algorithms to Live By             — Brian Christian & Tom Griffiths
+4. How Not to Be Wrong               — Jordan Ellenberg
+5. Fooled by Randomness              — Nassim Nicholas Taleb
+```
+
+**Extend with:**
+```
+6. Thinking, Fast and Slow           — Daniel Kahneman
+7. Make It Stick                     — Brown, Roediger, McDaniel
+8. Gödel, Escher, Bach               — Douglas Hofstadter
+9. The Beginning of Infinity         — David Deutsch
+10. Statistical Rethinking           — Richard McElreath
+```
+
+---
+
+*All links verified at time of curation. Playlists may update; individual videos are stable.*
