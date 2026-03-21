@@ -67,13 +67,13 @@
 > https://youtu.be/lnMMyHa9Y-Q?si=pfu5loaQWz63W9gh
 ### How to Study: MAKE IT STICK by P. Brown, M.McDaniel & H.Roediger III | Core Message
 > https://youtu.be/MfylloWuuZU?si=2iCCsAet_odnB835
-
+### Thinking, Fast and Slow by Daniel Kahneman | Animated Book Summary
 > https://youtu.be/sn_cnhuGUKU?si=N7n6f8NRDDtRRO0R
-
+### Daniel Kahneman: Thinking Fast vs. Thinking Slow | Inc. Magazine
 > https://youtu.be/PirFrDVRBo4?si=p7SHwBAHFSaz13Zk
-
+### Thinking, Fast and Slow | Daniel Kahneman | Talks at Google
 > https://youtu.be/CjVQJdIrDJ0?si=NgYTAWFimWvYF_iQ
-
+### Super Thinking - Book Summary
 > https://youtu.be/p2S8RUuhgrI?si=fS4wWWS8H_3vZ2Af
 
 > https://youtu.be/vNOV4nlOHtQ?si=5BPcWZ9I_FvYk21L
