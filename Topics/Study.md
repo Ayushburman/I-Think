@@ -127,15 +127,15 @@
 ------
 
 # More Books
-
+### The Signal and the Noise | Nate Silver | Talks at Google
 > https://youtu.be/mYIgSq-ZWE0?si=lGulI4Cg_1D5Rjaq
-
+### THE SIGNAL AND THE NOISE (BY NATE SILVER)
 > https://youtu.be/POrb5ZogvDs?si=9X-OfHrikLmiOw__
-
+### The Signal and the Noise - Nate Silver
 > https://youtu.be/z4zhI9uLs4U?si=QHQx5oKlM-MTxvYo
-
+### Everyone should read this book! (Especially if you work with data)
 > https://youtu.be/J2kgAuzdhhY?si=wGPZQH9mysJggKWV
-
+### The Art of Statistics by David Spiegelhalter Book Summary
 > https://youtu.be/eIW6lErug8g?si=ZRHe8U8teMMC9fWZ
 
 > https://www.youtube.com/live/sFhAVWCAfhc?si=nD-ZXfjocFL3ggz8
