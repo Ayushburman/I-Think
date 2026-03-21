@@ -59,13 +59,13 @@
 > https://youtu.be/6A7Rbl_FKMU?si=qdK-RD-6MlYOX_Li
 ### How To Remember Books Using A Memory Palace
 > https://youtu.be/CajZiZxHj1Y?si=SgCrLYey1p765H0i
-
+### Feats of memory anyone can do | Joshua Foer
 > https://youtu.be/U6PoUg7jXsA?si=iPGZhYzdiBBskz4U
-
+### Moonwalking with Einstein | Joshua Foer | Talks at Google
 > https://youtu.be/VX3c8uDLBY8?si=nTRjb8u-5ZQIohkY
-
+### Science-Based: Learn Anything FASTER [Make It Stick]
 > https://youtu.be/lnMMyHa9Y-Q?si=pfu5loaQWz63W9gh
-
+### How to Study: MAKE IT STICK by P. Brown, M.McDaniel & H.Roediger III | Core Message
 > https://youtu.be/MfylloWuuZU?si=2iCCsAet_odnB835
 
 > https://youtu.be/sn_cnhuGUKU?si=N7n6f8NRDDtRRO0R
