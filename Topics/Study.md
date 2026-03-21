@@ -75,21 +75,21 @@
 > https://youtu.be/CjVQJdIrDJ0?si=NgYTAWFimWvYF_iQ
 ### Super Thinking - Book Summary
 > https://youtu.be/p2S8RUuhgrI?si=fS4wWWS8H_3vZ2Af
-
+### The Art of Thinking Clearly (Rolf Dobelli, Chairman at ZURICH.MINDS) | DLDwomen 12
 > https://youtu.be/vNOV4nlOHtQ?si=5BPcWZ9I_FvYk21L
-
+### The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook
 > https://youtu.be/TyFqyOUib3M?si=Sxo_-YzlRLoxkCRO
-
+### The Great Mental Models, Volume 1: General Thinking Concepts - Shane Parrish, Rhiannon Beaubien
 > https://youtu.be/219NkK8EhC4?si=fzyNUOXcYJGniZ36
-
+### he 9 Powerful Mental Models Used By History's Greatest Minds
 > https://youtu.be/jgzreTGEb4M?si=3N2HhejmlEt2gTbM
-
+### Gödel, Escher, Bach: An Eternal Golden Braid
 > https://youtube.com/playlist?list=PLBOgSgXfJ6B2nbZ_YREW_Nb-AX8FW9U9K&si=1VEglF6QKhOgrpqV
-
+### The paradox at the heart of mathematics: Gödel's Incompleteness Theorem - Marcus du Sautoy
 > https://youtu.be/I4pQbo5MQOs?si=grdumNlySw1XnQtU
-
+### "What Is a Strange Loop and What is it Like To Be One?" by Douglas Hofstadter (2013)
 > https://youtu.be/UT5CxsyKwxg?si=vQVSF8k3e4Ehfota
-
+### You Are A Strange Loop
 > https://youtu.be/hQsnHkfs3sA?si=PVnCM9snCN7Q2_Gh
 
 > https://youtu.be/2aLedOs_h1w?si=-xV0q5ny6vnMEm9i
