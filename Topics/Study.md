@@ -15,7 +15,7 @@
 > https://youtu.be/iso9fPWjMtI?si=iNqacWLzZm_FFWUQt5
 ### Study Vlog / Study life of Japanese student / Pomodoro / 12h study day / Study With Me
 > https://youtu.be/cRDG7MGuMb0?si=hbgawXTi4bYp28nT
-
+### Japanese uni student vlog 🇯🇵 Last day of school alone→Moving to Tokyo & Starting new life 
 > https://youtu.be/4i4VaM7uyh8?si=bCJj7frEIaphe7CI
 ------
 # Exams 
