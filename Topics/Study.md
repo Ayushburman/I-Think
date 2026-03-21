@@ -51,13 +51,13 @@
 > https://youtu.be/kICh_d6tHQk?si=wBXjt3d8cE7ERWBl
 ### How I memorized an entire chapter from “Moby Dick”
 > https://youtu.be/mh9B5UJbbRg?si=66AIb8XrGxaTnHpu
-
+### How to Absorb Books 3x Faster in 7 Days (from a Med Student)
 > https://youtu.be/vge9LQIV1bg?si=DuL--oZ_2KdQmkEr
-
+### Reading Changes your Brain, let me explain.
 > https://youtu.be/AUw7laSlcbo?si=O1eHU1QMcpVj1bBm
-
+### 7 Brain Exercises to Sharpen Your Mind and Improve Focus
 > https://youtu.be/6A7Rbl_FKMU?si=qdK-RD-6MlYOX_Li
-
+### How To Remember Books Using A Memory Palace
 > https://youtu.be/CajZiZxHj1Y?si=SgCrLYey1p765H0i
 
 > https://youtu.be/U6PoUg7jXsA?si=iPGZhYzdiBBskz4U
