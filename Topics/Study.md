@@ -13,7 +13,7 @@
 > https://youtu.be/KC_fxB1xCjU?si=KkVAnn1nNdexMqNi
 ### [Study Hell] Medical students study 100 hours in the week before their exams [medical student vlog]
 > https://youtu.be/iso9fPWjMtI?si=iNqacWLzZm_FFWUQt5
-
+### Study Vlog / Study life of Japanese student / Pomodoro / 12h study day / Study With Me
 > https://youtu.be/cRDG7MGuMb0?si=hbgawXTi4bYp28nT
 
 > https://youtu.be/4i4VaM7uyh8?si=bCJj7frEIaphe7CI
