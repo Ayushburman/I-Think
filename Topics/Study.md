@@ -27,7 +27,7 @@
 > https://youtu.be/aWCL2iyPKUM?si=kBVm1vtMIAFvW6nG
 ### Jordan Peterson - Why it's so Hard to Sit Down and Study/Work
 > https://youtu.be/IFmQ5waavJY?si=NHXnrP2LHXQDdXAo
-###  https://youtu.be/CSeRWP8YISw?si=gKVgHIsGs_X499lv
+###  How to Study 12 Hours a Day Without Burning Out It’s Easier Than You Think
 > https://youtu.be/CSeRWP8YISw?si=gKVgHIsGs_X499lv
 
 > https://youtu.be/jyLXcy5SGd8?si=kxWbC1L2SbH8u09w
