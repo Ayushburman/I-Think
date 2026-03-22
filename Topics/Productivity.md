@@ -68,7 +68,7 @@ https://youtu.be/qOEB1Fr0_MM
 https://youtu.be/REFh5TMOoS0
 ### Change Your Mindset and Achieve Anything | Colin O'Brady | TEDxPortland
 https://youtu.be/WXBA4eWskrc
-
+### How to hack your brain for better focus | Sasha Hamdani | TEDxKC
 https://youtu.be/PBaFURjVrm0
 
 https://youtu.be/SxbDsuC-Ch4
