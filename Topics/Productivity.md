@@ -70,7 +70,7 @@ https://youtu.be/REFh5TMOoS0
 https://youtu.be/WXBA4eWskrc
 ### How to hack your brain for better focus | Sasha Hamdani | TEDxKC
 https://youtu.be/PBaFURjVrm0
-
+### We’re Overcomplicating Time Management | Samantha Lane | TEDxJohnsonCity
 https://youtu.be/SxbDsuC-Ch4
 
 https://youtu.be/arj7oStGLkU
