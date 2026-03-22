@@ -86,7 +86,7 @@ https://youtu.be/OmyfB513E1s
 https://youtu.be/ex1YT5C5Fvw
 ###  Why Productivity Is Bullshit! The Secret Is To Do Less Not More
 https://youtu.be/H5c41aWpQ14
-### 
+### how to actually become a polymath.
 https://youtu.be/jndWxpCzO5g
 
 https://youtu.be/hSGt_rhu49U
