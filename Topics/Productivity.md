@@ -58,13 +58,13 @@ https://youtu.be/TQMbvJNRpLE
 https://youtu.be/fLJsdqxnZb0
 ### How to manage your time more effectively (according to machines) - Brian Christian
 https://youtu.be/iDbdXTMnOmE
-### 
+### After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver
 https://youtu.be/LNHBMFCzznE
-
+### 
 https://youtu.be/FWTNMzK9vG4
-
+### 
 https://youtu.be/qOEB1Fr0_MM
-
+### 
 https://youtu.be/REFh5TMOoS0
 
 https://youtu.be/vo_lZiytsMw
