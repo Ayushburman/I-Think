@@ -78,7 +78,7 @@ https://youtu.be/arj7oStGLkU
 https://youtu.be/n3kNlFMXslo
 ### Why You Procrastinate - and How to Stop it for Good | Elyssa Smith | TEDxBabsonCollege
 https://youtu.be/ctyqx6trUmo
-
+### I’m begging you to manage your time
 https://youtu.be/ATdRtfp2-dE
 
 https://youtu.be/OmyfB513E1s
