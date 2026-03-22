@@ -72,7 +72,7 @@ https://youtu.be/WXBA4eWskrc
 https://youtu.be/PBaFURjVrm0
 ### We’re Overcomplicating Time Management | Samantha Lane | TEDxJohnsonCity
 https://youtu.be/SxbDsuC-Ch4
-
+### Inside the Mind of a Master Procrastinator | Tim Urban | TED
 https://youtu.be/arj7oStGLkU
 
 https://youtu.be/n3kNlFMXslo
