@@ -56,9 +56,9 @@ https://youtu.be/T4CB5RPbtCk
 https://youtu.be/TQMbvJNRpLE
 ### How to manage your time more effectively (according to machines) - Brian Christian
 https://youtu.be/fLJsdqxnZb0
-### 
+### How to manage your time more effectively (according to machines) - Brian Christian
 https://youtu.be/iDbdXTMnOmE
-
+### 
 https://youtu.be/LNHBMFCzznE
 
 https://youtu.be/FWTNMzK9vG4
