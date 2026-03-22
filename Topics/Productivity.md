@@ -64,11 +64,9 @@ https://youtu.be/LNHBMFCzznE
 https://youtu.be/FWTNMzK9vG4
 ### How waking up every day at 4.30am can change your life | Filipe Castro Matos |
 https://youtu.be/qOEB1Fr0_MM
-### 
+### A More Human Approach to Productivity | Chris Bailey | TEDxLiverpool
 https://youtu.be/REFh5TMOoS0
-
-https://youtu.be/vo_lZiytsMw
-
+### Change Your Mindset and Achieve Anything | Colin O'Brady | TEDxPortland
 https://youtu.be/WXBA4eWskrc
 
 https://youtu.be/PBaFURjVrm0
