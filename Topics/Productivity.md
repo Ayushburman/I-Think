@@ -54,9 +54,9 @@ https://youtu.be/894jQkeewiU
 https://youtu.be/T4CB5RPbtCk
 ### The happy secret to better work | Shawn Achor
 https://youtu.be/TQMbvJNRpLE
-
+### How to manage your time more effectively (according to machines) - Brian Christian
 https://youtu.be/fLJsdqxnZb0
-
+### 
 https://youtu.be/iDbdXTMnOmE
 
 https://youtu.be/LNHBMFCzznE
