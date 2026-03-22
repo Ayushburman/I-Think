@@ -74,7 +74,7 @@ https://youtu.be/PBaFURjVrm0
 https://youtu.be/SxbDsuC-Ch4
 ### Inside the Mind of a Master Procrastinator | Tim Urban | TED
 https://youtu.be/arj7oStGLkU
-
+### How to gain control of your free time | Laura Vanderkam | TED
 https://youtu.be/n3kNlFMXslo
 
 https://youtu.be/ctyqx6trUmo
