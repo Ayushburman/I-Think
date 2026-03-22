@@ -92,9 +92,9 @@ https://youtu.be/jndWxpCzO5g
 https://youtu.be/hSGt_rhu49U
 ### Give Me 12 Minutes and I’ll Give You 30 Years of Productivity Advice
 https://youtu.be/MN_LkumE3Ig
-
+### The Brutal Truth About Time Management No One Wants to Hear | Make Time For EVERYTHING
 https://youtu.be/N3BcRlVBb04
-
+### 5 Productivity Principles I Use That Actually Work
 https://youtu.be/hw2clzJWdV0
 
 
