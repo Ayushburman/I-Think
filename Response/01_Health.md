@@ -1,4 +1,4 @@
-
+# Why Your Body Fights Weight Loss
 In the TED talk "Why Your Body Fights Weight Loss," Dr. Katherine Saunders explains the biological and environmental factors that make weight management a complex medical challenge. Here is an explanation of the information presented in the video, broken down into steps:
 
 ### **Steps of the Biological and Environmental Process**
