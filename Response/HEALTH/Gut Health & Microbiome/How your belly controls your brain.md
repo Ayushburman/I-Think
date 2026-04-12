@@ -1,6 +1,6 @@
 day
 day 
-day 3
+day 
 day 4
 day 5
 day 6
