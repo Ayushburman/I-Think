@@ -3,7 +3,7 @@ day
 day 
 day 
 day 
-day 6
+day 
 day 7
 day 8
 day 9
