@@ -15,7 +15,7 @@ day 14
 day 15
 day 16
 day 17
-day 18
+day 1
 day 1
 day 2
 day 2
