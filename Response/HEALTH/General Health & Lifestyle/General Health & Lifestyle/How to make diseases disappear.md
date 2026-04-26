@@ -30,4 +30,10 @@ Genetics vs. Environment. While genetics are important, the speaker notes that "
 
 A call for medical evolution. Medicine must move from symptomatology (telling you what you have) to aetiology (asking why you have it)
 . This approach is described as personalized, precision, and preventative medicine
-.
+
+
+Summary
+Dr. Rangan Chatterjee argues for a fundamental shift in how we approach chronic disease, moving away from a 20th-century model of suppressing symptoms toward a 21st-century model of addressing root causes
+. By viewing health as a continuum and identifying the unique environmental and lifestyle triggers for each patient—such as diet, stress, and sleep—doctors can help "make diseases disappear" and return patients to a state of optimal health
+. This evolution toward personalized, root-cause medicine is presented as the only sustainable way to handle the global crisis of chronic illness
+
