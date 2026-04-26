@@ -10,3 +10,5 @@ Disease as an "illusion." The speaker argues that diseases do not exist in the w
 
 The failure of the acute-care model for chronic illness. Modern medicine is excellent at treating acute disease (like pneumonia) by identifying a single cause and treating it (e.g., antibiotics)
 . However, applying this same "symptom-suppression" logic to chronic disease fails because chronic conditions have multiple causes that develop over years
+
+Health exists on a continuum. People move between optimal health and disease throughout their lives based on their environment and lifestyle choices
