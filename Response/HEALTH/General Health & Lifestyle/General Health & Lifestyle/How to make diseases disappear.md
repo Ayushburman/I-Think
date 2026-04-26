@@ -20,3 +20,5 @@ Multiple triggers for a single condition. Insulin resistance (the driver of diab
 
 Multiple triggers for a single condition. Insulin resistance (the driver of diabetes) can be triggered by various factors, including processed diets, chronic stress, sleep deprivation, loss of muscle mass, or gut microbiome disruptions
 
+The link between inflammation and depression. Many cases of depression are associated with chronic inflammation, occurring when the body feels under constant attack
+. Studies show that patients with high inflammation may not respond to traditional antidepressants because the root cause is systemic rather than just chemical levels in the brain
