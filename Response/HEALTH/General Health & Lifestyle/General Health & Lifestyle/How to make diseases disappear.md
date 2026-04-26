@@ -16,4 +16,7 @@ Health exists on a continuum. People move between optimal health and disease thr
 Symptoms are not the cause. Using type 2 diabetes as an example, Dr. Chatterjee explains that high blood sugar is a symptom, not the cause
 . The underlying issue is often insulin resistance, which acts like a "fire" that has been burning for years
 
+Multiple triggers for a single condition. Insulin resistance (the driver of diabetes) can be triggered by various factors, including processed diets, chronic stress, sleep deprivation, loss of muscle mass, or gut microbiome disruptions.
+
 Multiple triggers for a single condition. Insulin resistance (the driver of diabetes) can be triggered by various factors, including processed diets, chronic stress, sleep deprivation, loss of muscle mass, or gut microbiome disruptions
+
