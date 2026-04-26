@@ -5,3 +5,5 @@ Chronic diseases can be made to "disappear." Dr. Chatterjee asserts that long-te
 
 The scale and cost of the problem. In England, 15 million people are diagnosed with chronic conditions
 . Type 2 diabetes alone costs the UK £20 billion every year
+
+Disease as an "illusion." The speaker argues that diseases do not exist in the way we typically think; they are labels given to a collection of symptoms that arise when things have been going wrong in the body for a long time
