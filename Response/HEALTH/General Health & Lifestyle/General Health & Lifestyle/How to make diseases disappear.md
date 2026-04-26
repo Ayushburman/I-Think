@@ -22,3 +22,5 @@ Multiple triggers for a single condition. Insulin resistance (the driver of diab
 
 The link between inflammation and depression. Many cases of depression are associated with chronic inflammation, occurring when the body feels under constant attack
 . Studies show that patients with high inflammation may not respond to traditional antidepressants because the root cause is systemic rather than just chemical levels in the brain
+
+Reversing dementia and Alzheimer's. Research by Professor Bredesen suggests that cognitive decline can be reversed by identifying and correcting an individual's specific triggers, such as toxins, diet, and sleep quality, rather than searching for a single "cure"
