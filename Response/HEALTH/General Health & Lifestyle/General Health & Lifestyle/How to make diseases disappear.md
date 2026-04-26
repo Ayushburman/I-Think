@@ -7,3 +7,6 @@ The scale and cost of the problem. In England, 15 million people are diagnosed w
 . Type 2 diabetes alone costs the UK £20 billion every year
 
 Disease as an "illusion." The speaker argues that diseases do not exist in the way we typically think; they are labels given to a collection of symptoms that arise when things have been going wrong in the body for a long time
+
+The failure of the acute-care model for chronic illness. Modern medicine is excellent at treating acute disease (like pneumonia) by identifying a single cause and treating it (e.g., antibiotics)
+. However, applying this same "symptom-suppression" logic to chronic disease fails because chronic conditions have multiple causes that develop over years
