@@ -27,3 +27,7 @@ Reversing dementia and Alzheimer's. Research by Professor Bredesen suggests that
 
 Genetics vs. Environment. While genetics are important, the speaker notes that "our genes load the gun, but it's our environment that pulls the trigger"
 . Lifestyle factors determine how our genes are expressed
+
+A call for medical evolution. Medicine must move from symptomatology (telling you what you have) to aetiology (asking why you have it)
+. This approach is described as personalized, precision, and preventative medicine
+.
