@@ -12,3 +12,6 @@ The failure of the acute-care model for chronic illness. Modern medicine is exce
 . However, applying this same "symptom-suppression" logic to chronic disease fails because chronic conditions have multiple causes that develop over years
 
 Health exists on a continuum. People move between optimal health and disease throughout their lives based on their environment and lifestyle choices
+
+Symptoms are not the cause. Using type 2 diabetes as an example, Dr. Chatterjee explains that high blood sugar is a symptom, not the cause
+. The underlying issue is often insulin resistance, which acts like a "fire" that has been burning for years
