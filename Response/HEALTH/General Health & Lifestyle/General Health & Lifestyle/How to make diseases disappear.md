@@ -24,3 +24,6 @@ The link between inflammation and depression. Many cases of depression are assoc
 . Studies show that patients with high inflammation may not respond to traditional antidepressants because the root cause is systemic rather than just chemical levels in the brain
 
 Reversing dementia and Alzheimer's. Research by Professor Bredesen suggests that cognitive decline can be reversed by identifying and correcting an individual's specific triggers, such as toxins, diet, and sleep quality, rather than searching for a single "cure"
+
+Genetics vs. Environment. While genetics are important, the speaker notes that "our genes load the gun, but it's our environment that pulls the trigger"
+. Lifestyle factors determine how our genes are expressed
