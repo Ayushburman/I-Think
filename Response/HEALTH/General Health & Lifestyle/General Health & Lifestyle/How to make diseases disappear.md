@@ -37,3 +37,5 @@ Dr. Rangan Chatterjee argues for a fundamental shift in how we approach chronic 
 . By viewing health as a continuum and identifying the unique environmental and lifestyle triggers for each patient—such as diet, stress, and sleep—doctors can help "make diseases disappear" and return patients to a state of optimal health
 . This evolution toward personalized, root-cause medicine is presented as the only sustainable way to handle the global crisis of chronic illness
 
+
+
