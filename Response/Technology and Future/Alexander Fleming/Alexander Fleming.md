@@ -113,3 +113,7 @@ He wasn’t trying to discover penicillin
 He was studying bacteria, not hunting antibiotics specifically.
 
 Huge discoveries can emerge unexpectedly.
+
+Penicillin saved millions in WWII
+
+It became known as a “miracle drug.”
