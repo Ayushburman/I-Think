@@ -117,3 +117,9 @@ Huge discoveries can emerge unexpectedly.
 Penicillin saved millions in WWII
 
 It became known as a “miracle drug.”
+11. Why many call him one of the greatest scientists ever
+
+Some say:
+
+Isaac Newton explained nature
+Albert Einstein reshaped physics
