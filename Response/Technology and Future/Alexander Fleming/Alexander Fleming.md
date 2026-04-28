@@ -238,7 +238,7 @@ Articles / Documents (Deep Understanding)
 8. Discovery Explained (Detailed)
 Discovery of Penicillin (Wikipedia)
 
-👉 Covers experiment, history, and later development
+Covers experiment, history, and later development
 Explains how mold killed bacteria and why it mattered
 
 
