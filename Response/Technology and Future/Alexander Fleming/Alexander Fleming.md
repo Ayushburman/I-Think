@@ -74,3 +74,7 @@ Mucus
 It kills some bacteria.
 
 This was an important step toward antibiotic research.
+7. Fleming warned about antibiotic resistance
+
+Very important:
+He predicted misuse of antibiotics would cause resistant bacteria.
