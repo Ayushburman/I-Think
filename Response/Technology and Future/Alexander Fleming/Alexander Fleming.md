@@ -19,3 +19,8 @@ He called it Penicillin.
 Why revolutionary?
 
 Before antibiotics:
+
+Small cuts could become deadly
+Pneumonia killed many people
+Infections after surgery were common
+War wounds often led to death
