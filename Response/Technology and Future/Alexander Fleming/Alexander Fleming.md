@@ -249,7 +249,7 @@ Explains how mold killed bacteria and why it mattered
 9. Full Biography
 Alexander Fleming Biography
 
-👉 Includes:
+Includes:
 Life, education, discoveries, Nobel Prize
 Antibiotic resistance warning
 
