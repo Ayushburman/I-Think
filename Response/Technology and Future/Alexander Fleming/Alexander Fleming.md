@@ -133,3 +133,7 @@ Fleming said:
 “One sometimes finds what one is not looking for.”
 
 That captures scientific discovery beautifully.
+13. Legacy
+Called Father of Antibiotics
+Penicillin opened the antibiotic era
+One accidental petri dish changed civilization.
