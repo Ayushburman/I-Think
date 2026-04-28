@@ -259,7 +259,7 @@ Antibiotic resistance warning
 10. Britannica Explanation (Scientific view)
 How Alexander Fleming discovered penicillin
 
-👉 Explains lab observation + reasoning
+Explains lab observation + reasoning
 He noticed mold killing bacteria and investigated it
 
 
