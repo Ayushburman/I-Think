@@ -277,3 +277,15 @@ Science history of penicillin discovery
 👉 Key insight:
 Discovery happened after returning from vacation
 Mold killed surrounding bacteria
+
+------
+
+13. Antibiotics Concept (Khan Academy)
+Antibiotics and penicillin basics
+
+👉 Covers:
+How antibiotics work
+Why resistance happens
+
+-----
+
