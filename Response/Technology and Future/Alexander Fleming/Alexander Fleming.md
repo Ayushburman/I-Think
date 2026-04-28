@@ -100,3 +100,11 @@ Without antibiotics:
 Organ transplants difficult
 Cancer chemotherapy risky
 Major surgery dangerous
+9. Interesting facts
+He served in war
+Worked as an army doctor in
+World War I
+
+There he saw many soldiers die from infection rather than wounds.
+
+This influenced his work.
