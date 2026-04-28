@@ -282,8 +282,7 @@ Mold killed surrounding bacteria
 
 13. Antibiotics Concept (Khan Academy)
 Antibiotics and penicillin basics
-
-👉 Covers:
+Covers:
 How antibiotics work
 Why resistance happens
 
