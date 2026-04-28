@@ -303,7 +303,6 @@ Publication history
 
 15. Research Paper References (via video description)
 From this video: Penicillin: From Fleming to the Pharmacy (sources)
-
 Includes:
 
 Research papers on:
