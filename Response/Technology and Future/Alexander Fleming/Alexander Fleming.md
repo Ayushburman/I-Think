@@ -126,3 +126,10 @@ Albert Einstein reshaped physics
 Alexander Fleming saved countless human lives
 
 His discovery may have saved hundreds of millions.
+12. Famous quote
+
+Fleming said:
+
+“One sometimes finds what one is not looking for.”
+
+That captures scientific discovery beautifully.
