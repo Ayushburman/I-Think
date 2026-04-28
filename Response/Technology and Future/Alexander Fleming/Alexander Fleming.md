@@ -78,3 +78,7 @@ This was an important step toward antibiotic research.
 
 Very important:
 He predicted misuse of antibiotics would cause resistant bacteria.
+He warned:
+
+Don’t underdose
+Don’t overuse antibiotics
