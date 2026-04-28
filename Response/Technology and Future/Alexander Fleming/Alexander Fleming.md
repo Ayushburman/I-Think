@@ -24,3 +24,7 @@ Small cuts could become deadly
 Pneumonia killed many people
 Infections after surgery were common
 War wounds often led to death
+
+After penicillin:
+
+Millions of lives were saved.
