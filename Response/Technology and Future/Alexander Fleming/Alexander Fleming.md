@@ -273,8 +273,7 @@ How penicillin was discovered and developed
 
 12. Science Article (Modern Retelling)
 Science history of penicillin discovery
-
-👉 Key insight:
+Key insight:
 Discovery happened after returning from vacation
 Mold killed surrounding bacteria
 
