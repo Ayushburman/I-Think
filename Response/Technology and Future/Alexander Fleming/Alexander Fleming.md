@@ -9,3 +9,4 @@ He changed medicine forever through two major discoveries:
 (A) Penicillin (1928) — His greatest discovery
 While working at St Mary's Hospital, he noticed something unusual:
 A mold contaminated a bacteria dish.
+Around the mold, bacteria were dying.
