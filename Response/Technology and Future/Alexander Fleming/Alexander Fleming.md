@@ -108,3 +108,8 @@ World War I
 There he saw many soldiers die from infection rather than wounds.
 
 This influenced his work.
+He wasn’t trying to discover penicillin
+
+He was studying bacteria, not hunting antibiotics specifically.
+
+Huge discoveries can emerge unexpectedly.
