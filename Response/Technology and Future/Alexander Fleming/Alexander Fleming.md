@@ -28,3 +28,17 @@ War wounds often led to death
 After penicillin:
 
 Millions of lives were saved.
+
+
+3. It was discovered almost by accident
+
+Often called a “fortunate accident”, but really:
+
+Accident + observation + genius.
+
+Others may have thrown away the contaminated dish.
+
+Fleming asked:
+Why are bacteria dying near the mold?
+
+That curiosity led to history.
