@@ -261,3 +261,9 @@ How Alexander Fleming discovered penicillin
 
 👉 Explains lab observation + reasoning
 He noticed mold killing bacteria and investigated it
+
+
+-----
+
+11. Archival Footage + Explanation
+How penicillin was discovered and developed
