@@ -293,7 +293,7 @@ Advanced / Academic-Level
 14. Scientific Background of Penicillin
 Penicillin (History & Chemistry)
 
-👉 Covers:
+Covers:
 Chemical nature
 Experimental confirmation
 Publication history
