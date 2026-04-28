@@ -240,3 +240,15 @@ Discovery of Penicillin (Wikipedia)
 
 👉 Covers experiment, history, and later development
 Explains how mold killed bacteria and why it mattered
+
+
+
+------
+
+
+9. Full Biography
+Alexander Fleming Biography
+
+👉 Includes:
+Life, education, discoveries, Nobel Prize
+Antibiotic resistance warning
