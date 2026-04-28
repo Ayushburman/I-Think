@@ -42,3 +42,13 @@ Fleming asked:
 Why are bacteria dying near the mold?
 
 That curiosity led to history.
+
+
+4. Who turned it into medicine?
+
+Fleming discovered penicillin, but others developed it into a drug:
+
+Howard Florey
+Ernst Boris Chain
+
+They purified and mass-produced it, especially during World War II.
