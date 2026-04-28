@@ -6,3 +6,4 @@
 2. Why is he famous?
 
 He changed medicine forever through two major discoveries:
+(A) Penicillin (1928) — His greatest discovery
