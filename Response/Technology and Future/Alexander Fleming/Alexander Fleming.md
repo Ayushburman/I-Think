@@ -52,3 +52,10 @@ Howard Florey
 Ernst Boris Chain
 
 They purified and mass-produced it, especially during World War II.
+
+5. Nobel Prize
+
+In 1945:
+
+Fleming, Florey, and Chain won the
+Nobel Prize in Physiology or Medicine
