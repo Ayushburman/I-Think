@@ -292,7 +292,6 @@ Why resistance happens
 Advanced / Academic-Level
 14. Scientific Background of Penicillin
 Penicillin (History & Chemistry)
-
 Covers:
 Chemical nature
 Experimental confirmation
