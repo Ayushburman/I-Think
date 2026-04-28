@@ -3,3 +3,5 @@
 > Died: March 11, 1955, in London
 > Scottish doctor, microbiologist, and scientist
 > Best known for discovering Penicillin, the world’s first true antibiotic
+2. Why is he famous?
+
