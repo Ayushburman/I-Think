@@ -59,3 +59,18 @@ In 1945:
 
 Fleming, Florey, and Chain won the
 Nobel Prize in Physiology or Medicine
+
+6. Another major discovery — Lysozyme (1922)
+
+Before penicillin he discovered lysozyme.
+
+What is it?
+
+A natural antibacterial enzyme found in:
+Tears
+Saliva
+Mucus
+
+It kills some bacteria.
+
+This was an important step toward antibiotic research.
