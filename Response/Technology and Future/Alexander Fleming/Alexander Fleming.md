@@ -15,3 +15,7 @@ He realized:
 
 The mold (Penicillium notatum) produced a substance that killed bacteria.
 He called it Penicillin.
+
+Why revolutionary?
+
+Before antibiotics:
