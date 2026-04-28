@@ -10,3 +10,8 @@ He changed medicine forever through two major discoveries:
 While working at St Mary's Hospital, he noticed something unusual:
 A mold contaminated a bacteria dish.
 Around the mold, bacteria were dying.
+
+He realized:
+
+The mold (Penicillium notatum) produced a substance that killed bacteria.
+He called it Penicillin.
