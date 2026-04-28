@@ -95,3 +95,8 @@ Modern antibiotics began
 Safer surgery became possible
 Infection deaths dropped dramatically
 Modern medicine transformed
+Without antibiotics:
+
+Organ transplants difficult
+Cancer chemotherapy risky
+Major surgery dangerous
