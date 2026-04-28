@@ -87,3 +87,11 @@ Today this is called:
 Antibiotic resistance
 “Superbugs”
 He predicted this decades early.
+8. His contributions to medicine
+
+Because of Fleming:
+
+Modern antibiotics began
+Safer surgery became possible
+Infection deaths dropped dramatically
+Modern medicine transformed
