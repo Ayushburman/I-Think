@@ -428,3 +428,6 @@ These include Vitamins A, D, E, and K, which are found in foods like dairy, butt
 Transport: Their journey is more complex. They require bile from the liver to break down fats for absorption through the intestinal wall. To travel through the blood, they must attach to proteins that act as couriers
 
 Storage: These vitamins have "staying power" because the body can store them in the liver and fat cells, rationing them out as needed. Because the body keeps a stock of these, it is important not to overload on them
+Specific Roles of Vitamins
+Once in the system, different vitamins perform specialized tasks:
+B Complex Vitamins: Many act as coenzymes that help enzymes release and use energy from food
