@@ -155,3 +155,19 @@ Deficiency:
 
 Cracked lips
 Mouth sores
+
+B3 — Niacin
+
+Function:
+
+Metabolism
+
+Deficiency:
+
+Pellagra
+
+(3 Ds)
+
+Dermatitis
+Diarrhea
+Dementia
