@@ -431,3 +431,5 @@ Storage: These vitamins have "staying power" because the body can store them in 
 Specific Roles of Vitamins
 Once in the system, different vitamins perform specialized tasks:
 B Complex Vitamins: Many act as coenzymes that help enzymes release and use energy from food
+Vitamin C: Essential for fighting infection and creating collagen, a tissue used for healing wounds and forming bones and teeth
+.
