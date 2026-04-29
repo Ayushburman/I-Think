@@ -72,3 +72,8 @@ Deficiency
 Rickets (children)
 Osteomalacia
 Weak bones
+Sources
+Sunlight ☀️
+Fish
+Egg yolk
+Fortified milk
