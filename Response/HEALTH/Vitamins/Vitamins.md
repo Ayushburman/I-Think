@@ -25,3 +25,11 @@ Vitamin D
 Vitamin E
 Vitamin K
 
+(B) Water-Soluble Vitamins
+
+Not stored much (except B12 somewhat).
+
+Need regular intake.
+
+Vitamin C
+B-complex vitamins
