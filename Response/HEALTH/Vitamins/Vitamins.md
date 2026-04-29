@@ -211,3 +211,10 @@ Often linked to:
 Hair
 Skin
 Nails
+
+B9 — Folate
+
+Important for:
+
+DNA synthesis
+Red blood cells
