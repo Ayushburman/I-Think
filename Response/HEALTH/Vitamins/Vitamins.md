@@ -234,3 +234,10 @@ Functions:
 Nerves
 RBC formation
 DNA
+
+Deficiency:
+
+Anemia
+Neuropathy
+
+Sources:
