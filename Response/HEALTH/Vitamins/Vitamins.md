@@ -13,5 +13,4 @@ Blood formation
 Vision
 Bone health
 Healing
-
 They do not directly give calories like carbs, protein, fat.
