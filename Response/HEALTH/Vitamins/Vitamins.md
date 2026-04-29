@@ -84,3 +84,9 @@ Function:
 
 Antioxidant
 Protects cells
+Sources:
+
+Nuts
+Seeds
+Almonds
+Vegetable oils
