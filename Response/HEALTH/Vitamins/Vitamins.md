@@ -410,4 +410,301 @@ Natural balanced diet usually covers vitamin needs.
 <img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/e743e54b-bffe-4d52-9ce2-248984f6a539" />
 
 
+# Vitamins — Admin Response Notes (README)
 
+## Overview
+Vitamins are **essential organic compounds** that act as the body’s:
+
+- Builders  
+- Defenders  
+- Maintenance workers  
+
+Because the human body cannot produce most vitamins on its own, they must be obtained in **small amounts through diet**.
+
+They help with:
+
+- Building muscle and bone  
+- Using nutrients properly  
+- Capturing energy from food  
+- Healing wounds  
+- Supporting immunity  
+- Protecting cells  
+
+---
+
+# Classification of Vitamins
+
+Vitamins are categorized based on **transport** and **storage**.
+
+---
+
+# 1. Water-Soluble Vitamins
+
+Includes:
+
+- Vitamin C  
+- Eight B-Complex Vitamins
+
+## Transport
+Found in watery parts of:
+
+- Fruits  
+- Vegetables  
+- Grains  
+
+After digestion:
+
+- Absorbed directly into bloodstream  
+- Move freely in blood plasma (water-based)
+
+---
+
+## Storage
+Very little storage.
+
+Excess amounts are removed by kidneys.
+
+### Therefore:
+They must be replenished regularly through food.
+
+```text
+Daily intake is important.
+```
+
+---
+
+## Examples
+
+### Vitamin C
+Functions:
+- Fights infection
+- Forms collagen
+- Helps wound healing
+- Builds bones and teeth
+
+---
+
+## B Complex Vitamins
+Many function as:
+
+```text
+Coenzymes
+```
+
+Helping enzymes:
+
+- Release energy from food
+- Use nutrients
+- Support metabolism
+
+---
+
+# 2. Lipid-Soluble (Fat-Soluble) Vitamins
+
+Mnemonic:
+
+```text
+ADEK
+```
+
+- Vitamin A  
+- Vitamin D  
+- Vitamin E  
+- Vitamin K
+
+Common sources:
+
+- Dairy  
+- Butter  
+- Oils  
+
+---
+
+## Transport
+More complex process.
+
+Require:
+
+### Bile from liver
+Helps break down fats.
+
+### Absorption
+Pass through intestinal wall.
+
+### Protein carriers
+Attach to proteins that carry them through blood.
+
+---
+
+## Storage
+Stored in:
+
+- Liver  
+- Fat cells
+
+Body can ration them out as needed.
+
+They have:
+
+```text
+Staying power
+```
+
+---
+
+## Important
+Because they are stored:
+
+```text
+Do not overload on them.
+```
+
+Too much can be harmful.
+
+---
+
+# Specific Roles of Vitamins
+
+---
+
+## Vitamin A
+
+Functions:
+
+- Supports immune system  
+- Helps make white blood cells  
+- Shapes bones  
+- Improves vision
+
+---
+
+## Vitamin D
+
+Function:
+
+- Gathers calcium and phosphorus
+
+Helps build:
+
+- Bones  
+- Teeth
+
+---
+
+## Vitamin E
+
+Function:
+
+Antioxidant.
+
+Protects cells from damage.
+
+---
+
+## Vitamin K
+
+Function:
+
+Blood clotting.
+
+Helps produce proteins needed to clot blood.
+
+```text
+Vitamin K → Clotting proteins
+```
+
+---
+
+# Importance of Balance
+
+Maintaining the right vitamin balance is crucial.
+
+---
+
+## Deficiency Problems
+Too little can lead to:
+
+- Fatigue  
+- Nerve damage  
+- Heart disorders  
+- Rickets  
+- Scurvy  
+
+---
+
+## Excess / Toxicity
+Too much of a vitamin can also be harmful.
+
+Especially fat-soluble vitamins can accumulate.
+
+```text
+More is not always better.
+```
+
+---
+
+# Supplement Myth
+
+Important idea:
+
+```text
+Loading up on supplements ≠ better health
+```
+
+Goal is:
+
+- Balance  
+- Adequate intake  
+- Not megadoses
+
+---
+
+# Summary Table
+
+| Vitamin Type | Examples | Storage | Need Daily? |
+|-------------|----------|---------|-------------|
+| Water-Soluble | B, C | Little storage | Yes |
+| Fat-Soluble | A, D, E, K | Stored in body | Not as frequently |
+
+---
+
+# Key Takeaways
+
+## Water-Soluble
+- Travel easily in blood  
+- Not stored much  
+- Need regular intake
+
+---
+
+## Fat-Soluble
+- Need fat absorption  
+- Stored in liver/fat  
+- Can accumulate
+
+---
+
+## Major Roles
+
+| Vitamin | Main Role |
+|--------|-----------|
+| A | Vision, immunity |
+| B | Energy metabolism |
+| C | Healing, collagen |
+| D | Bone building |
+| E | Antioxidant |
+| K | Blood clotting |
+
+---
+
+# Core Message
+
+Health is not about taking massive supplements.
+
+It is about:
+
+```text
+Healthy Vitamin Balance
+```
+
+That is the real goal.
