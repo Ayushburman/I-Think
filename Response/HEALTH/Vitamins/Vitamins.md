@@ -34,3 +34,5 @@ Need regular intake.
 Vitamin C
 B-complex vitamins
 
+3. Fat-Soluble Vitamins
+Vitamin A (Retinol)
