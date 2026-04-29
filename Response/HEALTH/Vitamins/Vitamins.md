@@ -241,3 +241,8 @@ Anemia
 Neuropathy
 
 Sources:
+Mostly animal foods.
+
+Milk
+Eggs
+Meat
