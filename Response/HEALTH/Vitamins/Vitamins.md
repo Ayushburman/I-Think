@@ -203,3 +203,11 @@ Deficiency:
 
 Nerve symptoms
 Anemia
+
+B7 — Biotin
+
+Often linked to:
+
+Hair
+Skin
+Nails
