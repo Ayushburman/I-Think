@@ -102,3 +102,10 @@ Blood clotting
 Very important:
 
 Vitamin K→Clotting Factors
+Sources:
+
+Green leafy vegetables
+
+Deficiency:
+
+Excess bleeding
