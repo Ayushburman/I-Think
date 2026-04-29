@@ -421,3 +421,4 @@ The video explains that vitamins are categorized into two types based on how the
 1. Water-Soluble Vitamins
 These include Vitamin C and the eight B Complex vitamins
 Transport: They are found in the watery parts of fruits, vegetables, and grains. Once digested, they are taken up directly by the bloodstream and can move freely because blood plasma is water-based
+Storage: Because they circulate so easily, the kidneys pass out excess amounts quite readily. Consequently, these vitamins must be replenished daily through food
