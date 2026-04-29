@@ -14,3 +14,6 @@ Vision
 Bone health
 Healing
 They do not directly give calories like carbs, protein, fat.
+
+2. Two Main Types of Vitamins
+(A) Fat-Soluble Vitamins
