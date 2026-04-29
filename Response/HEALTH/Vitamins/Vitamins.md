@@ -42,3 +42,8 @@ Vision (especially night vision)
 Skin health
 Immunity
 Cell growth
+
+Deficiency
+Night blindness
+Dry eyes
+Poor immunity
