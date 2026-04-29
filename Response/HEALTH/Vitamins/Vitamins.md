@@ -218,3 +218,9 @@ Important for:
 
 DNA synthesis
 Red blood cells
+
+Deficiency:
+
+Megaloblastic anemia
+
+Very important in pregnancy.
