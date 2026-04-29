@@ -67,3 +67,8 @@ Ca
 Strong bones
 Teeth
 Immune support
+
+Deficiency
+Rickets (children)
+Osteomalacia
+Weak bones
