@@ -111,3 +111,9 @@ Deficiency:
 Excess bleeding
 4. Water-Soluble Vitamins
 Vitamin C (Ascorbic Acid)
+Functions:
+
+Collagen formation
+Immunity
+Wound healing
+Iron absorption
