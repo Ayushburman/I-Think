@@ -187,3 +187,7 @@ Pellagra
 Dermatitis
 Diarrhea
 Dementia
+
+B5 — Pantothenic Acid
+
+Helps make coenzymes.
