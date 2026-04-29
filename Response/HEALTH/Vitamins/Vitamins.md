@@ -145,3 +145,13 @@ Sources:
 
 Whole grains
 Legumes
+B2 — Riboflavin
+
+Function:
+
+Energy production
+
+Deficiency:
+
+Cracked lips
+Mouth sores
