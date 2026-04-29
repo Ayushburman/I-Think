@@ -54,3 +54,16 @@ Sweet potato
 Spinach
 Egg yolk
 Liver
+
+itamin D
+6
+Function
+Helps absorb calcium
+
+Ca
+2+
+ absorption increases with Vitamin D
+
+Strong bones
+Teeth
+Immune support
