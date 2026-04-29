@@ -408,3 +408,11 @@ Natural balanced diet usually covers vitamin needs.
 
 
 <img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/e743e54b-bffe-4d52-9ce2-248984f6a539" />
+
+
+
+Admin Response
+
+Vitamins are essential organic compounds that act as the body's builders, defenders, and maintenance workers
+. Because human bodies cannot produce these compounds on their own, they must be ingested in small amounts to support functions like building muscle and bone, using nutrients, capturing energy, and healing wounds
+.
