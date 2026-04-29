@@ -117,3 +117,8 @@ Collagen formation
 Immunity
 Wound healing
 Iron absorption
+
+Deficiency:
+
+Scurvy
+Bleeding gums
