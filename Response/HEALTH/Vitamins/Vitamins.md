@@ -433,3 +433,6 @@ Once in the system, different vitamins perform specialized tasks:
 B Complex Vitamins: Many act as coenzymes that help enzymes release and use energy from food
 Vitamin C: Essential for fighting infection and creating collagen, a tissue used for healing wounds and forming bones and teeth
 Vitamin A: Supports the immune system by making white blood cells, helps shape bones, and improves vision
+Vitamin D: Gathers calcium and phosphorus to build bones
+.
+Vitamin E: Functions as an antioxidant, protecting cells from damage
