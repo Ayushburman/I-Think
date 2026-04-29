@@ -171,3 +171,19 @@ Pellagra
 Dermatitis
 Diarrhea
 Dementia
+
+B3 — Niacin
+
+Function:
+
+Metabolism
+
+Deficiency:
+
+Pellagra
+
+(3 Ds)
+
+Dermatitis
+Diarrhea
+Dementia
