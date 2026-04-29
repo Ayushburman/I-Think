@@ -122,3 +122,9 @@ Deficiency:
 
 Scurvy
 Bleeding gums
+Sources:
+
+Amla
+Orange
+Guava
+Lemon
