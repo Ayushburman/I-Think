@@ -109,3 +109,5 @@ Green leafy vegetables
 Deficiency:
 
 Excess bleeding
+4. Water-Soluble Vitamins
+Vitamin C (Ascorbic Acid)
