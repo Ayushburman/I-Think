@@ -191,3 +191,15 @@ Dementia
 B5 — Pantothenic Acid
 
 Helps make coenzymes.
+
+B6 — Pyridoxine
+
+Function:
+
+Protein metabolism
+Neurotransmitters
+
+Deficiency:
+
+Nerve symptoms
+Anemia
