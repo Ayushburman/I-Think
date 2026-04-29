@@ -1,251 +1,410 @@
-https://www.youtube.com/watch?v=ISZLTJH5lYg
+# Vitamins — Complete Notes (README)
 
-1. What are Vitamins?
+Reference Video: https://www.youtube.com/watch?v=ISZLTJH5lYg
 
-Vitamins are organic compounds your body needs in small amounts to function properly.
+---
+
+# Table of Contents
+
+1. What Are Vitamins?
+2. Types of Vitamins
+3. Fat-Soluble Vitamins (A, D, E, K)
+4. Water-Soluble Vitamins
+5. B-Complex Vitamins
+6. Summary Table
+7. Deficiency Disorders
+8. Important Mnemonics
+
+---
+
+# 1. What Are Vitamins?
+
+Vitamins are **organic compounds** required by the body in **small amounts** for normal functioning.
 
 They help in:
-Growth
-Immunity
-Energy metabolism
-Nerve function
-Blood formation
-Vision
-Bone health
-Healing
-They do not directly give calories like carbs, protein, fat.
 
-2. Two Main Types of Vitamins
-(A) Fat-Soluble Vitamins
-Easy to accumulate.
-Remember: ADEK
+- Growth
+- Immunity
+- Energy metabolism
+- Nerve function
+- Blood formation
+- Vision
+- Bone health
+- Healing
 
-Vitamin A
-Vitamin D
-Vitamin E
-Vitamin K
+## Important:
+Vitamins do **not** provide calories like:
 
-(B) Water-Soluble Vitamins
+- Carbohydrates
+- Proteins
+- Fats
 
-Not stored much (except B12 somewhat).
+They act as **regulators**.
+
+---
+
+# 2. Types of Vitamins
+
+## A. Fat-Soluble Vitamins
+
+Stored in body fat and liver.
+
+Can accumulate.
+
+## Mnemonic:
+**ADEK**
+
+- Vitamin A
+- Vitamin D
+- Vitamin E
+- Vitamin K
+
+---
+
+## B. Water-Soluble Vitamins
+
+Not stored much in body  
+(except B12 to some extent)
 
 Need regular intake.
 
-Vitamin C
-B-complex vitamins
+Includes:
 
-3. Fat-Soluble Vitamins
-Vitamin A (Retinol)
+- Vitamin C
+- B-complex vitamins
 
-Functions
-Vision (especially night vision)
-Skin health
-Immunity
-Cell growth
+---
 
-Deficiency
-Night blindness
-Dry eyes
-Poor immunity
+# 3. Fat-Soluble Vitamins
 
-Sources
-Carrot
-Sweet potato
-Spinach
-Egg yolk
-Liver
+---
 
-itamin D
-6
-Function
-Helps absorb calcium
+# Vitamin A (Retinol)
 
-Ca
-2+
- absorption increases with Vitamin D
+## Functions
+- Vision (especially night vision)
+- Skin health
+- Immunity
+- Cell growth
 
-Strong bones
-Teeth
-Immune support
+## Deficiency
+- Night blindness
+- Dry eyes
+- Poor immunity
 
-Deficiency
-Rickets (children)
-Osteomalacia
-Weak bones
-Sources
-Sunlight ☀️
-Fish
-Egg yolk
-Fortified milk
+## Sources
+- Carrot
+- Sweet potato
+- Spinach
+- Egg yolk
+- Liver
 
-Vitamin E
+---
 
-Function:
+# Vitamin D
 
-Antioxidant
-Protects cells
-Sources:
+## Main Function
+Helps absorb calcium.
 
-Nuts
-Seeds
-Almonds
-Vegetable oils
-Deficiency (rare)
+Formula idea:
 
-Nerve issues
-Muscle weakness
-Vitamin K
+```text
+Vitamin D → Increased Calcium Absorption
+```
 
-Function:
+## Roles
+- Strong bones
+- Teeth health
+- Immune support
+
+## Deficiency
+- Rickets (children)
+- Osteomalacia
+- Weak bones
+
+## Sources
+- Sunlight
+- Fish
+- Egg yolk
+- Fortified milk
+
+---
+
+# Vitamin E
+
+## Functions
+- Antioxidant
+- Protects cells
+
+## Sources
+- Nuts
+- Seeds
+- Almonds
+- Vegetable oils
+
+## Deficiency (rare)
+- Nerve issues
+- Muscle weakness
+
+---
+
+# Vitamin K
+
+## Function
 Blood clotting
 
-Very important:
+```text
+Vitamin K → Clotting Factors
+```
 
-Vitamin K→Clotting Factors
-Sources:
+## Sources
+- Green leafy vegetables
 
-Green leafy vegetables
+## Deficiency
+- Excess bleeding
 
-Deficiency:
+---
 
-Excess bleeding
-4. Water-Soluble Vitamins
-Vitamin C (Ascorbic Acid)
-Functions:
+# 4. Water-Soluble Vitamins
 
-Collagen formation
-Immunity
-Wound healing
-Iron absorption
+---
 
-Deficiency:
+# Vitamin C (Ascorbic Acid)
 
-Scurvy
-Bleeding gums
-Sources:
+## Functions
+- Collagen formation
+- Immunity
+- Wound healing
+- Iron absorption
 
-Amla
-Orange
-Guava
-Lemon
-5. B-Complex Vitamins
+## Deficiency
+- Scurvy
+- Bleeding gums
 
-Think “energy and nerves”.
-B1 — Thiamine
+## Sources
+- Amla
+- Orange
+- Guava
+- Lemon
 
-Function:
+---
 
-Energy metabolism
-Nerves
+# 5. B-Complex Vitamins
 
-Deficiency:
+Think:
 
-Beriberi
-Sources:
+```text
+Energy + Nerves
+```
 
-Whole grains
-Legumes
-B2 — Riboflavin
+---
 
-Function:
+## Vitamin B1 — Thiamine
 
-Energy production
+### Function
+- Energy metabolism
+- Nerve function
 
-Deficiency:
+### Deficiency
+- Beriberi
 
-Cracked lips
-Mouth sores
+### Sources
+- Whole grains
+- Legumes
 
-B3 — Niacin
+---
 
-Function:
+## Vitamin B2 — Riboflavin
 
-Metabolism
+### Function
+- Energy production
 
-Deficiency:
+### Deficiency
+- Cracked lips
+- Mouth sores
 
+---
+
+## Vitamin B3 — Niacin
+
+### Function
+- Metabolism
+
+### Deficiency
 Pellagra
 
-(3 Ds)
+## 3 Ds of Pellagra
+- Dermatitis
+- Diarrhea
+- Dementia
 
-Dermatitis
-Diarrhea
-Dementia
+---
 
-B3 — Niacin
+## Vitamin B5 — Pantothenic Acid
 
-Function:
+### Function
+- Helps make coenzymes
 
-Metabolism
+---
 
-Deficiency:
+## Vitamin B6 — Pyridoxine
 
-Pellagra
+### Functions
+- Protein metabolism
+- Neurotransmitters
 
-(3 Ds)
+### Deficiency
+- Nerve symptoms
+- Anemia
 
-Dermatitis
-Diarrhea
-Dementia
+---
 
-B5 — Pantothenic Acid
+## Vitamin B7 — Biotin
 
-Helps make coenzymes.
+Associated with:
 
-B6 — Pyridoxine
+- Hair
+- Skin
+- Nails
 
-Function:
+---
 
-Protein metabolism
-Neurotransmitters
+## Vitamin B9 — Folate
 
-Deficiency:
+### Important for
+- DNA synthesis
+- Red blood cell formation
 
-Nerve symptoms
-Anemia
+### Deficiency
+- Megaloblastic anemia
 
-B7 — Biotin
-
-Often linked to:
-
-Hair
-Skin
-Nails
-
-B9 — Folate
-
-Important for:
-
-DNA synthesis
-Red blood cells
-
-Deficiency:
-
-Megaloblastic anemia
-
+## Special Note
 Very important in pregnancy.
 
-B12 — Cobalamin
+---
 
-Very important.
+## Vitamin B12 — Cobalamin
 
-Functions:
+Very important vitamin.
 
-Nerves
-RBC formation
-DNA
+## Functions
+- Nerve function
+- Red blood cell formation
+- DNA synthesis
 
-Deficiency:
+## Deficiency
+- Anemia
+- Neuropathy
 
-Anemia
-Neuropathy
+## Sources
+Mostly animal foods:
 
-Sources:
-Mostly animal foods.
+- Milk
+- Eggs
+- Meat
 
-Milk
-Eggs
-Meat
+---
+
+# 6. Summary Table
+
+| Vitamin | Main Role | Deficiency |
+|--------|------------|------------|
+| A | Vision | Night blindness |
+| D | Bones | Rickets |
+| E | Antioxidant | Rare nerve problems |
+| K | Clotting | Bleeding |
+| C | Collagen/Immunity | Scurvy |
+| B1 | Nerves | Beriberi |
+| B3 | Metabolism | Pellagra |
+| B9 | DNA/RBC | Anemia |
+| B12 | Nerves/RBC | Anemia, Neuropathy |
+
+---
+
+# 7. Deficiency Diseases Quick Review
+
+## Vitamin A
+- Night blindness
+
+## Vitamin D
+- Rickets
+- Osteomalacia
+
+## Vitamin C
+- Scurvy
+
+## Vitamin B1
+- Beriberi
+
+## Vitamin B3
+- Pellagra
+
+## Vitamin B9/B12
+- Megaloblastic anemia
+
+---
+
+# 8. Mnemonics
+
+## Fat Soluble
+```text
+ADEK
+```
+
+---
+
+## Water Soluble
+```text
+B + C
+```
+
+---
+
+## Pellagra
+```text
+3 Ds
+Dermatitis
+Diarrhea
+Dementia
+```
+
+---
+
+# Big Picture
+
+Macronutrients:
+
+- Carbohydrates = Fuel
+- Protein = Building blocks
+- Fat = Energy storage
+
+Micronutrients:
+
+- Vitamins = Regulators
+
+Without vitamins, body systems fail.
+
+---
+
+# Good General Vitamin Foods
+
+- Fruits
+- Vegetables
+- Nuts
+- Milk
+- Eggs
+- Fish
+- Legumes
+- Leafy greens
+
+---
+
+# End Notes
+
+Food first > supplements (unless deficiency exists)
+
+Natural balanced diet usually covers vitamin needs.
+
 
 
 <img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/e743e54b-bffe-4d52-9ce2-248984f6a539" />
