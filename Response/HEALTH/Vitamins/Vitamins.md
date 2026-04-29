@@ -77,3 +77,10 @@ Sunlight ☀️
 Fish
 Egg yolk
 Fortified milk
+
+Vitamin E
+
+Function:
+
+Antioxidant
+Protects cells
