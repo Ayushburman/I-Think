@@ -90,3 +90,7 @@ Nuts
 Seeds
 Almonds
 Vegetable oils
+Deficiency (rare)
+
+Nerve issues
+Muscle weakness
