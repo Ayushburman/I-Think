@@ -224,3 +224,13 @@ Deficiency:
 Megaloblastic anemia
 
 Very important in pregnancy.
+
+B12 — Cobalamin
+
+Very important.
+
+Functions:
+
+Nerves
+RBC formation
+DNA
