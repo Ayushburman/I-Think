@@ -47,3 +47,10 @@ Deficiency
 Night blindness
 Dry eyes
 Poor immunity
+
+Sources
+Carrot
+Sweet potato
+Spinach
+Egg yolk
+Liver
