@@ -131,3 +131,13 @@ Lemon
 5. B-Complex Vitamins
 
 Think “energy and nerves”.
+B1 — Thiamine
+
+Function:
+
+Energy metabolism
+Nerves
+
+Deficiency:
+
+Beriberi
