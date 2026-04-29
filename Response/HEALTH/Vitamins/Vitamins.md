@@ -36,3 +36,9 @@ B-complex vitamins
 
 3. Fat-Soluble Vitamins
 Vitamin A (Retinol)
+
+Functions
+Vision (especially night vision)
+Skin health
+Immunity
+Cell growth
