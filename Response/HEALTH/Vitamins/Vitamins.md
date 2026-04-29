@@ -94,3 +94,11 @@ Deficiency (rare)
 
 Nerve issues
 Muscle weakness
+Vitamin K
+
+Function:
+Blood clotting
+
+Very important:
+
+Vitamin K→Clotting Factors
