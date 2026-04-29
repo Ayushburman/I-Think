@@ -416,3 +416,8 @@ Admin Response
 Vitamins are essential organic compounds that act as the body's builders, defenders, and maintenance workers
 . Because human bodies cannot produce these compounds on their own, they must be ingested in small amounts to support functions like building muscle and bone, using nutrients, capturing energy, and healing wounds
 The video explains that vitamins are categorized into two types based on how they are transported and stored:
+
+
+1. Water-Soluble Vitamins
+These include Vitamin C and the eight B Complex vitamins
+Transport: They are found in the watery parts of fruits, vegetables, and grains. Once digested, they are taken up directly by the bloodstream and can move freely because blood plasma is water-based
