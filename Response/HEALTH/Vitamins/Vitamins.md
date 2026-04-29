@@ -436,3 +436,4 @@ Vitamin A: Supports the immune system by making white blood cells, helps shape b
 Vitamin D: Gathers calcium and phosphorus to build bones
 .
 Vitamin E: Functions as an antioxidant, protecting cells from damage
+Vitamin K: Provides the ability to clot blood by helping produce specific proteins
