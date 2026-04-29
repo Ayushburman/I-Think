@@ -246,3 +246,6 @@ Mostly animal foods.
 Milk
 Eggs
 Meat
+
+
+<img width="594" height="386" alt="image" src="https://github.com/user-attachments/assets/e743e54b-bffe-4d52-9ce2-248984f6a539" />
