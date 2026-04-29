@@ -141,3 +141,7 @@ Nerves
 Deficiency:
 
 Beriberi
+Sources:
+
+Whole grains
+Legumes
