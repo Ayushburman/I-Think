@@ -36,5 +36,5 @@ Greek Yogurt: Contains twice the protein of regular yogurt (23 grams per 8 ounce
 Cottage Cheese: High in casein, a slow-digesting protein that prevents muscle breakdown overnight; a half-cup contains 14 grams.
 Fish: Halibut is a lean muscle-building source with 23 grams of protein and only 2 grams of fat per 3 ounces
 . Yellowfin Tuna is another high-quality, easily digested option providing 25 grams of protein per 3 ounces
-
+Steak: Leaner cuts like round and loin provide a high protein-to-calorie ratio, offering about 23 grams of protein per 3 ounces
 
