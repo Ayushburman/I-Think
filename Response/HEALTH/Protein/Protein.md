@@ -45,4 +45,5 @@ Seeds: Chia seeds offer 4.4 grams of protein per ounce plus omega-3s
 Chicken Breast: A cost-effective muscle-building staple that provides 32 grams of protein per 100 grams and is rich in selenium
 Quinoa: A "power seed" and complete protein containing all nine essential amino acids, providing 5 grams per 100 grams cooked
 Potatoes: A single russet potato contains 8 grams of protein, which is more than many realize, along with significant potassium
-
+Nuts and Legumes: Almonds provide 6 grams of protein per ounce
+. Lentils are an elite plant-based source with 18 grams per cup
