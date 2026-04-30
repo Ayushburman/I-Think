@@ -21,9 +21,10 @@
   → https://youtu.be/wvTv8TqWC48  
 
 --------------------------------------------
-1
-2
-
+Admin Response -
+Proteins serve as the essential building blocks for the body, providing energy, aiding in muscle development, and supporting fat loss
+. Unlike fats and carbohydrates, the human body cannot store protein, making it vital to consume adequate amounts daily based on an individual's age and weight
+. Because every protein source has a unique amino acid profile, consuming a wide variety of these foods is necessary for optimal health
 
 
 
