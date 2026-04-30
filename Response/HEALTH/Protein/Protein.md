@@ -43,5 +43,5 @@ Cruciferous Vegetables: Broccoli contains eight of the nine essential amino acid
 Seeds: Chia seeds offer 4.4 grams of protein per ounce plus omega-3s
 . Pumpkin seeds provide 12 grams per cup and contain zinc, which may improve prostate health and insulin regulation
 Chicken Breast: A cost-effective muscle-building staple that provides 32 grams of protein per 100 grams and is rich in selenium
-
+Quinoa: A "power seed" and complete protein containing all nine essential amino acids, providing 5 grams per 100 grams cooked
 
