@@ -49,4 +49,6 @@ Nuts and Legumes: Almonds provide 6 grams of protein per ounce
 . Lentils are an elite plant-based source with 18 grams per cup
 Soy and Beans: Edamame is a complete protein offering 18 grams per cup
 . Black beans are exceptionally high in protein, containing nearly 40 grams per cup
+Grains and Greens: Oatmeal provides 17 grams of protein per 100 grams
+. Even spinach contributes 1 gram per cup while offering protective carotenoids
 
