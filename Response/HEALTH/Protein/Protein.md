@@ -33,5 +33,5 @@ Pork Products: A single pork chop offers 39 grams of protein and is high in zinc
 . Other options include Canadian bacon (15g per 3oz) and Chorizo (21g per 3oz)
 Tempeh: Fermented soybean cake that is denser than tofu, providing 15 to 16 grams of protein per three-ounce serving along with prebiotics for gut health
 Greek Yogurt: Contains twice the protein of regular yogurt (23 grams per 8 ounces) and is rich in bone-building calcium
-
+Cottage Cheese: High in casein, a slow-digesting protein that prevents muscle breakdown overnight; a half-cup contains 14 grams.
 
