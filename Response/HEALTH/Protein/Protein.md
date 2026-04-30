@@ -38,3 +38,6 @@ Fish: Halibut is a lean muscle-building source with 23 grams of protein and only
 . Yellowfin Tuna is another high-quality, easily digested option providing 25 grams of protein per 3 ounces
 Steak: Leaner cuts like round and loin provide a high protein-to-calorie ratio, offering about 23 grams of protein per 3 ounces
 Peanut Butter: Provides 8 grams of protein per 2 tablespoons; powdered versions are available for those looking to reduce fat intake
+Cruciferous Vegetables: Broccoli contains eight of the nine essential amino acids and 3 grams of protein per 100 grams
+. Cauliflower provides 17 grams of protein per large head and is rich in choline, which aids memory and muscle movement
+
