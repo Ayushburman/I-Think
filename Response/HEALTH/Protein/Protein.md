@@ -34,4 +34,7 @@ Pork Products: A single pork chop offers 39 grams of protein and is high in zinc
 Tempeh: Fermented soybean cake that is denser than tofu, providing 15 to 16 grams of protein per three-ounce serving along with prebiotics for gut health
 Greek Yogurt: Contains twice the protein of regular yogurt (23 grams per 8 ounces) and is rich in bone-building calcium
 Cottage Cheese: High in casein, a slow-digesting protein that prevents muscle breakdown overnight; a half-cup contains 14 grams.
+Fish: Halibut is a lean muscle-building source with 23 grams of protein and only 2 grams of fat per 3 ounces
+. Yellowfin Tuna is another high-quality, easily digested option providing 25 grams of protein per 3 ounces
+
 
