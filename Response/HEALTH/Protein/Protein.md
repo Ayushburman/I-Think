@@ -32,6 +32,6 @@ Tofu: A versatile meat alternative that is rich in magnesium and iron; a quarter
 Pork Products: A single pork chop offers 39 grams of protein and is high in zinc, which is critical for the immune system
 . Other options include Canadian bacon (15g per 3oz) and Chorizo (21g per 3oz)
 Tempeh: Fermented soybean cake that is denser than tofu, providing 15 to 16 grams of protein per three-ounce serving along with prebiotics for gut health
-
+Greek Yogurt: Contains twice the protein of regular yogurt (23 grams per 8 ounces) and is rich in bone-building calcium
 
 
