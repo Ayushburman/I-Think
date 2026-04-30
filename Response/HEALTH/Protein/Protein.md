@@ -47,3 +47,6 @@ Quinoa: A "power seed" and complete protein containing all nine essential amino 
 Potatoes: A single russet potato contains 8 grams of protein, which is more than many realize, along with significant potassium
 Nuts and Legumes: Almonds provide 6 grams of protein per ounce
 . Lentils are an elite plant-based source with 18 grams per cup
+Soy and Beans: Edamame is a complete protein offering 18 grams per cup
+. Black beans are exceptionally high in protein, containing nearly 40 grams per cup
+
