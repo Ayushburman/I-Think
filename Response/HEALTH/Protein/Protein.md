@@ -40,4 +40,6 @@ Steak: Leaner cuts like round and loin provide a high protein-to-calorie ratio, 
 Peanut Butter: Provides 8 grams of protein per 2 tablespoons; powdered versions are available for those looking to reduce fat intake
 Cruciferous Vegetables: Broccoli contains eight of the nine essential amino acids and 3 grams of protein per 100 grams
 . Cauliflower provides 17 grams of protein per large head and is rich in choline, which aids memory and muscle movement
+Seeds: Chia seeds offer 4.4 grams of protein per ounce plus omega-3s
+. Pumpkin seeds provide 12 grams per cup and contain zinc, which may improve prostate health and insulin regulation
 
