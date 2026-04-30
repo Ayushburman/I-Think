@@ -27,7 +27,7 @@ Proteins serve as the essential building blocks for the body, providing energy, 
 . Because every protein source has a unique amino acid profile, consuming a wide variety of these foods is necessary for optimal health
 
 The following foods are recommended for meeting daily protein requirements:
-
+Eggs: Particularly egg whites, which are low in fat and cholesterol; one cup provides 26 grams of protein
 
 
 
