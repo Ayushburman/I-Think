@@ -42,4 +42,6 @@ Cruciferous Vegetables: Broccoli contains eight of the nine essential amino acid
 . Cauliflower provides 17 grams of protein per large head and is rich in choline, which aids memory and muscle movement
 Seeds: Chia seeds offer 4.4 grams of protein per ounce plus omega-3s
 . Pumpkin seeds provide 12 grams per cup and contain zinc, which may improve prostate health and insulin regulation
+Chicken Breast: A cost-effective muscle-building staple that provides 32 grams of protein per 100 grams and is rich in selenium
+
 
