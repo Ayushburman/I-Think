@@ -28,7 +28,7 @@ Proteins serve as the essential building blocks for the body, providing energy, 
 
 The following foods are recommended for meeting daily protein requirements:
 Eggs: Particularly egg whites, which are low in fat and cholesterol; one cup provides 26 grams of protein
-
+Tofu: A versatile meat alternative that is rich in magnesium and iron; a quarter block contains 12.8 grams of protein
 
 
 
