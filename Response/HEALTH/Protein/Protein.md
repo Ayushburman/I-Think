@@ -36,3 +36,11 @@
 - [Conclusion](#conclusion)
 
 ---
+## Overview
+
+Proteins are essential macronutrients that play a critical role in:
+
+- Muscle growth and repair  
+- Energy production  
+- Fat loss and metabolism
+  
