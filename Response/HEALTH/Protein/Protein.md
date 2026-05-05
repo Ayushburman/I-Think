@@ -43,4 +43,7 @@ Proteins are essential macronutrients that play a critical role in:
 - Muscle growth and repair  
 - Energy production  
 - Fat loss and metabolism
-  
+- Unlike fats and carbohydrates, the human body **does not store protein efficiently**, making daily intake essential.
+- A **diverse protein intake** ensures the body receives all essential amino acids required for optimal functioning.
+
+---
