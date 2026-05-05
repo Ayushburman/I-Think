@@ -50,4 +50,8 @@ Proteins are essential macronutrients that play a critical role in:
 ## Why Protein Matters
 
 - Builds and repairs tissues  
-- Supports enzyme and hormone production  
+- Supports enzyme and hormone production
+- Maintains muscle mass  
+- Improves satiety and appetite control  
+- Boosts immune function  
+
