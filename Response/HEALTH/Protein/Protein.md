@@ -29,9 +29,9 @@
 - [Recommended Protein Sources](#recommended-protein-sources)
 - [Animal-Based Sources](#animal-based-sources)
 - [Plant-Based Sources](#plant-based-sources)
-  - [Vegetables and Greens](#vegetables-and-greens)
-  - [Grains and Other Sources](#grains-and-other-sources)
-  - [Seeds and Nuts](#seeds-and-nuts)
+- [Vegetables and Greens](#vegetables-and-greens)
+- [Grains and Other Sources](#grains-and-other-sources)
+- [Seeds and Nuts](#seeds-and-nuts)
 - [Quick Comparison Table](#quick-comparison-table)
 - [Conclusion](#conclusion)
 
