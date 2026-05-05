@@ -47,3 +47,7 @@ Proteins are essential macronutrients that play a critical role in:
 - A **diverse protein intake** ensures the body receives all essential amino acids required for optimal functioning.
 
 ---
+## Why Protein Matters
+
+- Builds and repairs tissues  
+- Supports enzyme and hormone production  
