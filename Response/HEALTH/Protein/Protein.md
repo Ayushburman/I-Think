@@ -59,3 +59,14 @@ Proteins are essential macronutrients that play a critical role in:
 
 ## Recommended Protein Sources
 ### Animal-Based Sources
+
+| Food Item        | Protein Content | Notes |
+|-----------------|---------------|------|
+| Eggs (whites)    | ~26g / cup     | Low fat, high-quality protein |
+| Pork Chop        | ~39g / serving | High in zinc |
+| Greek Yogurt     | ~23g / 8 oz    | Rich in calcium |
+| Cottage Cheese   | ~14g / ½ cup   | Contains casein (slow digestion) |
+| Halibut          | ~23g / 3 oz    | Lean fish |
+| Yellowfin Tuna   | ~25g / 3 oz    | Easily digestible |
+| Lean Steak       | ~23g / 3 oz    | High protein-to-calorie ratio |
+| Chicken Breast   | ~32g / 100g    | Cost-effective, high protein |
