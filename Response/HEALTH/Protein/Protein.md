@@ -86,3 +86,14 @@ Proteins are essential macronutrients that play a critical role in:
 | Almonds       | ~6g / oz         | Healthy fats included |
 | Peanut Butter | ~8g / 2 tbsp     | Energy-dense |
 
+---
+
+### Vegetables and Greens
+
+| Food Item   | Protein Content | Notes |
+|------------|---------------|------|
+| Broccoli    | ~3g / 100g     | Contains essential amino acids |
+| Cauliflower | ~17g / head    | Rich in choline |
+| Spinach     | ~1g / cup      | Contains antioxidants |
+
+---
