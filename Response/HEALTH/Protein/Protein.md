@@ -55,3 +55,7 @@ Proteins are essential macronutrients that play a critical role in:
 - Improves satiety and appetite control  
 - Boosts immune function  
 
+---
+
+## Recommended Protein Sources
+### Animal-Based Sources
