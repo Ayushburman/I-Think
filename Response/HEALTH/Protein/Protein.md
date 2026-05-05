@@ -70,3 +70,12 @@ Proteins are essential macronutrients that play a critical role in:
 | Yellowfin Tuna   | ~25g / 3 oz    | Easily digestible |
 | Lean Steak       | ~23g / 3 oz    | High protein-to-calorie ratio |
 | Chicken Breast   | ~32g / 100g    | Cost-effective, high protein |
+
+---
+
+### Plant-Based Sources
+
+| Food Item     | Protein Content | Notes |
+|--------------|---------------|----------------------|
+| Tofu          | ~12.8g / ¼ block | Rich in iron and magnesium |
+| Tempeh        | ~15–16g / 3 oz   | Contains prebiotics |
