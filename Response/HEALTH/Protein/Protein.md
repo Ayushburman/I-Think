@@ -97,3 +97,58 @@ Proteins are essential macronutrients that play a critical role in:
 | Spinach     | ~1g / cup      | Contains antioxidants |
 
 ---
+---
+
+### Grains and Other Sources
+
+| Food Item | Protein Content | Notes |
+|----------|---------------|------|
+| Oatmeal   | ~17g / 100g    | Good breakfast option |
+| Potato    | ~8g / unit     | High potassium |
+
+---
+
+### Seeds and Nuts
+
+| Food Item      | Protein Content | Notes |
+|---------------|---------------|------|
+| Chia Seeds     | ~4.4g / oz     | Omega-3 rich |
+| Pumpkin Seeds  | ~12g / cup     | Contains zinc |
+
+---
+
+## Quick Comparison Table
+
+| Category        | Best High-Protein Option |
+|----------------|--------------------------|
+| Animal Source   | Chicken Breast |
+| Fish            | Tuna |
+| Plant Source    | Lentils / Black Beans |
+| Quick Snack     | Greek Yogurt |
+| Budget Option   | Eggs |
+| Complete Protein| Quinoa / Edamame |
+
+---
+
+## Conclusion
+
+Maintaining good health requires:
+
+- Consistent daily protein intake  
+- Variety in food choices  
+- Balanced nutrition  
+
+Combining **animal and plant-based proteins** ensures:
+
+- Complete amino acid intake  
+- Better muscle development  
+- Improved metabolic function  
+
+---
+
+## Future Improvements
+
+- Add protein calculator  
+- Add meal plans  
+- Integrate nutrition dataset  
+- Visualize protein intake trends  
