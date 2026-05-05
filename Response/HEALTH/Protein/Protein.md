@@ -79,3 +79,10 @@ Proteins are essential macronutrients that play a critical role in:
 |--------------|---------------|----------------------|
 | Tofu          | ~12.8g / ¼ block | Rich in iron and magnesium |
 | Tempeh        | ~15–16g / 3 oz   | Contains prebiotics |
+| Lentils       | ~18g / cup       | Excellent plant protein |
+| Black Beans   | ~40g / cup       | High protein density |
+| Edamame       | ~18g / cup       | Complete protein |
+| Quinoa        | ~5g / 100g       | All essential amino acids |
+| Almonds       | ~6g / oz         | Healthy fats included |
+| Peanut Butter | ~8g / 2 tbsp     | Energy-dense |
+
