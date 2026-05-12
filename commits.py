@@ -39,3 +39,8 @@ Different color models are useful for image processing, computer vision, segment
 git log --format="%ae %s" -10
 
 git config --global user.email
+
+Then go to GitHub → Settings → Emails and check if that exact email is listed and verified. If it's different, either:
+
+Add the local email to GitHub and verify it, or
+Fix the local config: git config --global user.email "your-github-email@example.com"
