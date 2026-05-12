@@ -48,3 +48,7 @@ Fix the local config: git config --global user.email "your-github-email@example.
 ---
 If you add the missing email to your GitHub account, the contribution graph rebuilds automatically — past commits will start showing up. GitHub
 2. Wrong branch
+
+
+def len
+int = 20;
