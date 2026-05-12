@@ -34,6 +34,8 @@ Different color models are useful for image processing, computer vision, segment
 | PNG      | Lossless compression    | Transparency support | Web graphics      |
 | BMP      | Bitmap image format     | High quality         | Raw image storage |
 
----
+-------
+
+git log --format="%ae %s" -10
 
 
