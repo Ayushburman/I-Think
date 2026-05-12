@@ -38,4 +38,4 @@ Different color models are useful for image processing, computer vision, segment
 
 git log --format="%ae %s" -10
 
-
+git config --global user.email
