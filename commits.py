@@ -44,3 +44,7 @@ Then go to GitHub → Settings → Emails and check if that exact email is liste
 
 Add the local email to GitHub and verify it, or
 Fix the local config: git config --global user.email "your-github-email@example.com"
+
+---
+If you add the missing email to your GitHub account, the contribution graph rebuilds automatically — past commits will start showing up. GitHub
+2. Wrong branch
