@@ -1,6 +1,5 @@
 ::view-transition-old(*)
-
-  ::view-transition-new(*) 
+::view-transition-new(*) 
                         
     animation-duration: 0.25s;
 
