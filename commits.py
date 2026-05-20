@@ -1,7 +1,6 @@
 ::view-transition-old(*)
 ::view-transition-new(*) 
-                        
-    animation-duration: 0.25s;
+animation-duration: 0.25s;
 
     animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
   }
