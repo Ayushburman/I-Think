@@ -1,10 +1,4 @@
-Here's your full visual brain course. Let's go module by module — starting with anatomy, then how it works, memory, what harms it, brain hacking, and meditation research.
 
-  ::view-transition-group(*),
-  ::view-transition-old(*),
-  ::view-transition-new(*) {
-    animation-duration: 0.25s;
-    animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
   }
 VvisualizeVvisualize show_widgetModule 01 — Anatomy. The brain has four cortical lobes, each with a distinct primary function, plus subcortical structures that handle survival and coordination. The corpus callosbundle of nerve fibers bridging left and right hemispheres — damage it and the two halves literally stop communicating.
 
