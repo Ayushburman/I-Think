@@ -25,3 +25,13 @@ The limbic system is the brain's emotional and survival core — buried beneath
  register fear. The hippocampus is the brain's "save" button for new memories.
 The thalamus acts like a router: almost every signal from your senses passes through it before reaching the cortex.
 ```
+
+<img width="1440" height="704" alt="image" src="https://github.com/user-attachments/assets/584671f0-4d81-467f-8600-ada4d07b6069" />
+```markdown
+Module 02 — How it works. Every thought, movement, and feeling
+ is an electrical signal travelling down an axon and jumping across
+ a synapse via chemical messengers called neurotransmitters.
+Myelin — the fatty white sheath — is the brain's insulation, making
+ signals travel up to 100× faster. Multiple sclerosis is literally a
+ disease where myelin erodes, breaking signal transmission.
+```
