@@ -1,8 +1,4 @@
-
-  }
-VvisualizeVvisualize show_widgetModule 01 — Anatomy. The brain has four cortical lobes, each with a distinct primary function, plus subcortical structures that handle survival and coordination. The corpus callosbundle of nerve fibers bridging left and right hemispheres — damage it and the two halves literally stop communicating.
-
-  ::view-transition-group(*),
+,
   ::view-transition-old(*),
   ::view-transition-new(*) {
     animation-duration: 0.25s;
