@@ -13,6 +13,7 @@ VvisualizeVvisualize show_widgetModule 02
 feeling is an electrical signal travelling down
 
 an axon and jumping across a synapse via chemical
+
 messengers called neurotransmitters. Myelin — the
 fatty white sheath — is the brain's insulation,
 making signals travel up to 100× faster. Multiple
