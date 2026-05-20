@@ -10,11 +10,9 @@ how it works, memory, what harms it, brain hacking, and meditation research.
 <img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/5bb12bfa-f5fe-4e5c-9689-dcfde814fa10" />
 
 ```markdown
-Module 01 — Anatomy. The brain has four cortical lobes, each with
-a distinct primary function, plus subcortical structures that handle
-survival and coordination. The corpus callosum is the thick bundle
-of nerve fibers bridging left and right hemispheres — damage it and
-the two halves literally stop communicating.
+> Module 01 — Anatomy.
+>> The brain has four cortical lobes, each with a distinct primary function, plus subcortical structures that handle survival and coordination.
+   The corpus callosum is the thick bundle of nerve fibers bridging left and right hemispheres — damage it and the two halves literally stop communicating.
 ```
 --------------
 
