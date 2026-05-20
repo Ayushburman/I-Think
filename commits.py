@@ -1,5 +1,4 @@
-
-  ::view-transition-old(*)
+::view-transition-old(*)
 
   ::view-transition-new(*) 
                         
