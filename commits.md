@@ -35,3 +35,4 @@ Myelin — the fatty white sheath — is the brain's insulation, making
  signals travel up to 100× faster. Multiple sclerosis is literally a
  disease where myelin erodes, breaking signal transmission.
 ```
+<img width="1440" height="1016" alt="image" src="https://github.com/user-attachments/assets/40ad8342-8d7e-46ce-992c-d2c4086d01e9" />
