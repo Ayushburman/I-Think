@@ -19,7 +19,8 @@
 
 > Feynman
 
-> Kaizen 
+> Kaizen
+
 > Spaced 
 > Repetition 
 > Deep Work 
