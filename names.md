@@ -7,7 +7,7 @@
 > Stop
 > Procrastinating.
 > Learn
-Faster. Master Anything.
+> Faster. Master Anything.
 Feynman 
 Kaizen 
 Spaced 
