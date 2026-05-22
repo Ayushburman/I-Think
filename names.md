@@ -12,7 +12,7 @@
 > Kaizen 
 > Spaced 
 > Repetition 
-Deep Work 
+> Deep Work 
 Active Recall
 01 — Procrastination
 02 — Japanese Tricks
