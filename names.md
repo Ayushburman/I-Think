@@ -1,4 +1,5 @@
-// visual 
+```bash
+> // visual 
 study
 notes 
 — learning
@@ -18,3 +19,4 @@ Active Recall
 03 — Learn Faster
 04 — Master Any Subject
 05 — Full Stack
+```
