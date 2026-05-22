@@ -3,7 +3,8 @@
 
 > study
 
-> notes 
+> notes
+
 > — learning
 > science
 > Stop
