@@ -3,7 +3,6 @@ study
 notes 
 — learning
 science
-
 Stop
 Procrastinating.
 Learn Faster. Master Anything.
