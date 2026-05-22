@@ -11,7 +11,8 @@
 
 > Stop
 
-> Procrastinating.
+> Procrastinating..
+
 > Learn
 > Faster. Master Anything.
 > Feynman 
