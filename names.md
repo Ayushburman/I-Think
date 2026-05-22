@@ -10,7 +10,7 @@
 > Faster. Master Anything.
 > Feynman 
 > Kaizen 
-Spaced 
+> Spaced 
 Repetition 
 Deep Work 
 Active Recall
