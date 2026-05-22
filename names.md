@@ -8,7 +8,7 @@
 > Procrastinating.
 > Learn
 > Faster. Master Anything.
-Feynman 
+> Feynman 
 Kaizen 
 Spaced 
 Repetition 
