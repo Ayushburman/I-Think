@@ -1,7 +1,7 @@
 ```bash
 > // visual 
 > study
-notes 
+> notes 
 — learning
 science
 Stop
