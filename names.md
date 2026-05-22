@@ -3,7 +3,7 @@
 > study
 > notes 
 > — learning
-science
+> science
 Stop
 Procrastinating.
 Learn
