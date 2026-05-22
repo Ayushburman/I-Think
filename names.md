@@ -9,7 +9,7 @@
 > Learn
 > Faster. Master Anything.
 > Feynman 
-Kaizen 
+> Kaizen 
 Spaced 
 Repetition 
 Deep Work 
