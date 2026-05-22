@@ -10,7 +10,8 @@ Faster. Master Anything.
 Feynman 
 Kaizen 
 Spaced 
-Repetition · Deep Work · Active Recall
+Repetition 
+Deep Work · Active Recall
 
 01 — Procrastination
 
