@@ -7,7 +7,8 @@ Stop
 Procrastinating.
 Learn
 Faster. Master Anything.
-Feynman · Kaizen · Spaced Repetition · Deep Work · Active Recall
+Feynman 
+Kaizen · Spaced Repetition · Deep Work · Active Recall
 
 01 — Procrastination
 
