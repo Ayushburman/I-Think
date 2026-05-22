@@ -1,6 +1,6 @@
 ```bash
 > // visual 
-study
+> study
 notes 
 — learning
 science
