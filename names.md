@@ -22,7 +22,8 @@
 > Kaizen
 
 > Spaced 
-> Repetition 
+> Repetition
+
 > Deep Work 
 > Active Recall
 > 01 — Procrastination
