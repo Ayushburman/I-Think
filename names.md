@@ -2,7 +2,7 @@
 > // visual 
 > study
 > notes 
-— learning
+> — learning
 science
 Stop
 Procrastinating.
