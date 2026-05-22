@@ -6,7 +6,7 @@
 > science
 > Stop
 > Procrastinating.
-Learn
+> Learn
 Faster. Master Anything.
 Feynman 
 Kaizen 
