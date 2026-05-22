@@ -4,7 +4,7 @@
 > notes 
 > — learning
 > science
-Stop
+> Stop
 Procrastinating.
 Learn
 Faster. Master Anything.
