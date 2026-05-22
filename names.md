@@ -1,5 +1,6 @@
 // visual 
-study notes — learning science
+study
+notes — learning science
 
 Stop Procrastinating.
 Learn Faster. Master Anything.
