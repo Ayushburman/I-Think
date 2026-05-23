@@ -2,7 +2,8 @@
 Visual Notes
 
 > **Feynman
-> · Kaizen · Spaced Repetition · Deep Work · Active Recall**
+> · Kaizen
+> · Spaced Repetition · Deep Work · Active Recall**
 
 ---
 
