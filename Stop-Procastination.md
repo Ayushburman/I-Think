@@ -5,7 +5,8 @@ science
 Stop 
 Procrastinating.
 
-Learn Faster. Master Anything.
+Learn Faster.
+Master Anything.
 
 Feynman 
 · Kaizen 
