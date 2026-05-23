@@ -1,5 +1,6 @@
 // visual study notes 
-— learning science
+— learning 
+science
 
 Stop Procrastinating.
 
