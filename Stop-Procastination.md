@@ -58,5 +58,7 @@ if task_time ≤ 2min → do_now() else start_with_first_2min()
 Pomodoro Technique
 25 min deep work → 5 min break. After 4 cycles, take a 20-30 min long break. Removes the infinite horizon of a task and makes starting psychologically safe.
 
-1 Pomodoro cycle — 25 work blocks + 5 rest
+1 Pomodoro cycle 
+
+— 25 work blocks + 5 rest
 Work (25 min)
