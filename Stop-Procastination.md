@@ -77,5 +77,6 @@ Pomodoro Technique
 1 Pomodoro cycle 
 
 — 25 work blocks 
+
 + 5 rest
 Work (25 min)
