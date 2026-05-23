@@ -54,8 +54,10 @@ Anxiety / dread
 Escape
 
 Dopamine hit
+
 →
 Relief
+
 Short-term ok
 →
 Outcome
