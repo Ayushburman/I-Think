@@ -44,8 +44,10 @@ The procrastination feedback loop
 Trigger
 
 Hard task
+
 →
 Emotion
+
 Anxiety / dread
 →
 Escape
