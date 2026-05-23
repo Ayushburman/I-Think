@@ -76,7 +76,8 @@ Anti-procrastination techniques
 
 01
 2-Minute Rule
-If a task takes less than 2 minutes — do it immediately. This tricks the brain into starting and creates momentum. The hardest part is always the first moment of engagement.
+If a task takes less than 2 minutes — do it immediately.
+This tricks the brain into starting and creates momentum. The hardest part is always the first moment of engagement.
 
 if task_time ≤ 2min → do_now() else start_with_first_2min()
 
