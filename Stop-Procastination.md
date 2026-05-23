@@ -13,6 +13,7 @@ Learn Faster.
 Master Anything.
 
 Feynman 
+
 · Kaizen 
 
 · Spaced Repetition 
