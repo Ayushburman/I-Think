@@ -42,3 +42,10 @@ Anti-procrastination techniques
 If a task takes less than 2 minutes — do it immediately. This tricks the brain into starting and creates momentum. The hardest part is always the first moment of engagement.
 
 if task_time ≤ 2min → do_now() else start_with_first_2min()
+
+02
+Pomodoro Technique
+25 min deep work → 5 min break. After 4 cycles, take a 20-30 min long break. Removes the infinite horizon of a task and makes starting psychologically safe.
+
+1 Pomodoro cycle — 25 work blocks + 5 rest
+Work (25 min)
