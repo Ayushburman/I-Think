@@ -42,6 +42,7 @@ Neuroscience
 The procrastination feedback loop
 
 Trigger
+
 Hard task
 →
 Emotion
