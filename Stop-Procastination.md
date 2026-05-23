@@ -65,7 +65,8 @@ Outcome
 
 Guilt + cycle
 
-Procrastination is not laziness. It is an emotion regulation failure. The brain avoids pain (complexity, boredom, fear of failure), not the task itself. Fix the emotion first.
+Procrastination is not laziness. It is an emotion regulation failure. T
+he brain avoids pain (complexity, boredom, fear of failure), not the task itself. Fix the emotion first.
 
 -------
 
