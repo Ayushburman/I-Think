@@ -8,6 +8,7 @@ Feynman
 · Kaizen 
 
 · Spaced Repetition 
+
 · Deep Work 
 · Active Recall
 
