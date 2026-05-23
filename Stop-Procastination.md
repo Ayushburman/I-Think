@@ -2,7 +2,8 @@
 — learning 
 science
 
-Stop Procrastinating.
+Stop 
+Procrastinating.
 
 Learn Faster. Master Anything.
 
