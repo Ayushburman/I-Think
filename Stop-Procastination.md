@@ -1,4 +1,5 @@
-# Learning Mastery — Visual Notes
+# Learning Mastery — 
+Visual Notes
 
 > **Feynman · Kaizen · Spaced Repetition · Deep Work · Active Recall**
 
