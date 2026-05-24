@@ -6,7 +6,8 @@ Political oratory,
 moral courage,
 and the origins of power.
 Abraham Lincoln
-16th U.S. President · Civil War · Emancipation
+16th U.S.
+President · Civil War · Emancipation
 Moral courage
 Oratory
 Joseph Stalin
