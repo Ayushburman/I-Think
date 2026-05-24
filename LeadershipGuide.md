@@ -5,7 +5,8 @@ The bedrock.
 Political oratory,
 moral courage,
 and the origins of power.
-Abraham Lincoln
+Abraham 
+Lincoln
 16th U.S.
 President ·
 Civil War ·
