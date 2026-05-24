@@ -5,6 +5,7 @@ foundations
 
 The 
 bedrock. 
+
 Political
 oratory,
 moral 
