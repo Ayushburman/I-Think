@@ -9,3 +9,17 @@ Joseph Stalin
 Soviet Premier · WWII · Cold War origins
 Authoritarian study
 Geopolitics
+WWII — the crucible of modern leadership
+The war produced the most defining speeches and leadership decisions in modern political history.
+Winston Churchill
+British PM · WWII · Iron Curtain
+Wartime resolve
+Rhetoric
+Franklin D. Roosevelt
+32nd U.S. President · New Deal · WWII
+Crisis management
+Communication
+Adolf Hitler
+Nazi Germany · Study in demagoguery
+⚠ Critical analysis
+Propaganda
