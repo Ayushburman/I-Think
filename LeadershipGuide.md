@@ -25,7 +25,8 @@ Franklin D. Roosevelt
 Crisis management
 Communication
 Adolf Hitler
-Nazi Germany · Study in demagoguery
+Nazi Germany ·
+Study in demagoguery
 ⚠ Critical
 analysis
 Propaganda
