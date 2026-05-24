@@ -13,7 +13,8 @@ Emancipation
 Moral
 courage
 Oratory
-Joseph Stalin
+Joseph 
+Stalin
 Soviet Premier ·
 WWII ·
 Cold War
