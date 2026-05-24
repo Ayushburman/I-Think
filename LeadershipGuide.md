@@ -28,7 +28,8 @@ Authoritarian
 study
 Geopolitics
 WWII —
-the crucible
+the
+crucible
 of modern leadership
 The war
 produced the most
