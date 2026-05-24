@@ -34,7 +34,8 @@ produced the most
 defining 
 speeche
 s and 
-leadership decisions in modern political history.
+leadership
+decisions in modern political history.
 Winston Churchill
 British PM · WWII · Iron Curtain
 Wartime resolve
