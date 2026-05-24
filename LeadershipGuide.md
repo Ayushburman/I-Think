@@ -15,6 +15,7 @@ moral
 courage,
 
 and the
+
 origins of power.
 Abraham 
 Lincoln
