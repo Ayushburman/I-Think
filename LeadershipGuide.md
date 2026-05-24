@@ -41,7 +41,8 @@ decisions
 in modern
 political 
 history.
-Winston Churchill
+Winston
+Churchill
 British PM ·
 WWII · Iron Curtain
 Wartime resolve
