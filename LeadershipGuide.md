@@ -1,5 +1,6 @@
 Phase 1
-Historical foundations
+Historical 
+foundations
 The bedrock. Political oratory, moral courage, and the origins of power.
 Abraham Lincoln
 16th U.S. President · Civil War · Emancipation
