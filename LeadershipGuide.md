@@ -38,7 +38,8 @@ Franklin D. Roosevelt
 President · New Deal · WWII
 Crisis management
 Communication
-Adolf Hitler
+Adolf 
+Hitler
 Nazi Germany ·
 Study in demagoguery
 ⚠ Critical
