@@ -7,6 +7,7 @@ The
 bedrock. 
 
 Political
+
 oratory,
 moral 
 courage,
