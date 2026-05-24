@@ -57,7 +57,8 @@ Adolf
 Hitler
 Nazi Germany ·
 Study 
-in demagoguery
+in 
+demagoguery
 ⚠ Critical
 analysis
 Propaganda
