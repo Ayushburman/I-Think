@@ -1,9 +1,11 @@
 Phase 1
+
 Historical 
 
 foundations
 
 The 
+
 bedrock. 
 
 Political
