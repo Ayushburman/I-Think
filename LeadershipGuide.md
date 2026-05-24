@@ -50,7 +50,8 @@ Rhetoric
 Franklin D. Roosevelt
 32nd U.S.
 President ·
-New Deal · WWII
+New Deal 
+· WWII
 Crisis management
 Communication
 Adolf 
