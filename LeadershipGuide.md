@@ -9,6 +9,7 @@ bedrock.
 Political
 
 oratory,
+
 moral 
 courage,
 and the
