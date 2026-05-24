@@ -10,7 +10,8 @@ Abraham Lincoln
 President ·
 Civil War ·
 Emancipation
-Moral courage
+Moral
+courage
 Oratory
 Joseph Stalin
 Soviet Premier ·
