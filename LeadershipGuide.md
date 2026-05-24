@@ -56,7 +56,8 @@ Communication
 Adolf 
 Hitler
 Nazi Germany ·
-Study in demagoguery
+Study 
+in demagoguery
 ⚠ Critical
 analysis
 Propaganda
