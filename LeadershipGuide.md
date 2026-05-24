@@ -5,7 +5,8 @@ The
 bedrock. 
 Political
 oratory,
-moral courage,
+moral 
+courage,
 and the origins of power.
 Abraham 
 Lincoln
