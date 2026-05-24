@@ -26,7 +26,8 @@ the crucible
 of modern leadership
 The war
 produced the most
-defining speeches and leadership decisions in modern political history.
+defining 
+speeches and leadership decisions in modern political history.
 Winston Churchill
 British PM · WWII · Iron Curtain
 Wartime resolve
