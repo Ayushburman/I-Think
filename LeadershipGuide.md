@@ -1,7 +1,8 @@
 Phase 1
 Historical 
 foundations
-The bedrock. 
+The 
+bedrock. 
 Political oratory,
 moral courage,
 and the origins of power.
