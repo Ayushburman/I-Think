@@ -26,5 +26,6 @@ Crisis management
 Communication
 Adolf Hitler
 Nazi Germany · Study in demagoguery
-⚠ Critical analysis
+⚠ Critical
+analysis
 Propaganda
