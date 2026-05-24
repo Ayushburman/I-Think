@@ -16,7 +16,8 @@ Oratory
 Joseph Stalin
 Soviet Premier ·
 WWII ·
-Cold War origins
+Cold War
+origins
 Authoritarian
 study
 Geopolitics
