@@ -26,7 +26,8 @@ British PM · WWII · Iron Curtain
 Wartime resolve
 Rhetoric
 Franklin D. Roosevelt
-32nd U.S. President · New Deal · WWII
+32nd U.S.
+President · New Deal · WWII
 Crisis management
 Communication
 Adolf Hitler
