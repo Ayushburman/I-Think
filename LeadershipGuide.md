@@ -42,7 +42,8 @@ in modern
 political 
 history.
 Winston Churchill
-British PM · WWII · Iron Curtain
+British PM ·
+WWII · Iron Curtain
 Wartime resolve
 Rhetoric
 Franklin D. Roosevelt
