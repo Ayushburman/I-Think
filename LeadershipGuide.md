@@ -39,7 +39,8 @@ s and
 leadership
 decisions 
 in modern
-political history.
+political 
+history.
 Winston Churchill
 British PM · WWII · Iron Curtain
 Wartime resolve
