@@ -21,6 +21,7 @@ and the
 origins of power.
 
 Abraham 
+
 Lincoln
 16th U.S.
 President ·
