@@ -14,7 +14,8 @@ Moral courage
 Oratory
 Joseph Stalin
 Soviet Premier ·
-WWII · Cold War origins
+WWII ·
+Cold War origins
 Authoritarian study
 Geopolitics
 WWII — the crucible of modern leadership
