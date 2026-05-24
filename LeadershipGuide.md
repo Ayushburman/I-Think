@@ -3,7 +3,8 @@ Historical
 foundations
 The 
 bedrock. 
-Political oratory,
+Political
+oratory,
 moral courage,
 and the origins of power.
 Abraham 
