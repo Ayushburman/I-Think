@@ -5,4 +5,5 @@ Francisco
 Given
 up for adoption
 at birth,
-raised by Paul and Clara Jobs in Mountain View, California — the future epicentre of Silicon Valley.
+raised by 
+Paul and Clara Jobs in Mountain View, California — the future epicentre of Silicon Valley.
