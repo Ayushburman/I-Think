@@ -10,7 +10,8 @@ Clara Jobs
 in Mountain
 View, California 
 — the future
-epicentre of Silicon Valley.
+epicentre of 
+Silicon Valley.
 
 1969
 Meets
