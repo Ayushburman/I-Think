@@ -10,4 +10,5 @@ A neighbour
 introduces 
 14-year-old
 Jobs to 19-year
--old Wozniak. A friendship and creative partnership that changes history begins in a garage.
+-old Wozniak. 
+A friendship and creative partnership that changes history begins in a garage.
