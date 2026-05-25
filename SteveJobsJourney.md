@@ -8,7 +8,8 @@ raised by
 Paul and 
 Clara Jobs 
 in Mountain
-View, California — the future epicentre of Silicon Valley.
+View, California 
+— the future epicentre of Silicon Valley.
 
 1969
 Meets
