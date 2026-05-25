@@ -16,4 +16,5 @@ and creative
 partnership 
 that changes
 history 
-begins in a garage.
+begins
+in a garage.
