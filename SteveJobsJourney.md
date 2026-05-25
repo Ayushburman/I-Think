@@ -1,6 +1,7 @@
 1955
 >
-Born 
+Born
+>
 in San
 Francisco
 Given
