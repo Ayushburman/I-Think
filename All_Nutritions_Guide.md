@@ -1,6 +1,6 @@
 Human Nutrition
 Vitamins · Minerals · Macronutrients · Phytonutrients · Water
-
+```bash
 🔆 Fat-Sol. Vitamins
 💧  Water-Sol. Vitamins
 🪨   Macrominerals
@@ -12,3 +12,4 @@ Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 ⚠️ Deficiencies
 🥗 Food Sources
 🔗 Interactions
+```
