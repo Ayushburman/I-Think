@@ -31,7 +31,8 @@ Daily Need
 UL (Upper Limit)
 3,000 µg/day (preformed)
 What It Does
-Vision (rhodopsin synthesis), immune cell differentiation, epithelial integrity, embryonic development, gene expression regulation.
+Vision (rhodopsin synthesis),
+immune cell differentiation, epithelial integrity, embryonic development, gene expression regulation.
 Body Targets
 Eyes
 Skin
