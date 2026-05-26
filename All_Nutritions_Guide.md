@@ -19,6 +19,7 @@ Fat-Soluble
 Vitamins
 
 Stored in fatty tissues and liver. 
+
 Excess can accumulate and become toxic.
 Require dietary fat for absorption.
 
