@@ -8,8 +8,7 @@ Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 ⚡ Macronutrients
 🌿 Phytonutrients
 🌊 Water & Electrolytes
-🧬
-Body Impact Map
+🧬 Body Impact Map
 ⚠️
 Deficiencies
 🥗
