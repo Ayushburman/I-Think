@@ -10,7 +10,6 @@ Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 🌊 Water & Electrolytes
 🧬 Body Impact Map
 ⚠️ Deficiencies
-🥗
-Food Sources
+🥗 Food Sources
 🔗
 Interactions
