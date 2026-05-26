@@ -6,8 +6,7 @@ Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 🪨   Macrominerals
 ⚗️ Trace Minerals
 ⚡ Macronutrients
-🌿
-Phytonutrients
+🌿 Phytonutrients
 🌊
 Water & Electrolytes
 🧬
