@@ -30,6 +30,7 @@ Retinol
 · Retinal
 
 Fat-Soluble
+
 Daily Need
 700–900 µg RAE/day
 UL (Upper Limit)
