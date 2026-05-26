@@ -46,6 +46,7 @@ Vision (rhodopsin synthesis),
 immune cell differentiation,
 
 epithelial integrity
+
 , embryonic development,
 gene expression regulation.
 Body Targets
