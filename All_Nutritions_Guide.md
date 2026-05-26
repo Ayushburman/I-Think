@@ -2,8 +2,7 @@ Human Nutrition
 Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 
 🔆 Fat-Sol. Vitamins
-💧
-Water-Sol. Vitamins
+💧  Water-Sol. Vitamins
 🪨
 Macrominerals
 ⚗️
