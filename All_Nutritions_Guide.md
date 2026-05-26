@@ -34,6 +34,7 @@ Fat-Soluble
 Daily Need
 
 700–900 µg RAE/day
+
 UL (Upper Limit)
 3,000 µg/day (preformed)
 What It Does
