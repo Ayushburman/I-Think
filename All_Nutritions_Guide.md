@@ -3,8 +3,7 @@ Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 
 🔆 Fat-Sol. Vitamins
 💧  Water-Sol. Vitamins
-🪨
-Macrominerals
+🪨   Macrominerals
 ⚗️
 Trace Minerals
 ⚡
