@@ -7,8 +7,7 @@ Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 ⚗️ Trace Minerals
 ⚡ Macronutrients
 🌿 Phytonutrients
-🌊
-Water & Electrolytes
+🌊 Water & Electrolytes
 🧬
 Body Impact Map
 ⚠️
