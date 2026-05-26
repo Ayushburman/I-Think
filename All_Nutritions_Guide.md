@@ -11,5 +11,4 @@ Vitamins · Minerals · Macronutrients · Phytonutrients · Water
 🧬 Body Impact Map
 ⚠️ Deficiencies
 🥗 Food Sources
-🔗
-Interactions
+🔗 Interactions
