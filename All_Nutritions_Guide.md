@@ -42,6 +42,7 @@ UL (Upper Limit)
 What It Does
 
 Vision (rhodopsin synthesis),
+
 immune cell differentiation,
 epithelial integrity
 , embryonic development,
