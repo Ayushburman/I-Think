@@ -33,7 +33,7 @@
 > '2's' Complement
 🔲
 > Boolean Logic & Gates
-AND, OR, NOT, XOR. Building computation from switches.
+> AND, OR, NOT, XOR. Building computation from switches.
 Truth Tables
 Logic Gates
 Combinational
