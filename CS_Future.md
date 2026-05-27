@@ -21,7 +21,7 @@
 > CPU
 > RAM
 > Storage
-I/O
+> I/O
 Motherboard
 🔢
 Number Systems
