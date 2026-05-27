@@ -13,7 +13,7 @@
 > Frontier AI / Research
 > Future Computing
 > Phase 00
-Foundations & Digital Basics
+> Foundations & Digital Basics
 Start Here
 ⚡
 What is a Computer?
