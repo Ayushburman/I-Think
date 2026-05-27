@@ -10,7 +10,7 @@
 > Theory
 > Software Engineering
 > Specializations
-Frontier AI / Research
+> Frontier AI / Research
 Future Computing
 Phase 00
 Foundations & Digital Basics
