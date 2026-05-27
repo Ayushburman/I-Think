@@ -24,7 +24,7 @@
 > I/O
 > Motherboard
 🔢
-Number Systems
+> Number Systems
 Binary, octal, hexadecimal. How machines count and represent everything.
 Binary
 Hex
