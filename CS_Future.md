@@ -20,7 +20,7 @@
 > Hardware components, electricity as information, how transistors work.
 > CPU
 > RAM
-Storage
+> Storage
 I/O
 Motherboard
 🔢
