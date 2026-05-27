@@ -19,7 +19,7 @@
 > What is a Computer?
 > Hardware components, electricity as information, how transistors work.
 > CPU
-RAM
+> RAM
 Storage
 I/O
 Motherboard
