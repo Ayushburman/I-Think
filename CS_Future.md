@@ -46,7 +46,7 @@
 > Pixels
 > Encoding
 🖥️
-Operating Systems Basics
+> Operating Systems Basics
 What an OS does, files, processes, terminal commands.
 Linux CLI
 File System
