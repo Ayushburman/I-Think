@@ -22,7 +22,7 @@
 > RAM
 > Storage
 > I/O
-Motherboard
+> Motherboard
 🔢
 Number Systems
 Binary, octal, hexadecimal. How machines count and represent everything.
