@@ -47,7 +47,7 @@
 > Encoding
 🖥️
 > Operating Systems Basics
-What an OS does, files, processes, terminal commands.
+> What an OS does, files, processes, terminal commands.
 Linux CLI
 File System
 Processes
