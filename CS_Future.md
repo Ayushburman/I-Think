@@ -36,7 +36,7 @@
 > AND, OR, NOT, XOR. Building computation from switches.
 > Truth Tables
 > Logic Gates
-Combinational
+> Combinational
 Karnaugh Maps
 💾
 Data Representation
