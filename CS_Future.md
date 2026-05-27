@@ -7,7 +7,7 @@
 > → Revolutionary Frontier Technologies
 > Foundations
 > Systems
-Theory
+> Theory
 Software Engineering
 Specializations
 Frontier AI / Research
