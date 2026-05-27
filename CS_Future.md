@@ -26,7 +26,7 @@
 🔢
 > Number Systems
 > Binary, octal, hexadecimal. How machines count and represent everything.
-Binary
+> Binary
 Hex
 Octal
 Base Conversion
