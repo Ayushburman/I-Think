@@ -37,7 +37,7 @@
 > Truth Tables
 > Logic Gates
 > Combinational
-Karnaugh Maps
+> Karnaugh Maps
 💾
 Data Representation
 How integers, floats, text, images, and sound are encoded in bits.
