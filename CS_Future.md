@@ -18,7 +18,7 @@
 
 > What is a Computer?
 > Hardware components, electricity as information, how transistors work.
-CPU
+> CPU
 RAM
 Storage
 I/O
