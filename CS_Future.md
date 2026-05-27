@@ -35,7 +35,7 @@
 > Boolean Logic & Gates
 > AND, OR, NOT, XOR. Building computation from switches.
 > Truth Tables
-Logic Gates
+> Logic Gates
 Combinational
 Karnaugh Maps
 💾
