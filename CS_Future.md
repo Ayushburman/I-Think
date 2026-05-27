@@ -14,7 +14,7 @@
 > Future Computing
 > Phase 00
 > Foundations & Digital Basics
-Start Here
+> Start Here
 ⚡
 What is a Computer?
 Hardware components, electricity as information, how transistors work.
