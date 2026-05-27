@@ -48,7 +48,7 @@
 🖥️
 > Operating Systems Basics
 > What an OS does, files, processes, terminal commands.
-Linux CLI
+> Linux CLI
 File System
 Processes
 Permissions
