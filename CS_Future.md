@@ -12,7 +12,7 @@
 > Specializations
 > Frontier AI / Research
 > Future Computing
-Phase 00
+> Phase 00
 Foundations & Digital Basics
 Start Here
 ⚡
