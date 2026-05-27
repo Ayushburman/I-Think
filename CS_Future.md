@@ -1,3 +1,4 @@
+```bash
 // complete knowledge map 
 · version 2026
 Computer Science
@@ -59,3 +60,4 @@ Proofs
 Functions
 Relations
 Induction
+```
