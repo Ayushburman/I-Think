@@ -43,7 +43,7 @@
 > How integers, floats, text, images, and sound are encoded in bits.
 > ASCII / Unicode
 > IEEE 754
-Pixels
+> Pixels
 Encoding
 🖥️
 Operating Systems Basics
