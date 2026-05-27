@@ -40,7 +40,7 @@
 > Karnaugh Maps
 💾
 > Data Representation
-How integers, floats, text, images, and sound are encoded in bits.
+> How integers, floats, text, images, and sound are encoded in bits.
 ASCII / Unicode
 IEEE 754
 Pixels
