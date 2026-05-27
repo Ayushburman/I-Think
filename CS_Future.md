@@ -17,7 +17,7 @@
 > Start Here
 
 > What is a Computer?
-Hardware components, electricity as information, how transistors work.
+> Hardware components, electricity as information, how transistors work.
 CPU
 RAM
 Storage
