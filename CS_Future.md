@@ -44,7 +44,7 @@
 > ASCII / Unicode
 > IEEE 754
 > Pixels
-Encoding
+> Encoding
 🖥️
 Operating Systems Basics
 What an OS does, files, processes, terminal commands.
