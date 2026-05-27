@@ -15,8 +15,8 @@
 > Phase 00
 > Foundations & Digital Basics
 > Start Here
-⚡
-What is a Computer?
+
+> What is a Computer?
 Hardware components, electricity as information, how transistors work.
 CPU
 RAM
