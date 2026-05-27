@@ -3,7 +3,7 @@
 > · version 2026
 > Computer Science
 > Roadmap
-From Bits & Logic
+> From Bits & Logic
 → Revolutionary Frontier Technologies
 Foundations
 Systems
