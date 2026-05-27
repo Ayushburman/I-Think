@@ -8,7 +8,7 @@
 > Foundations
 > Systems
 > Theory
-Software Engineering
+> Software Engineering
 Specializations
 Frontier AI / Research
 Future Computing
