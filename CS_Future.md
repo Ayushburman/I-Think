@@ -6,7 +6,7 @@
 > From Bits & Logic
 > → Revolutionary Frontier Technologies
 > Foundations
-Systems
+> Systems
 Theory
 Software Engineering
 Specializations
