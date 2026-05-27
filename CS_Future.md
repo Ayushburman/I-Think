@@ -27,7 +27,7 @@
 > Number Systems
 > Binary, octal, hexadecimal. How machines count and represent everything.
 > Binary
-Hex
+> Hex
 Octal
 Base Conversion
 2's Complement
