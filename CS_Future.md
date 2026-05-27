@@ -11,7 +11,7 @@
 > Software Engineering
 > Specializations
 > Frontier AI / Research
-Future Computing
+> Future Computing
 Phase 00
 Foundations & Digital Basics
 Start Here
