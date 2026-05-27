@@ -28,7 +28,7 @@
 > Binary, octal, hexadecimal. How machines count and represent everything.
 > Binary
 > Hex
-Octal
+> Octal
 Base Conversion
 2's Complement
 🔲
