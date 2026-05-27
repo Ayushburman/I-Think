@@ -39,7 +39,7 @@
 > Combinational
 > Karnaugh Maps
 💾
-Data Representation
+> Data Representation
 How integers, floats, text, images, and sound are encoded in bits.
 ASCII / Unicode
 IEEE 754
