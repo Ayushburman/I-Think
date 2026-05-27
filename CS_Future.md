@@ -9,7 +9,7 @@
 > Systems
 > Theory
 > Software Engineering
-Specializations
+> Specializations
 Frontier AI / Research
 Future Computing
 Phase 00
