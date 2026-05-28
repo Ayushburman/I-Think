@@ -18,6 +18,7 @@ Philosopher.
 Father of a Nation.
 
 A life
+
 that 
 
 transformed 
