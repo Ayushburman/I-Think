@@ -54,6 +54,7 @@ Years lived
 Days fasting (total)
 
 21
+
 Years in South Africa
 6
 Times imprisoned
