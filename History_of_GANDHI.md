@@ -9,6 +9,7 @@ Gandhi
 
 1869 — 30 
 January 1948
+
 Lawyer. Activist.
 Philosopher.
 Father of a Nation.
