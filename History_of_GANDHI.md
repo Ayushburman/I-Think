@@ -13,4 +13,5 @@ that
 transformed 
 the world's 
 understanding
-of nonviolent resistance.
+of
+nonviolent resistance.
