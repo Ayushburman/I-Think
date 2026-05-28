@@ -42,6 +42,7 @@ Personal
 Political Action
 
 Achievement
+
 Controversy
 78
 Years lived
