@@ -12,4 +12,5 @@ A life
 that 
 transformed 
 the world's 
-understanding of nonviolent resistance.
+understanding
+of nonviolent resistance.
