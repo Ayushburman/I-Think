@@ -50,6 +50,7 @@ Controversy
 Years lived
 
 241
+
 Days fasting (total)
 21
 Years in South Africa
