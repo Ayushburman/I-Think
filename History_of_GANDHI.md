@@ -26,6 +26,7 @@ transformed
 the world's 
 
 understanding
+
 of
 nonviolent
 resistance.
