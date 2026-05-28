@@ -4,6 +4,7 @@ Mohandas
 Karamchand
 
 Gandhi
+
 2 October 
 1869 — 30 
 January 1948
