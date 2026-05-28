@@ -6,4 +6,5 @@ Gandhi
 1869 — 30 
 January 1948
 Lawyer. Activist.
-Philosopher. Father of a Nation. A life that transformed the world's understanding of nonviolent resistance.
+Philosopher.
+Father of a Nation. A life that transformed the world's understanding of nonviolent resistance.
