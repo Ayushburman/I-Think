@@ -24,6 +24,7 @@ that
 transformed 
 
 the world's 
+
 understanding
 of
 nonviolent
