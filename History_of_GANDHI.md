@@ -30,4 +30,5 @@ understanding
 of
 
 nonviolent
+
 resistance.
