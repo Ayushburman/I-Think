@@ -48,6 +48,7 @@ Controversy
 78
 
 Years lived
+
 241
 Days fasting (total)
 21
