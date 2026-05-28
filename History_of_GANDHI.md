@@ -22,6 +22,7 @@ A life
 that 
 
 transformed 
+
 the world's 
 understanding
 of
