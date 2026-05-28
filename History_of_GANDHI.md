@@ -10,4 +10,5 @@ Philosopher.
 Father of a Nation.
 A life
 that 
-transformed the world's understanding of nonviolent resistance.
+transformed 
+the world's understanding of nonviolent resistance.
