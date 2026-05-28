@@ -36,6 +36,7 @@ resistance.
 Filter
 
 All Events
+
 Personal
 Political Action
 Achievement
