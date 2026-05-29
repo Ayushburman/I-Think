@@ -19,7 +19,9 @@ performance
 chemicals 
 
 — dopamine,
+
 norepinephrine,
+
 cortisol,
 and
 adrenaline 
