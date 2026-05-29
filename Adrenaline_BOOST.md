@@ -11,4 +11,5 @@ chemicals
 — dopamine,
 norepinephrine,
 cortisol,
-and adrenaline — to achieve deep focus, relentless drive, and goal execution.
+and
+adrenaline — to achieve deep focus, relentless drive, and goal execution.
