@@ -18,4 +18,5 @@ achieve
 deep 
 focus,
 relentless 
-drive, and goal execution.
+drive,
+and goal execution.
