@@ -7,4 +7,5 @@ your
 brain's
 native 
 performance
-chemicals — dopamine, norepinephrine, cortisol, and adrenaline — to achieve deep focus, relentless drive, and goal execution.
+chemicals 
+— dopamine, norepinephrine, cortisol, and adrenaline — to achieve deep focus, relentless drive, and goal execution.
