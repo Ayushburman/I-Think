@@ -1,17 +1,1 @@
-⚡ NEUROCHEMISTRY 
-
-× PERFORMANCE
-
-HACK 
-
-YOUR 
-
-ADRENALINE
-
-FOR 
-
-STUDY
-
-& 
-
-GOALS
+A complete operating manual for activating your brain's native performance chemicals — dopamine, norepinephrine, cortisol, and adrenaline — to achieve deep focus, relentless drive, and goal execution.
