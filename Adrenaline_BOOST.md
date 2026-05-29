@@ -23,6 +23,7 @@ chemicals
 norepinephrine,
 
 cortisol,
+
 and
 adrenaline 
 — to 
