@@ -16,4 +16,5 @@ adrenaline
 — to 
 achieve 
 deep 
-focus, relentless drive, and goal execution.
+focus,
+relentless drive, and goal execution.
