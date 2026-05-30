@@ -7,8 +7,6 @@ Every
 Essential Explained
 
 12
-
-
 Supplements
 
 2
