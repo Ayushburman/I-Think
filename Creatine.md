@@ -3,8 +3,6 @@ SMARTER
 Bodybuilding
 Supplement 
 Science — 
-
-
 Every
 
 
