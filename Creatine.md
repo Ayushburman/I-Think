@@ -1,7 +1,5 @@
 BUILD
 SMARTER
-
-
 Bodybuilding
 
 
