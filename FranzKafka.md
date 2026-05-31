@@ -26,4 +26,5 @@ us."
 — Letter 
 to 
 Oskar 
-Pollak, 1904
+Pollak,
+1904
