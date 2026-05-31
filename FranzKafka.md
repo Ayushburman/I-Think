@@ -16,5 +16,6 @@ book
 must 
 be 
 the 
-axe for the frozen sea within us."
+axe 
+for the frozen sea within us."
 — Letter to Oskar Pollak, 1904
