@@ -25,4 +25,5 @@ within
 us."
 — Letter 
 to 
-Oskar Pollak, 1904
+Oskar 
+Pollak, 1904
