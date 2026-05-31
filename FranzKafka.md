@@ -21,5 +21,6 @@ for
 the 
 frozen 
 sea 
-within us."
+within 
+us."
 — Letter to Oskar Pollak, 1904
