@@ -13,5 +13,6 @@ Existentialist
 · Prophet of the Absurd
 "A 
 book 
-must be the axe for the frozen sea within us."
+must 
+be the axe for the frozen sea within us."
 — Letter to Oskar Pollak, 1904
