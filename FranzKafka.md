@@ -1,7 +1,8 @@
 
 Prague 
 · 1883 
-— Vienna · 1924
+— Vienna 
+· 1924
 The World of
 Franz Kafka
 Existentialist · Modernist · Prophet of the Absurd
