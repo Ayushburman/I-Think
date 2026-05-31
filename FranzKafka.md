@@ -19,5 +19,6 @@ the
 axe 
 for 
 the 
-frozen sea within us."
+frozen 
+sea within us."
 — Letter to Oskar Pollak, 1904
