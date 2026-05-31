@@ -4,7 +4,8 @@ Prague
 — Vienna 
 · 1924
 The 
-World of
+World
+of
 Franz Kafka
 Existentialist · Modernist · Prophet of the Absurd
 "A book must be the axe for the frozen sea within us."
