@@ -7,7 +7,8 @@ Prague
 
 · 1924
 
-The 
+The
+
 World
 of
 Franz 
