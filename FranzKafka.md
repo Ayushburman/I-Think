@@ -23,4 +23,5 @@ frozen
 sea 
 within 
 us."
-— Letter to Oskar Pollak, 1904
+— Letter 
+to Oskar Pollak, 1904
